@@ -1,0 +1,26 @@
+{
+  "regiao": "Serra Norte",
+  "usinas": [
+    {
+      "usina": "USINA I",
+      "comentarios": "As principais perdas ocorreram no TR 117-06 e BSM 07 devido a um sensor de rasgo, no BSM07 com um cabo exposto no TR 117-07, e na PEN02 por baixa produtividade e perda de blend."
+    },
+    {
+      "usina": "USINA II",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA III",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA IV",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA V",
+      "comentarios": "Não houveram perdas significativas"
+    }
+  ],
+  "resumo_executivo": "Impacto devido à falha no sensor de rasgo do transportador na britagem semi imóvel, problemas com cabo exposto na britagem semi imóvel e baixa produtividade na peneiramento secundário causando perda de mistura."
+}

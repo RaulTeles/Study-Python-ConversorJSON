@@ -1,0 +1,73 @@
+{
+    "regiao": "Serra Norte",
+    "total_regiao": -69088,
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": -65731,
+            "eventos": [
+                {
+                    "quantidade": -34911,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "quantidade": -14155,
+                    "justificativa": "Principal Impacto: - PEN 2, baixa DF de linhas a partir de 00h ( LN2/PN 131-02, - LN6/PN 131-59, - LN8/PN 131-62 , - LN13/PN 131-13);"
+                },
+                {
+                    "quantidade": -11221,
+                    "justificativa": "Principal Impacto: BSM-02 parada devido sucata organica na PN-113-02"
+                },
+                {
+                    "quantidade": -3753,
+                    "justificativa": "Principal Impacto: TR 1100-02/BSM 2 e 06, parou com falha de inversor pré-carga ativa"
+                },
+                {
+                    "quantidade": -2278,
+                    "justificativa": "Principal Impacto: - TR 1100-02/BSM 2 e 06, parou com falha de inversor devido temperatura alta na SE 1100-102;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 100,
+            "eventos": []
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": -8038,
+            "eventos": [
+                {
+                    "quantidade": -5344,
+                    "justificativa": "Principal Impacto: - Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva;"
+                },
+                {
+                    "quantidade": -3771,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "quantidade": -1421,
+                    "justificativa": "Principal Impacto: Baixa produtividade no REP-02 e 06 proveniente do material do PUL-625 e DF da ESC-0901"
+                },
+                {
+                    "quantidade": -1386,
+                    "justificativa": "Principal Impacto: > Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva. Após recompondo pulmão."
+                },
+                {
+                    "quantidade": -17,
+                    "justificativa": "Principal Impacto:"
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 100,
+            "eventos": []
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 100,
+            "eventos": []
+        }
+    ]
+}

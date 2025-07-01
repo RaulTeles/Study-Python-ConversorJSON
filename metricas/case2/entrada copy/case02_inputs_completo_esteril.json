@@ -1,0 +1,762 @@
+{
+  "tipo": "Estéril",
+  "sistemas": [
+    {
+      "sistema": "MCR11",
+      "totalSistema": 0,
+      "equipamentos": [
+        {
+          "equipamento": "MCAL1080KS11",
+          "totalEquipamento": 0,
+          "saldoDF": 40.159,
+          "HMC": [],
+          "saldoUF": -86.916,
+          "HOI": [
+            {
+              "duracaoAjustada": 37.90,
+              "UF": 34.0,
+              "DF": 87.0,
+              "taxa": 1.300,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Parado por formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 35.47,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS11",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 30.19,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Aguardando formação de pilha",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 24.07,
+              "UF": 34.0,
+              "DF": 87.0,
+              "taxa": 1.300,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas. Produção a ser realizada em oportunidade no caso de lavra seletiva. Em oportunidade realizada a troca rolos.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 15.84,
+              "UF": 44.0,
+              "DF": 66.7,
+              "taxa": 1.311,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Disponível, sem programação em função da priorização formação de pilhas nos sistemas/slms.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 14.98,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Manutenção Preventiva",
+              "falha": "Limpeza de equipamento",
+              "EGP": "TR1080KS36",
+              "observacao": "Disponível sem programação em função parada 5ª Britagem/Overland 1083.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 14.58,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 10.02,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Aguardando formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 10.0,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Atraso Manutenção Preventiva",
+              "falha": "Execução do Serviço",
+              "EGP": "TR1083KS01",
+              "observacao": "Atraso de manutenção preventiva.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 6.83,
+              "UF": 34.0,
+              "DF": 87.0,
+              "taxa": 1.300,
+              "causa": "Componentes de controle e medição",
+              "falha": "Ajuste/Calibração Sensor de posição",
+              "EGP": "EE1083KS01",
+              "observacao": "Falha de inclinação do MTS",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 5.58,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Falta de Alimentação",
+              "falha": "Movimentação de material na praça",
+              "EGP": "BM1080KS11",
+              "observacao": "Aguardando formação de pilha",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.92,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Eixo Dianteiro - Roda Dd",
+              "falha": "Pneu",
+              "EGP": "PC1014KS33",
+              "observacao": "Parado para realizar calibração dos pneus.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 0,
+              "UF": 34.0,
+              "DF": 87.0,
+              "taxa": 1.300,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.23,
+              "UF": 59.0,
+              "DF": 50.0,
+              "taxa": 1.304,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.14,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Correia",
+              "falha": "Cortando tira de correia",
+              "EGP": "TR1083KS01",
+              "observacao": "Parada por atuação rip cord TR1083KS01 XS1009B.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.44,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Parado para Formação de Pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.41,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Componentes de comando, proteção e controle",
+              "falha": "Falha Chave de desalinhamento",
+              "EGP": "TR1083KS03",
+              "observacao": "Desalinhamento ZXS3021B (Troca da chave)",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.28,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 2.58,
+              "UF": 34.0,
+              "DF": 87.5,
+              "taxa": 1.293,
+              "causa": "Componentes de comando, proteção e controle",
+              "falha": "Falha Chave de desalinhamento",
+              "EGP": "TR1083KS03",
+              "observacao": "Ajuste da chave de desalinhamento ZXS-3011B.",
+              "perda": 0
+            }
+          ],
+          "saldoTaxa": 11.517,
+          "taxaHora": []
+        }
+      ]
+    },
+    {
+      "sistema": "MCR12",
+      "totalSistema": 0,
+      "equipamentos": [
+        {
+          "equipamento": "MCAL1080KS12",
+          "totalEquipamento": 0,
+          "saldoDF": 21.690,
+          "HMC": [],
+          "saldoUF": -52.997,
+          "HOI": [
+            {
+              "duracaoAjustada": 34.41,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Parado sem programação (Aguardando planejamento)",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 29.69,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS12",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 28.36,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 18.68,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Aguardando formação de pilha",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 15.16,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Manutenção Preventiva",
+              "falha": "Limpeza de equipamento",
+              "EGP": "TR1080KS36",
+              "observacao": "Disponível sem programação em função parada 5ª Britagem/Overland 1083.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 13.62,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 10.52,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Aguardando formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 10.00,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Atraso Manutenção Preventiva",
+              "falha": "Execução do Serviço",
+              "EGP": "TR1083KS01",
+              "observacao": "Atraso de manutenção preventiva.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 7.18,
+              "UF": 52.9,
+              "DF": 50.0,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 7.06,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 6.72,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Aguardando formação de pilha",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 5.62,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Aguardando formação de pilha",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 5.27,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Em função da priorização de formação das pilhas dos sistemas na convencional.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 5.25,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Indisponibilidade de equipamentos de mina",
+              "EGP": "MCAL1080KS12",
+              "observacao": "PC33 Falha na sirene de ré",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 5.21,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Aguardando formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.81,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Parado para formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.65,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Acúmulo de material",
+              "falha": "Chave de desalinhamento",
+              "EGP": "TR1083KS02",
+              "observacao": "TR8302 Atuado chave de emergência. Troca da chave de desalinhamento da cauda.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.63,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Indisponibilidade de equipamentos de mina",
+              "EGP": "MCAL1080KS12",
+              "observacao": "PC33",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.16,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Correia",
+              "falha": "Cortando tira de correia",
+              "EGP": "TR1083KS01",
+              "observacao": "Parada por atuação rip cord TR1083KS01 XS1009B",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.82,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Parada operacional",
+              "falha": "Inspeção operacional",
+              "EGP": "MCAL1080KS12",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.11,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Indisponibilidade de equipamentos de mina",
+              "EGP": "MCAL1080KS12",
+              "observacao": "PC33",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 2.64,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Componentes de comando, proteção e controle",
+              "falha": "Falha Chave de desalinhamento",
+              "EGP": "TR1083KS03",
+              "observacao": "Ajuste da chave de desalinhamento ZXS-3011B.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 2.49,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Parada operacional",
+              "falha": "Indisp. Equip. Mina - Transporte",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Falta de Operador da PC-33.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 2.44,
+              "UF": 31.6,
+              "DF": 83.8,
+              "taxa": 1.309,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS12",
+              "observacao": "Formação de pilha. Em oportunidade realizada a limpeza com escavadeira de material acumulado no interior da moega.",
+              "perda": 0
+            }
+          ],
+          "saldoTaxa": -2.799,
+          "taxaHora": [
+            {
+              "duracaoAjustada": 6.61,
+              "UF": 43.0,
+              "DF": 91.7,
+              "taxa": 6.871,
+              "causa": "PLC e Remota",
+              "falha": "Falha de Comunicação",
+              "EGP": "MSAL1080KS04",
+              "observacao": "Perca de interface com o COI, falha de comunicação.",
+              "perda": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sistema": "MCR13",
+      "totalSistema": 0,
+      "equipamentos": [
+        {
+          "equipamento": "MCAL1080KS13",
+          "totalEquipamento": 0,
+          "saldoDF": 18.076,
+          "HMC": [
+            {
+              "duracaoAjustada": 3.11,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Abanadeira",
+              "falha": "Quebra/Trinca",
+              "EGP": "MCBR1080KS13",
+              "observacao": "Inspeção na abanadeira do britador (aguardando diagnostico).",
+              "perda": 0
+            }
+          ],
+          "saldoUF": -80.361,
+          "HOI": [
+            {
+              "duracaoAjustada": 52.88,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas. Produção a ser realizada em oportunidade no caso de lavra seletiva.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 27.87,
+              "UF": 34.9,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Obstrução",
+              "falha": "Matacão / Lamelar",
+              "EGP": "MCBR1080KS13",
+              "observacao": "Bloco na câmara de britagem, realizado a quebra com rompedor.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 15.29,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Manutenção Preventiva",
+              "falha": "Limpeza de equipamento",
+              "EGP": "TR1080KS36",
+              "observacao": "Disponível sem programação em função parada 5ª Britagem/Overland 1083.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 11.66,
+              "UF": 34.9,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS13",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 10.00,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Atraso Manutenção Preventiva",
+              "falha": "Execução do Serviço",
+              "EGP": "TR1083KS01",
+              "observacao": "Atraso de manutenção preventiva.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 9.85,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Freio",
+              "falha": "desregulagem",
+              "EGP": "MTTR1083KS01",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 9.57,
+              "UF": 34.9,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 8.32,
+              "UF": 34.9,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Parada operacional",
+              "falha": "Nível baixo",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Parado Para formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 7.03,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS13",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.96,
+              "UF": 34.9,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Aguardando formação de pilha",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.40,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS13",
+              "observacao": "",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.16,
+              "UF": 35.0,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Correia",
+              "falha": "Cortando tira de correia",
+              "EGP": "TR1083KS01",
+              "observacao": "Parada por atuação rip cord TR1083KS01 XS1009B",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 4.00,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Aguardando formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.70,
+              "UF": 35.0,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional, em operação com BM11.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.43,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Parada operacional",
+              "falha": "Aguardando planejamento",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Não programado em função da falta de equipamento de carga disponível.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 3.41,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Componentes de comando, proteção e controle",
+              "falha": "Falha Chave de desalinhamento",
+              "EGP": "TR1083KS03",
+              "observacao": "Desalinhamento ZXS3021B (Troca da chave)",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 2.95,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Transmis Forca - Transmissao",
+              "falha": "Transmissao",
+              "EGP": "PC1014KS31",
+              "observacao": "PC31 Nível baixo do óleo de transmissão.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 2.94,
+              "UF": 33.8,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Aguardando formação de pilha.",
+              "perda": 0
+            },
+            {
+              "duracaoAjustada": 2.55,
+              "UF": 34.9,
+              "DF": 91.7,
+              "taxa": 1.312,
+              "causa": "Falta de Alimentação",
+              "falha": "Nível baixo de pilha",
+              "EGP": "MCAL1080KS13",
+              "observacao": "Em Formação de pilha.",
+              "perda": 0
+            }
+          ],
+          "saldoTaxa": 9.395,
+          "taxaHora": []
+        }
+      ]
+    }
+  ]
+}

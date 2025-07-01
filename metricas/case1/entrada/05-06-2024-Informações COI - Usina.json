@@ -1,0 +1,61 @@
+{
+    "regiao": "Serra Norte",
+    "total_regiao": -33358,
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 100,
+            "eventos": []
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": -50741,
+            "eventos": [
+                {
+                    "quantidade": -18891,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "quantidade": -11125,
+                    "justificativa": "Principal impacto: TR 3011-19/Bloco B parado devido vazamento no chute"
+                },
+                {
+                    "quantidade": -10163,
+                    "justificativa": "Principal impacto: BSM05: falta de alimentação devido DF de retro e moega cheia de material;"
+                },
+                {
+                    "quantidade": -6396,
+                    "justificativa": "Principal impacto: - Descontaminação da classificação que está produzindo FASN, no D veio programado SFLS;"
+                },
+                {
+                    "quantidade": -4413,
+                    "justificativa": "Principal impacto:  Classificação baixa produtividade  DF de britadores, "
+                },
+                {
+                    "quantidade": -2889,
+                    "justificativa": "Principal impacto: - Descontaminação da classificação que está produzindo FASN, No D veio programado SFLS;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 100,
+            "eventos": []
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": -3792,
+            "eventos": [
+                {
+                    "quantidade": -3792,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 100,
+            "eventos": []
+        }
+    ]
+}

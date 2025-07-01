@@ -1,0 +1,241 @@
+{
+  "tipo": "Estéril",
+  "buildUp_tecnico": [
+    {
+      "sistema": "5ª Britagem",
+      "total_sistema": -122,
+      "indicadores": [
+        {
+          "tipo": "UF",
+          "total_indicador": -220,
+          "detalhes": [
+            {
+              "saldo": -22,
+              "justificativa": "A produção de estéril não programada foi priorizada para recomposição das pilhas."
+            },
+            {
+              "saldo": -19,
+              "justificativa": "A formação da pilha resultou em falta de alimentação."
+            },
+            {
+              "saldo": -17,
+              "justificativa": "A limpeza do equipamento foi realizada durante a parada da 5ª Britagem."
+            },
+            {
+              "saldo": -15,
+              "justificativa": "O equipamento parou devido ao nível baixo da pilha durante a formação."
+            },
+            {
+              "saldo": -14,
+              "justificativa": "Parada operacional à espera de planejamento."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Aguardando formação de pilha devido à falta de alimentação."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Parada operacional sem programação, aguardando planejamento."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Obstrução na câmara de britagem, resolvida com rompedor."
+            },
+            {
+              "saldo": -11,
+              "justificativa": "Execução atrasada de manutenção preventiva."
+            },
+            {
+              "saldo": -10,
+              "justificativa": "Parada operacional à espera de planejamento."
+            },
+            {
+              "saldo": -10,
+              "justificativa": "Aguardando formação de pilha devido ao nível baixo da mesma."
+            },
+            {
+              "saldo": -9,
+              "justificativa": "Produção de estéril não programada para priorizar recomposição das pilhas e troca de rolos."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Parada operacional sem programação para formação de pilhas nos sistemas."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Falta de alimentação devido ao nível baixo da pilha."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -5,
+              "justificativa": "Parada operacional sem programação, aguardando planejamento."
+            },
+            {
+              "saldo": -5,
+              "justificativa": "Nível baixo da pilha resultando em falta de alimentação."
+            },
+            {
+              "saldo": -4,
+              "justificativa": "Aguardando formação de pilha devido ao nível baixo da mesma."
+            },
+            {
+              "saldo": -4,
+              "justificativa": "Desregulagem do freio, necessitando ajuste."
+            },
+            {
+              "saldo": -4,
+              "justificativa": "Formação de pilha resultando em falta de alimentação."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Ajuste e calibração do sensor de posição devido a falha de inclinação."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Indisponibilidade de equipamentos de mina, resultando em falta de alimentação."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Parada por atuação do rip cord na correia."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Parada para formação de pilha devido ao nível baixo."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Aguardando formação de pilha devido ao nível baixo."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Aguardando formação de pilha por movimentação de material na praça."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parado para calibração dos pneus do eixo dianteiro."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parada operacional sem programação, priorizando formação de pilhas."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parada por atuação do rip cord na correia."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Troca da chave de desalinhamento devido a falha."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Ajuste da chave de desalinhamento."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Formação de pilhas na convencional foi priorizada."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Indisponibilidade de equipamentos de mina devido a falha na sirene de ré."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parado para formação de pilha devido ao nível baixo."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Troca da chave de desalinhamento da cauda devido a acúmulo de material."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Aguardando formação de pilha devido ao nível baixo."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parada operacional sem programação, priorizando formação de pilhas na convencional."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Parado para formação de pilha devido ao nível baixo."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Formação de pilha devido ao nível baixo."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Parada para inspeção operacional."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Indisponibilidade de equipamentos de mina devido à falta de operador."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Formação de pilha e limpeza com escavadeira de material acumulado."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Parada operacional não programada por falta de equipamento de carga."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Nível baixo do óleo de transmissão."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Em formação de pilha devido ao nível baixo."
+            },
+            {
+              "saldo": 32,
+              "justificativa": "Compensação por dias com maior utilização física."
+            }
+          ]
+        },
+        {
+          "tipo": "taxa",
+          "total_indicador": 18,
+          "detalhes": [
+            {
+              "saldo": -18,
+              "justificativa": "Falha de comunicação com o COI, resultando em perda de interface."
+            },
+            {
+              "saldo": 36,
+              "justificativa": "Compensação por dias com maior taxa horária."
+            }
+          ]
+        },
+        {
+          "tipo": "DF",
+          "total_indicador": 80,
+          "detalhes": [
+            {
+              "saldo": -1,
+              "justificativa": "Inspeção na abanadeira do britador, aguardando diagnóstico."
+            },
+            {
+              "saldo": 81,
+              "justificativa": "Compensação por dias com maior disponibilidade física."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buildUp_semanal": [
+    {
+      "sistema": "5ª Britagem",
+      "buildUp": "-**-220Kt Utilização Física**\n\t-**-22Kt** A produção de estéril não programada foi priorizada para recomposição das pilhas.\n\t-**-19Kt** A formação da pilha resultou em falta de alimentação.\n\t-**-17Kt** A limpeza do equipamento foi realizada durante a parada da 5ª Britagem.\n\t-**-15Kt** O equipamento parou devido ao nível baixo da pilha durante a formação.\n\t-**-14Kt** Parada operacional à espera de planejamento.\n\t-**-12Kt** Aguardando formação de pilha devido à falta de alimentação.\n\t-**-12Kt** Parada operacional sem programação, aguardando planejamento.\n\t-**-12Kt** Obstrução na câmara de britagem, resolvida com rompedor.\n\t-**-11Kt** Execução atrasada de manutenção preventiva.\n\t-**-10Kt** Parada operacional à espera de planejamento.\n\t-**-10Kt** Aguardando formação de pilha devido ao nível baixo da mesma.\n\t-**-9Kt** Produção de estéril não programada para priorizar recomposição das pilhas e troca de rolos.\n\t-**-6Kt** Parada operacional sem programação para formação de pilhas nos sistemas.\n\t-**-6Kt** Falta de alimentação devido ao nível baixo da pilha.\n\t-**-6Kt** Aguardando formação de pilha.\n\t-**-5Kt** Parada operacional sem programação, aguardando planejamento.\n\t-**-5Kt** Nível baixo da pilha resultando em falta de alimentação.\n\t-**-4Kt** Aguardando formação de pilha devido ao nível baixo da mesma.\n\t-**-4Kt** Desregulagem do freio, necessitando ajuste.\n\t-**-4Kt** Formação de pilha resultando em falta de alimentação.\n\t-**-3Kt** Ajuste e calibração do sensor de posição devido a falha de inclinação.\n\t-**-3Kt** Indisponibilidade de equipamentos de mina, resultando em falta de alimentação.\n\t-**-3Kt** Parada por atuação do rip cord na correia.\n\t-**-3Kt** Parada para formação de pilha devido ao nível baixo.\n\t-**-3Kt** Aguardando formação de pilha devido ao nível baixo.\n\t-**-2Kt** Aguardando formação de pilha por movimentação de material na praça.\n\t-**-2Kt** Parado para calibração dos pneus do eixo dianteiro.\n\t-**-2Kt** Parada operacional sem programação, priorizando formação de pilhas.\n\t-**-2Kt** Parada por atuação do rip cord na correia.\n\t-**-2Kt** Troca da chave de desalinhamento devido a falha.\n\t-**-2Kt** Ajuste da chave de desalinhamento.\n\t-**-2Kt** Formação de pilhas na convencional foi priorizada.\n\t-**-2Kt** Indisponibilidade de equipamentos de mina devido a falha na sirene de ré.\n\t-**-2Kt** Parado para formação de pilha devido ao nível baixo.\n\t-**-2Kt** Troca da chave de desalinhamento da cauda devido a acúmulo de material.\n\t-**-2Kt** Aguardando formação de pilha devido ao nível baixo.\n\t-**-2Kt** Parada operacional sem programação, priorizando formação de pilhas na convencional.\n\t-**-1Kt** Parado para formação de pilha devido ao nível baixo.\n\t-**-1Kt** Formação de pilha devido ao nível baixo.\n\t-**-1Kt** Parada para inspeção operacional.\n\t-**-1Kt** Indisponibilidade de equipamentos de mina devido à falta de operador.\n\t-**-1Kt** Formação de pilha e limpeza com escavadeira de material acumulado.\n\t-**-1Kt** Parada operacional não programada por falta de equipamento de carga.\n\t-**-1Kt** Nível baixo do óleo de transmissão.\n\t-**-1Kt** Em formação de pilha devido ao nível baixo.\n\t-**+32Kt** Compensação por dias com maior utilização física.\n-**+18Kt Taxa Horária**\n\t-**-18Kt** Falha de comunicação com o COI, resultando em perda de interface.\n\t-**+36Kt** Compensação por dias com maior taxa horária.\n-**+80Kt Disponibilidade Física**\n\t-**-1Kt** Inspeção na abanadeira do britador, aguardando diagnóstico.\n\t-**+81Kt** Compensação por dias com maior disponibilidade física."
+    }
+  ],
+  "resumo_executivo": [
+    {
+      "sistema": "5ª Britagem",
+      "resumo": "-220 A produção de estéril não programada foi priorizada para recomposição das pilhas."
+    }
+  ]
+}

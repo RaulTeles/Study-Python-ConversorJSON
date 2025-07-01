@@ -1,0 +1,610 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/21/2024",
+                    "hora": "1h",
+                    "quantidade": 2884,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "2h",
+                    "quantidade": 1295,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "3h",
+                    "quantidade": 1001,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "4h",
+                    "quantidade": -90,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "5h",
+                    "quantidade": -61,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "6h",
+                    "quantidade": 546,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "7h",
+                    "quantidade": -575,
+                    "justificativa": "Impacto Principal: - Baixa Produtividade LUN pontuado PUL BSM3;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "8h",
+                    "quantidade": -477,
+                    "justificativa": "Impacto Principal: - Baixa Produtividade LUN pontuado PUL BSM3;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "9h",
+                    "quantidade": -5384,
+                    "justificativa": "Impacto Principal: - PEN2: Corte na alimentação devido nivel da pilha de pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "10h",
+                    "quantidade": -5123,
+                    "justificativa": "Impacto Principal: - PEN2: Corte na alimentação devido nivel da pilha de pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "11h",
+                    "quantidade": -3601,
+                    "justificativa": "Impacto Principal: - PEN2: Corte na alimentação devido nivel da pilha de pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "12h",
+                    "quantidade": -3563,
+                    "justificativa": "Impacto Principal:  PEN2:TR 131-50 falha na leiura de nivel;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "13h",
+                    "quantidade": -481,
+                    "justificativa": "Impacto Principal:  PEN2: Baixa Produtividade LUN pontuado PUL BSM3, ESC 1002 N5E-640-CV1-U-A e  0902 N4WS-535-CV3-W-B (vigente);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "14h",
+                    "quantidade": -1541,
+                    "justificativa": "Impacto Principal:  PEN2: Baixa Produtividade LUN pontuado PUL BSM3, ESC 1002 N5E-640-CV1-U-A e  0902 N4WS-535-CV3-W-B (vigente);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "15h",
+                    "quantidade": -1605,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "16h",
+                    "quantidade": -428,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "17h",
+                    "quantidade": 440,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "18h",
+                    "quantidade": -2460,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "19h",
+                    "quantidade": -885,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "20h",
+                    "quantidade": -1184,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "21h",
+                    "quantidade": -506,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "22h",
+                    "quantidade": -1062,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "23h",
+                    "quantidade": -2302,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "24h",
+                    "quantidade": -3654,
+                    "justificativa": "Impacto Principal:  PEN2: Restrição na taxa das linhas umidade natural  devido alto estoque na pilha de Pebble;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/21/2024",
+                    "hora": "1h",
+                    "quantidade": 1520,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "2h",
+                    "quantidade": 1276,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "3h",
+                    "quantidade": 1007,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "4h",
+                    "quantidade": -179,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "5h",
+                    "quantidade": -859,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "6h",
+                    "quantidade": 1341,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "7h",
+                    "quantidade": 702,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "8h",
+                    "quantidade": -193,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "9h",
+                    "quantidade": 520,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "10h",
+                    "quantidade": 148,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "11h",
+                    "quantidade": -1907,
+                    "justificativa": "Impacto Principal: -Classificação/TR 3011-22 reparo na emenda;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "12h",
+                    "quantidade": -1041,
+                    "justificativa": "Impacto Principal: -Classificação/TR 3011-22 reparo na emenda;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "13h",
+                    "quantidade": 892,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "14h",
+                    "quantidade": 74,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "15h",
+                    "quantidade": 270,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "16h",
+                    "quantidade": 665,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "17h",
+                    "quantidade": 286,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "18h",
+                    "quantidade": 503,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "19h",
+                    "quantidade": 733,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "20h",
+                    "quantidade": 1097,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "21h",
+                    "quantidade": 1580,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "22h",
+                    "quantidade": 145,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "23h",
+                    "quantidade": 1693,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "24h",
+                    "quantidade": 423,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/21/2024",
+                    "hora": "1h",
+                    "quantidade": -1868,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "2h",
+                    "quantidade": -2191,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "3h",
+                    "quantidade": -1929,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "4h",
+                    "quantidade": -1550,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "5h",
+                    "quantidade": -518,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "6h",
+                    "quantidade": -479,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "7h",
+                    "quantidade": -835,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "8h",
+                    "quantidade": -528,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "9h",
+                    "quantidade": -307,
+                    "justificativa": "Impacto Principal: - Baixa oferta de ROM dado à lavra seletiva a maior no estéril da ESC 0903 (Pulmões BSM 3 e 7 priorizando US 1);"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "10h",
+                    "quantidade": 584,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "11h",
+                    "quantidade": -887,
+                    "justificativa": "Impacto Principal: - LN 1230-21/REP02, vazamento chapa lateral da moega, LN 22 parada por condição de segurança, REP6 corte na alimentação condição de segurança (avaliação praça de alimentação)"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "12h",
+                    "quantidade": -1036,
+                    "justificativa": "Impacto Principal: - LN 1230-21/REP02, vazamento chapa lateral da moega, LN 22 parada por condição de segurança, REP6 corte na alimentação condição de segurança (avaliação praça de alimentação)"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "13h",
+                    "quantidade": -2313,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "14h",
+                    "quantidade": -2263,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "15h",
+                    "quantidade": -2141,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "16h",
+                    "quantidade": -1911,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "17h",
+                    "quantidade": -2263,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "18h",
+                    "quantidade": -2241,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "19h",
+                    "quantidade": -1588,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "20h",
+                    "quantidade": -1377,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "21h",
+                    "quantidade": 402,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "22h",
+                    "quantidade": -269,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "23h",
+                    "quantidade": -857,
+                    "justificativa": "Impacto Principal: - Indisponibilidade de Alimentadores pilha de FRD: AL 01,02 empacotamento e 03,04 travamento;"
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "24h",
+                    "quantidade": 496,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/21/2024",
+                    "hora": "1h",
+                    "quantidade": 15,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "2h",
+                    "quantidade": 36,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "3h",
+                    "quantidade": 90,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "4h",
+                    "quantidade": 84,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "5h",
+                    "quantidade": 90,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "6h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "7h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "8h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "9h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "10h",
+                    "quantidade": 2,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "11h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "12h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "13h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "14h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "15h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "16h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "17h",
+                    "quantidade": 2,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "18h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "19h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "20h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "21h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "22h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "23h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/21/2024",
+                    "hora": "24h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

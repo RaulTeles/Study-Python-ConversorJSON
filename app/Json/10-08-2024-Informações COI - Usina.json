@@ -1,0 +1,610 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/10/2024",
+                    "hora": "1h",
+                    "quantidade": -3234,
+                    "justificativa": "Principal Impacto:   - EP 151-04: Falha de comunicação, estouro cabo de alimentação;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "2h",
+                    "quantidade": -1498,
+                    "justificativa": "Principal Impacto: - PEN 02: Baixa produtividade, material umido e argiloso (PUL BSM 06), ausência do blend ESC 0901:"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "3h",
+                    "quantidade": -1426,
+                    "justificativa": "Principal Impacto: - PEN 02: Baixa produtividade, material umido e argiloso (PUL BSM 06), ausência do blend ESC 0901:"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "4h",
+                    "quantidade": -906,
+                    "justificativa": "Principal Impacto: - PEN 02: Baixa produtividade, material umido e argiloso (PUL BSM 06);"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "5h",
+                    "quantidade": -114,
+                    "justificativa": "Principal Impacto: - PEN 02: Baixa produtividade, material umido e argiloso (PUL BSM 06);"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "6h",
+                    "quantidade": 1302,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "7h",
+                    "quantidade": -469,
+                    "justificativa": "Principal Impacto: baixa oferta dado a priorização da alimentação de N4 via US2 devido a corretiva de equipamento de carga e corretiva no TR do circuito da flex, bem como a baixa produtividade da ESC0901 em M1 por praça estreita."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "8h",
+                    "quantidade": -4383,
+                    "justificativa": "Principal Impacto: baixa oferta dado a priorização da alimentação de N4 via US2 devido a corretiva de equipamento de carga e corretiva no TR do circuito da flex, bem como a baixa produtividade da ESC0901 em M1 por praça estreita."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "9h",
+                    "quantidade": -833,
+                    "justificativa": "Principal Impacto: baixa oferta dado a priorização da alimentação de N4 via US2 devido a corretiva de equipamento de carga e corretiva no TR do circuito da flex, bem como a baixa produtividade da ESC0901 em M1 por praça estreita."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "10h",
+                    "quantidade": -56,
+                    "justificativa": "Principal Impacto: limpeza de tela."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "11h",
+                    "quantidade": 4088,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "12h",
+                    "quantidade": -153,
+                    "justificativa": "Principal Impacto: TR 151-08/EP06 Parada devido velocidade baixa"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "13h",
+                    "quantidade": -1145,
+                    "justificativa": "Principal Impacto: baixa oferta de ROM do eixo N4WS por acerto de na ESC 0907."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "14h",
+                    "quantidade": 508,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "15h",
+                    "quantidade": -1461,
+                    "justificativa": "Principal Impacto: EP 151-04/Circ. Principal: falha na translação."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "16h",
+                    "quantidade": 5094,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "17h",
+                    "quantidade": -997,
+                    "justificativa": "Principal Impacto: "
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "18h",
+                    "quantidade": -3,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "19h",
+                    "quantidade": -374,
+                    "justificativa": "Principal Impacto:  baixa oferta devido troca de tunro mina "
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "20h",
+                    "quantidade": -2441,
+                    "justificativa": "Principal Impacto:  PEN02> linhas úmidos paradas Incêndio na vegetação pegando no bandejamento da SE 1320"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "21h",
+                    "quantidade": -3769,
+                    "justificativa": "Principal Impacto:  PEN02> linhas úmidos paradas Incêndio na vegetação pegando no bandejamento da SE 1320"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "22h",
+                    "quantidade": -3292,
+                    "justificativa": "Principal Impacto:  PEN02> linhas úmidos paradas Incêndio na vegetação pegando no bandejamento da SE 1320"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "23h",
+                    "quantidade": -3191,
+                    "justificativa": "Principal Impacto:  PEN02> linhas úmidos paradas Incêndio na vegetação pegando no bandejamento da SE 1320"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "24h",
+                    "quantidade": -3324,
+                    "justificativa": "Principal Impacto:  PEN02> linhas úmidos paradas Incêndio na vegetação pegando no bandejamento da SE 1320"
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/10/2024",
+                    "hora": "1h",
+                    "quantidade": 172,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "2h",
+                    "quantidade": 627,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "3h",
+                    "quantidade": 666,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "4h",
+                    "quantidade": 2905,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "5h",
+                    "quantidade": 1614,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "6h",
+                    "quantidade": -1651,
+                    "justificativa": "Principal Impacto:  TR3011-24/Classificação material argiloso "
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "7h",
+                    "quantidade": -2031,
+                    "justificativa": "Principal Impacto:  TR3011-24/Classificação material argiloso "
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "8h",
+                    "quantidade": 331,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "9h",
+                    "quantidade": 2469,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "10h",
+                    "quantidade": -520,
+                    "justificativa": "Principal Impacto:  limpeza no DP5010-01"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "11h",
+                    "quantidade": 2307,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "12h",
+                    "quantidade": 2195,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "13h",
+                    "quantidade": 3156,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "14h",
+                    "quantidade": 685,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "15h",
+                    "quantidade": -847,
+                    "justificativa": "Principal Impacto: baixa oferta na BSM05 devido abastecimento de Pá."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "16h",
+                    "quantidade": 1115,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "17h",
+                    "quantidade": -839,
+                    "justificativa": "Principal Impacto: baixa oferta na BSM05 devido abastecimento de Pá."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "18h",
+                    "quantidade": -313,
+                    "justificativa": "Principal Impacto: baixa oferta na BSM05 devido abastecimento de Pá."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "19h",
+                    "quantidade": 273,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "20h",
+                    "quantidade": 1553,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "21h",
+                    "quantidade": 3138,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "22h",
+                    "quantidade": 3290,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "23h",
+                    "quantidade": 666,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "24h",
+                    "quantidade": 1701,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/10/2024",
+                    "hora": "1h",
+                    "quantidade": -2502,
+                    "justificativa": "Principal Impacto:   - REP 02,06: Baixa oferta de ROM, ESC 0901 manutenção corretiva;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "2h",
+                    "quantidade": -835,
+                    "justificativa": "Principal Impacto:   - REP 02,06: Baixa oferta de ROM, ESC 0901 manutenção corretiva;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "3h",
+                    "quantidade": -1640,
+                    "justificativa": "Principal Impacto:   - REP 02,06: Baixa oferta de ROM, ESC 0901 priorizando US1 para correção de blend."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "4h",
+                    "quantidade": 167,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "5h",
+                    "quantidade": -812,
+                    "justificativa": "Principal Impacto:   - REP 06: indisponibilidade de linhas, LN 24/ TR 1230-66 troca das guias, LN 26/TR 1230-70: troca da correia;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "6h",
+                    "quantidade": -1532,
+                    "justificativa": "Principal Impacto:   - REP 06: indisponibilidade de linhas, LN 24/ TR 1230-66 troca das guias, LN 26/TR 1230-70: troca da correia;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "7h",
+                    "quantidade": -1772,
+                    "justificativa": "Principal Impacto:   - REP 06: indisponibilidade de linhas, LN 24/ TR 1230-66 troca das guias, LN 26/TR 1230-70: troca da correia;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "8h",
+                    "quantidade": -2050,
+                    "justificativa": "Principal Impacto:   - REP 06: indisponibilidade de linhas, LN 24/ TR 1230-66 troca das guias, LN 26/TR 1230-70: troca da correia;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "9h",
+                    "quantidade": -739,
+                    "justificativa": "Principal Impacto:   - REP 06: indisponibilidade de linhas, LN 24/ TR 1230-66 troca das guias, LN 26/TR 1230-70: troca da correia;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "10h",
+                    "quantidade": 556,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "11h",
+                    "quantidade": 112,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "12h",
+                    "quantidade": 84,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "13h",
+                    "quantidade": 1798,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "14h",
+                    "quantidade": 1520,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "15h",
+                    "quantidade": -415,
+                    "justificativa": "Principal Impacto: EP 151-04/Circ. Principal: falha na translação."
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "16h",
+                    "quantidade": 1396,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "17h",
+                    "quantidade": 1800,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "18h",
+                    "quantidade": 1310,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "19h",
+                    "quantidade": 880,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "20h",
+                    "quantidade": -957,
+                    "justificativa": "Principal Impacto: baixa oferta material granualdo "
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "21h",
+                    "quantidade": -1117,
+                    "justificativa": "Principal Impacto: baixa oferta material granualdo "
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "22h",
+                    "quantidade": 321,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "23h",
+                    "quantidade": -352,
+                    "justificativa": "Principal Impacto: baixa oferta material granualdo "
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "24h",
+                    "quantidade": -912,
+                    "justificativa": "Principal Impacto: baixa oferta material granualdo "
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/10/2024",
+                    "hora": "1h",
+                    "quantidade": -109,
+                    "justificativa": "Principal Impacto:   - REP 03:  pilha pulmão baixa;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "2h",
+                    "quantidade": 123,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "3h",
+                    "quantidade": 170,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "4h",
+                    "quantidade": 265,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "5h",
+                    "quantidade": 293,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "6h",
+                    "quantidade": 217,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "7h",
+                    "quantidade": -129,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "8h",
+                    "quantidade": 241,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "9h",
+                    "quantidade": 300,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "10h",
+                    "quantidade": 183,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "11h",
+                    "quantidade": 123,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "12h",
+                    "quantidade": 84,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "13h",
+                    "quantidade": 246,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "14h",
+                    "quantidade": 116,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "15h",
+                    "quantidade": 194,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "16h",
+                    "quantidade": 22,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "17h",
+                    "quantidade": 144,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "18h",
+                    "quantidade": 157,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "19h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto:   - REP 03:  pilha pulmão baixa;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "20h",
+                    "quantidade": -136,
+                    "justificativa": "Principal Impacto:   - REP 03:  pilha pulmão baixa;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "21h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto:   - REP 03:  pilha pulmão baixa;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "22h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto:   - REP 03:  pilha pulmão baixa;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "23h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto:   - REP 03:  pilha pulmão baixa;"
+                },
+                {
+                    "data": "08/10/2024",
+                    "hora": "24h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto:   - REP 03:  pilha pulmão baixa;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "tipo": "PRODUÇÃO",
+    "sistemas": [
+        {
+            "sistema": "Usinas",
+            "totalSistema": 1052.2,
+            "equipamentos": [
+                {
+                    "equipamento": "Equipamentos agrupados",
+                    "totalEquipamento": 1052.2,
+                    "saldoDF": -131.8,
+                    "HMC": [
+                        {
+                            "duracaoAjustada": 6.61,
+                            "UF": 43,
+                            "DF": 91.7,
+                            "taxa": 6.871,
+                            "causa": "PLC e Remota",
+                            "falha": "Falha de Comunicação",
+                            "EGP": "MSAL1080KS04",
+                            "observacao": "Perca de interface com o COI, falha de comunicação.",
+                            "perda": -18
+                        },
+                        {
+                            "duracaoAjustada": 6.07,
+                            "UF": 43,
+                            "DF": 91.7,
+                            "taxa": 6.871,
+                            "causa": "Ativos de rede",
+                            "falha": "Falha de Comunicação",
+                            "EGP": "TR1081KS13",
+                            "observacao": "Necessidade de INT no controlador nos circuitos de correias devido falha na rede, falha no extrator de metais no TR1082KS02 e falha nos parâmetros do sensor de velocidade da TR1081KS13",
+                            "perda": -16
+                        },
+                        {
+                            "duracaoAjustada": 4.5,
+                            "UF": 50,
+                            "DF": 89.7,
+                            "taxa": 7.06,
+                            "causa": "Componentes de comando, proteção e controle",
+                            "falha": "Falha sensor de velocidade",
+                            "EGP": "MSAL1080KS04",
+                            "observacao": "Atuado sensor de sub velocidade no alimentador SE1001-1002, realizado reposicionamento do sensor em campo.",
+                            "perda": -14
+                        },
+                        {
+                            "duracaoAjustada": 3.93,
+                            "UF": 43,
+                            "DF": 91.7,
+                            "taxa": 6.871,
+                            "causa": "Cavalete",
+                            "falha": "Quebra",
+                            "EGP": "MSAL1080KS04",
+                            "observacao": "Manutenção corretiva na mesa de impacto lança descarga BM04, reposição de cavalete.",
+                            "perda": -11
+                        },
+                        {
+                            "duracaoAjustada": 3.08,
+                            "UF": 50,
+                            "DF": 89.7,
+                            "taxa": 7.06,
+                            "causa": "Elevacao - Freio",
+                            "falha": "Freio",
+                            "EGP": "EC1013KS53",
+                            "observacao": "Falha no freio da elevação da EC53 (troca de bateria LCT).",
+                            "perda": -10
+                        },
+                        {
+                            "duracaoAjustada": 2.51,
+                            "UF": 50,
+                            "DF": 89.7,
+                            "taxa": 7.06,
+                            "causa": "Elevacao - Freio",
+                            "falha": "Freio",
+                            "EGP": "EC1013KS53",
+                            "observacao": "Falha no freio da elevação. Ajuste no pino da mola do freio.",
+                            "perda": -8
+                        },
+                        {
+                            "duracaoAjustada": 2.42,
+                            "UF": 50,
+                            "DF": 91.7,
+                            "taxa": 6.818,
+                            "causa": "Componentes de comando, proteção e controle",
+                            "falha": "Falha sensor de velocidade",
+                            "EGP": "MSAL1080KS04",
+                            "observacao": "Atuado sensor de sub velocidade SE1001,1002 no alimentador, realizado ajuste e limpeza no sensor.",
+                            "perda": -8
+                        },
+                        {
+                            "duracaoAjustada": 7.61,
+                            "UF": 43,
+                            "DF": 88.5,
+                            "taxa": 6.977,
+                            "causa": "Escavacao - Cabo Aco Le",
+                            "falha": "Cabo de Aco",
+                            "EGP": "EC1013KS54",
+                            "observacao": "EC54 Cabo de elevação da caçamba danificado, índice de acidente. Aguardando mecânica normalizar condição em campo.",
+                            "perda": -20
+                        },
+                        {
+                            "duracaoAjustada": 4.41,
+                            "UF": 39,
+                            "DF": 100,
+                            "taxa": 6.975,
+                            "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                            "falha": "Mau contato",
+                            "EGP": "MSBR1080KS02",
+                            "observacao": "Temperatura alta no rolo móvel do britador.",
+                            "perda": -12
+                        },
+                        {
+                            "duracaoAjustada": 3.52,
+                            "UF": 39,
+                            "DF": 100,
+                            "taxa": 6.975,
+                            "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                            "falha": "Proteção atuada",
+                            "EGP": "TR1081KS14",
+                            "observacao": "Falha no guincho (Realizada ajuste na célula de carga)",
+                            "perda": -10
+                        },
+                        {
+                            "duracaoAjustada": 2.41,
+                            "UF": 51,
+                            "DF": 88.5,
+                            "taxa": 6.979,
+                            "causa": "Escavacao - Cabo Aco",
+                            "falha": "Cabo de Aco de Escavacao",
+                            "EGP": "EC1013KS54",
+                            "observacao": "Parado devido rompimento de cabo.",
+                            "perda": -8
+                        },
+                        {
+                            "duracaoAjustada": 0,
+                            "UF": 0,
+                            "DF": 0,
+                            "taxa": 0,
+                            "causa": "",
+                            "falha": "",
+                            "EGP": "",
+                            "observacao": "Compensação por dias com maior disponibilidade física.",
+                            "perda": 93
+                        },
+                        {
+                            "duracaoAjustada": 4.91,
+                            "UF": 0,
+                            "DF": 86.4,
+                            "taxa": 0,
+                            "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                            "falha": "Falha no Controle",
+                            "EGP": "BM1080KS03",
+                            "observacao": "Acoplamento de segurança atuado",
+                            "perda": 0
+                        },
+                        {
+                            "duracaoAjustada": 3.55,
+                            "UF": 44.9,
+                            "DF": 86.4,
+                            "taxa": 6.773,
+                            "causa": "Giro - Redutor Ld",
+                            "falha": "Redutor",
+                            "EGP": "EC1013KS52",
+                            "observacao": "EC52 baixo nível de óleo no redutor de giro 1, completando nível.",
+                            "perda": -9
+                        },
+                        {
+                            "duracaoAjustada": 3.42,
+                            "UF": 45,
+                            "DF": 86.4,
+                            "taxa": 6.965,
+                            "causa": "Rolete de Guia",
+                            "falha": "Quebra",
+                            "EGP": "TR1081KS11",
+                            "observacao": "Repor Guirlandas",
+                            "perda": -9
+                        },
+                        {
+                            "duracaoAjustada": 3.42,
+                            "UF": 46,
+                            "DF": 86.4,
+                            "taxa": 6.97,
+                            "causa": "Correia",
+                            "falha": "Rasgo",
+                            "EGP": "TR1082KS03",
+                            "observacao": "Rasgo na correia TR1081KS11, realizando emenda.",
+                            "perda": -9
+                        },
+                        {
+                            "duracaoAjustada": 3.34,
+                            "UF": 53.5,
+                            "DF": 86.4,
+                            "taxa": 6.334,
+                            "causa": "Escavacao - Cacamba",
+                            "falha": "Calco",
+                            "EGP": "EC1013KS52",
+                            "observacao": "Parado devido falha no fechamento da caçamba.",
+                            "perda": -10
+                        },
+                        {
+                            "duracaoAjustada": 2.78,
+                            "UF": 44.9,
+                            "DF": 86.4,
+                            "taxa": 6.988,
+                            "causa": "PLC e Remota",
+                            "falha": "Falha de Comunicação",
+                            "EGP": "MSAL1080KS03",
+                            "observacao": "Perca de interface com o COI, falha de comunicação.",
+                            "perda": -8
+                        },
+                        {
+                            "duracaoAjustada": 2.73,
+                            "UF": 46.3,
+                            "DF": 86.4,
+                            "taxa": 6.774,
+                            "causa": "Correia",
+                            "falha": "Cortando tira de correia",
+                            "EGP": "MBTR1080KS03",
+                            "observacao": "Parado para remoção de reparo na correia.",
+                            "perda": -7
+                        },
+                        {
+                            "duracaoAjustada": 2.63,
+                            "UF": 44.8,
+                            "DF": 86.4,
+                            "taxa": 6.999,
+                            "causa": "Comunicação Radio",
+                            "falha": "Configuração",
+                            "EGP": "EC1013KS52",
+                            "observacao": "Falha de comunicação (Comunicação com o CLP perdida). Obs. Liberação após desligamento do rádio.",
+                            "perda": -7
+                        },
+                        {
+                            "duracaoAjustada": 2.46,
+                            "UF": 32,
+                            "DF": 50,
+                            "taxa": 6.986,
+                            "causa": "Componentes de comando, proteção e controle",
+                            "falha": "Falha sensor de velocidade",
+                            "EGP": "MBTR1080KS03",
+                            "observacao": "Ajuste no suporte e sensor",
+                            "perda": -3
+                        }
+                    ],
+                    "saldoUF": 1394,
+                    "HOI": [
+                        {
+                            "duracaoAjustada": 2.66,
+                            "UF": 45,
+                            "DF": 91.7,
+                            "taxa": 6.717,
+                            "causa": "Parada operacional",
+                            "falha": "Mudança de corredor C/ inversão EC",
+                            "EGP": "BM1080KS04",
+                            "observacao": "",
+                            "perda": -7
+                        },
+                        {
+                            "duracaoAjustada": 2.52,
+                            "UF": 50,
+                            "DF": 89.7,
+                            "taxa": 7.06,
+                            "causa": "Parada operacional",
+                            "falha": "Locomoção/Reposicionamento pós Manut",
+                            "EGP": "BM1080KS04",
+                            "observacao": "",
+                            "perda": -8
+                        },
+                        {
+                            "duracaoAjustada": 5.81,
+                            "UF": 40,
+                            "DF": 87.5,
+                            "taxa": 7.065,
+                            "causa": "Rolete de Carga",
+                            "falha": "Quebra",
+                            "EGP": "TR2011KS07",
+                            "observacao": "Parado para executar troca de rolete na TR201104.",
+                            "perda": -14
+                        },
+                        {
+                            "duracaoAjustada": 2.5,
+                            "UF": 44,
+                            "DF": 89.7,
+                            "taxa": 6.967,
+                            "causa": "Correia",
+                            "falha": "Cortando tira de correia",
+                            "EGP": "TR2011KS07",
+                            "observacao": "TR2011KS07 Atuado rip cord, corte de borda.",
+                            "perda": -7
+                        },
+                        {
+                            "duracaoAjustada": 0,
+                            "UF": 0,
+                            "DF": 0,
+                            "taxa": 0,
+                            "causa": "",
+                            "falha": "",
+                            "EGP": "",
+                            "observacao": "Compensação por dias com maior utilização física.",
+                            "perda": 1698
+                        },
+                        {
+                            "duracaoAjustada": 10.98,
+                            "UF": 52,
+                            "DF": 87.5,
+                            "taxa": 7.076,
+                            "causa": "Falta de Alimentação",
+                            "falha": "Nível baixo de pilha",
+                            "EGP": "MSAL1080KS02",
+                            "observacao": "Formação de pilha.",
+                            "perda": -35
+                        },
+                        {
+                            "duracaoAjustada": 12.92,
+                            "UF": 53.8,
+                            "DF": 86.4,
+                            "taxa": 6.992,
+                            "causa": "Manutenção Preventiva",
+                            "falha": "Preventiva de circuito",
+                            "EGP": "TR1085KS02",
+                            "observacao": "Manutenção preventiva Pit Stop TCLD.",
+                            "perda": -42
+                        },
+                        {
+                            "duracaoAjustada": 8.72,
+                            "UF": 52,
+                            "DF": 87.5,
+                            "taxa": 7.076,
+                            "causa": "Parada operacional",
+                            "falha": "Limite de capacidade circ. posterior",
+                            "EGP": "TR1085KS01",
+                            "observacao": "Taxa restrita do TCLD devido manutenção no BR2012-03. Sistema despriorizado para recomposição da pilha.",
+                            "perda": -28
+                        },
+                        {
+                            "duracaoAjustada": 3.85,
+                            "UF": 54,
+                            "DF": 87.5,
+                            "taxa": 6.878,
+                            "causa": "Proteção Atuada",
+                            "falha": "Sobrecarga",
+                            "EGP": "TR1082KS01",
+                            "observacao": "Acúmulo de material gerando travamento do cabeça móvel.",
+                            "perda": -13
+                        },
+                        {
+                            "duracaoAjustada": 3.7,
+                            "UF": 54,
+                            "DF": 87.5,
+                            "taxa": 6.878,
+                            "causa": "Parada operacional",
+                            "falha": "Retirando sucata",
+                            "EGP": "TR1081KS14",
+                            "observacao": "Parado o alimentador devido sucata (cano metálico) no chute de descarga da TR1081KS14.",
+                            "perda": -12
+                        },
+                        {
+                            "duracaoAjustada": 2.67,
+                            "UF": 44,
+                            "DF": 88.5,
+                            "taxa": 6.958,
+                            "causa": "Parada Programada",
+                            "falha": "Manutenção Planejada Não Sistemática",
+                            "EGP": "TR1085KS02",
+                            "observacao": "Laudo CMA",
+                            "perda": -7
+                        },
+                        {
+                            "duracaoAjustada": 4.93,
+                            "UF": 44.8,
+                            "DF": 87.5,
+                            "taxa": 6.906,
+                            "causa": "Correia",
+                            "falha": "Cortando tira de correia",
+                            "EGP": "TR2011KS07",
+                            "observacao": "TR2011KS07 detector de rasgo atuado corte de tira",
+                            "perda": -14
+                        },
+                        {
+                            "duracaoAjustada": 8.15,
+                            "UF": 53.8,
+                            "DF": 86.4,
+                            "taxa": 6.997,
+                            "causa": "Parada operacional",
+                            "falha": "Aguardando acerto de praça",
+                            "EGP": "EC1013KS52",
+                            "observacao": "Parada para retirada de material que escorreu da pilha sobre a esteira da escavadeira EC52.Nota: Equipamentos recuados, aguardando movimentação da EC56 para realizar mudança de corredor.",
+                            "perda": -27
+                        },
+                        {
+                            "duracaoAjustada": 6.76,
+                            "UF": 52.1,
+                            "DF": 86.4,
+                            "taxa": 6.972,
+                            "causa": "Falta de Alimentação",
+                            "falha": "Nível baixo de pilha",
+                            "EGP": "MSAL1080KS03",
+                            "observacao": "Formação de pilha.",
+                            "perda": -21
+                        },
+                        {
+                            "duracaoAjustada": 6.47,
+                            "UF": 59.4,
+                            "DF": 87.5,
+                            "taxa": 6.016,
+                            "causa": "Obstrução",
+                            "falha": "Matacão / Lamelar",
+                            "EGP": "MSAL1080KS03",
+                            "observacao": "Bloco fora de especificação no alimentador.",
+                            "perda": -20
+                        },
+                        {
+                            "duracaoAjustada": 6.18,
+                            "UF": 26.6,
+                            "DF": 86.4,
+                            "taxa": 6.351,
+                            "causa": "Falta de Alimentação",
+                            "falha": "Aguardando acerto de praça",
+                            "EGP": "MSAL1080KS03",
+                            "observacao": "Acerto de praça e limpeza antes da locomoção.",
+                            "perda": -9
+                        },
+                        {
+                            "duracaoAjustada": 5.14,
+                            "UF": 52,
+                            "DF": 86.4,
+                            "taxa": 6.985,
+                            "causa": "Tambor de desvio",
+                            "falha": "Revestimento solto",
+                            "EGP": "TR2011KS07",
+                            "observacao": "Pilha cheia, corretiva programada no TR2011KS09.",
+                            "perda": -16
+                        },
+                        {
+                            "duracaoAjustada": 4.57,
+                            "UF": 44.9,
+                            "DF": 86.4,
+                            "taxa": 6.988,
+                            "causa": "Cavalete",
+                            "falha": "Fixação",
+                            "EGP": "TR2011KS09",
+                            "observacao": "Instalação de Cabo de ancoragem nos cavaletes 201 a 203 (Vibração devido à descolamento de revestimento do tambor 6).",
+                            "perda": -12
+                        },
+                        {
+                            "duracaoAjustada": 3.59,
+                            "UF": 26.6,
+                            "DF": 86.4,
+                            "taxa": 6.351,
+                            "causa": "Parada operacional",
+                            "falha": "Manobra de cabo",
+                            "EGP": "BM1080KS03",
+                            "observacao": "Manobra de cabo para desplugar caminhão enrolador e conectar no CRC-01.",
+                            "perda": -5
+                        },
+                        {
+                            "duracaoAjustada": 2.57,
+                            "UF": 46,
+                            "DF": 86.4,
+                            "taxa": 6.97,
+                            "causa": "Parada operacional",
+                            "falha": "Retirando sucata",
+                            "EGP": "TR1081KS11",
+                            "observacao": "Parada para retirada de chapa no chute de descarga da TR1081KS11.",
+                            "perda": -7
+                        }
+                    ],
+                    "saldoTaxa": -210,
+                    "taxaHora": [
+                        {
+                            "duracaoAjustada": 19.83,
+                            "UF": 43,
+                            "DF": 91.7,
+                            "taxa": 6.871,
+                            "causa": "PLC e Remota",
+                            "falha": "Falha de Comunicação",
+                            "EGP": "MSAL1080KS04",
+                            "observacao": "Perca de interface com o COI, falha de comunicação.",
+                            "perda": -54
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

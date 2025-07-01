@@ -1,0 +1,586 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/13/2024",
+                    "hora": "1h",
+                    "quantidade": 1377,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "2h",
+                    "quantidade": 3139,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "3h",
+                    "quantidade": 589,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "4h",
+                    "quantidade": 74,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "5h",
+                    "quantidade": 874,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "6h",
+                    "quantidade": -520,
+                    "justificativa": "Principal Impacto:  Estocagem/EP 151-04 falha na translação;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "7h",
+                    "quantidade": -2815,
+                    "justificativa": "Principal Impacto:  Estocagem/EP 151-04 falha na translação;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "8h",
+                    "quantidade": -2069,
+                    "justificativa": "Principal Impacto:  Estocagem/EP 151-04 falha na translação;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "9h",
+                    "quantidade": -1690,
+                    "justificativa": "Principal Impacto: PEN2 baixa produtividade material umido e argiloso, pontuado BCO N5E-640-CV1-U-RET-A, (perda do blend ESC 0901 recorrencia de paradas por acerto de praça);"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "10h",
+                    "quantidade": 1646,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "11h",
+                    "quantidade": 4127,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "12h",
+                    "quantidade": -1770,
+                    "justificativa": "Principal Impacto: PEN2 baixa produtividade material umido e argiloso;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "13h",
+                    "quantidade": 376,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "14h",
+                    "quantidade": -2725,
+                    "justificativa": "Principal Impacto: BSM6/TR 1100-16 chave de emergencia, BSM2 grelha obstruida (RE 1121 corretiva);"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "15h",
+                    "quantidade": -3317,
+                    "justificativa": "Principal Impacto: BSM6/TR 1100-16 chave de emergencia, BSM2 grelha obstruida (RE 1121 corretiva), BSM7/TR 1171-37 nivel alto;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "16h",
+                    "quantidade": 3307,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "17h",
+                    "quantidade": 420,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "18h",
+                    "quantidade": 1468,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "19h",
+                    "quantidade": 1441,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "20h",
+                    "quantidade": -1542,
+                    "justificativa": "Principal Impacto: - TR 133-08/PEN 3, acúmulo de material no sensor de rasgo;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "21h",
+                    "quantidade": 3239,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "22h",
+                    "quantidade": 1963,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "23h",
+                    "quantidade": -9408,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/13/2024",
+                    "hora": "1h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "2h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "3h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "4h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "5h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "6h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "7h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "8h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "9h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "10h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "11h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "12h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "13h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "14h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "15h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "16h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "17h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "18h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "19h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "20h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "21h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "22h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "23h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/13/2024",
+                    "hora": "1h",
+                    "quantidade": -832,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 reposicionamento e praça "
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "2h",
+                    "quantidade": -1542,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 reposicionamento e praça "
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "3h",
+                    "quantidade": 64,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "4h",
+                    "quantidade": 952,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "5h",
+                    "quantidade": -877,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 reposicionamento e praça "
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "6h",
+                    "quantidade": 464,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "7h",
+                    "quantidade": -1667,
+                    "justificativa": "Principal Impacto:  Estocagem/EP 151-04 falha na translação;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "8h",
+                    "quantidade": 321,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "9h",
+                    "quantidade": 1878,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "10h",
+                    "quantidade": -233,
+                    "justificativa": "Principal Impacto:  Manobra de pátio para viabilizar intervenção na EP 151-04,"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "11h",
+                    "quantidade": -525,
+                    "justificativa": "Principal Impacto: ESC 0901 acerto de praça;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "12h",
+                    "quantidade": -1135,
+                    "justificativa": "Principal Impacto: ESC 0901  priorização US1;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "13h",
+                    "quantidade": 746,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "14h",
+                    "quantidade": 369,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "15h",
+                    "quantidade": 1630,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "16h",
+                    "quantidade": 1440,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "17h",
+                    "quantidade": 679,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "18h",
+                    "quantidade": 1640,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "19h",
+                    "quantidade": 728,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "20h",
+                    "quantidade": 1030,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "21h",
+                    "quantidade": 676,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "22h",
+                    "quantidade": 958,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "23h",
+                    "quantidade": -603,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/13/2024",
+                    "hora": "1h",
+                    "quantidade": 133,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "2h",
+                    "quantidade": 218,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "3h",
+                    "quantidade": 161,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "4h",
+                    "quantidade": 230,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "5h",
+                    "quantidade": 194,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "6h",
+                    "quantidade": 120,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "7h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "8h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "9h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "10h",
+                    "quantidade": 92,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "11h",
+                    "quantidade": 180,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "12h",
+                    "quantidade": 164,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "13h",
+                    "quantidade": 231,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "14h",
+                    "quantidade": 147,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "15h",
+                    "quantidade": 131,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "16h",
+                    "quantidade": 213,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "17h",
+                    "quantidade": 175,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "18h",
+                    "quantidade": 181,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "19h",
+                    "quantidade": -142,
+                    "justificativa": "Meta D+1 cumpriu;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "20h",
+                    "quantidade": -89,
+                    "justificativa": "Meta D+1 cumpriu;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "21h",
+                    "quantidade": 114,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "22h",
+                    "quantidade": -142,
+                    "justificativa": "Meta D+1 cumpriu;"
+                },
+                {
+                    "data": "08/13/2024",
+                    "hora": "23h",
+                    "quantidade": -142,
+                    "justificativa": "Meta D+1 cumpriu;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

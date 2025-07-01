@@ -1,0 +1,14 @@
+USINA I
+Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II Principal Impacto: - PEN 2, baixa DF de linhas a partir de 00h ( LN2/PN 131-02, - LN6/PN 131-59, - LN8/PN 131-62 , - LN13/PN 131-13); Principal Impacto: BSM-02 parada devido sucata organica na PN-113-02 
+
+USINA II
+Não houveram perdas significativas
+
+USINA III
+Principal Impacto: - Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva; Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II Principal Impacto: Baixa produtividade no REP-02 e 06 proveniente do material do PUL-625 e DF da ESC-0901 
+
+USINA IV
+Não houveram perdas significativas
+
+USINA V
+Não houveram perdas significativas

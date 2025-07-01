@@ -1,0 +1,93 @@
+{
+    "regiao": "Serra Norte",
+    "total_regiao": -43722,
+    "usinas": [
+      {
+        "usina": "USINA I",
+        "total_produzido": 100,
+        "eventos": []
+      },
+      {
+        "usina": "USINA II",
+        "total_produzido": -60418,
+        "eventos": [
+          {
+            "quantidade": -16491,
+            "justificativa": "Impacto Principal: -Classificação/DP3011-02 rolamento danificado alimentando somente Bloco B (TR 3011-19 obstrução);"
+          },
+          {
+            "quantidade": -15862,
+            "justificativa": "Impacto Principal: - BSM5 atraso de preventiva (TR 2030-02 falha no sensor de rasgo e BR 2010KN01 com Falha no contactor);"
+          },
+          {
+            "quantidade": -11548,
+            "justificativa": "Impacto Principal: - TR 3011/24: Classificação: atraso de manutenção preventiva,  falha no conversor de profhibus;"
+          },
+          {
+            "quantidade": -8378,
+            "justificativa": "Impacto Principal: - BSM5 PUL-N4WN-NW2-600-A PM em locomoção;"
+          },
+          {
+            "quantidade": -4115,
+            "justificativa": "Impacto Principal: -BSM5/TR 2030-02 desalinhamento e PN 2030-10 falha no inversor;"
+          },
+          {
+            "quantidade": -3641,
+            "justificativa": "Impacto Principal: - TR 3011-19/Classificação: Obstrução no chute de descarga;"
+          },
+          {
+            "quantidade": -1967,
+            "justificativa": "Impacto Principal: - Classificação/Si08 falha na sonda;"
+          }
+        ]
+      },
+      {
+        "usina": "USINA III",
+        "total_produzido": -3909,
+        "eventos": [
+          {
+            "quantidade": -3064,
+            "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 corretiiva;"
+          },
+          {
+            "quantidade": -2338,
+            "justificativa": "Impacto Principal: - REP 02: baixa oferta de ROM, material do PUL BSM 07 fora da granulometria, REP 06: baixa oferta de ROM, DF da ESC 0901 manutenção corretiva;"
+          },
+          {
+            "quantidade": -2233,
+            "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 reposicionamento, REP 02: Baixa oferta, DF da PC 8109 PUL BSM 07;"
+          },
+          {
+            "quantidade": -1659,
+            "justificativa": "Impacto Principal: - REP 02,06: Troca de turno;"
+          },
+          {
+            "quantidade": -585,
+            "justificativa": "Impacto Principal: -  REP 06: baixa oferta de ROM,  ESC 0901 priorizando alimentação para US1 correção do blend;"
+          },
+          {
+            "quantidade": -478,
+            "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 reposicionamento;"
+          },
+          {
+            "quantidade": -195,
+            "justificativa": "Impacto Principal: -  REP 06: baixa produtividade,  ESC 0901 priorizando alimentação para US1 correção do blend;"
+          },
+          {
+            "quantidade": -73,
+            "justificativa": ""
+          }
+        ]
+      },
+      {
+        "usina": "USINA IV",
+        "total_produzido": 100,
+        "eventos": []
+      },
+      {
+        "usina": "USINA V",
+        "total_produzido": 100,
+        "eventos": []
+      }
+    ]
+  }

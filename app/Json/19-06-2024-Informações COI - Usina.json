@@ -1,0 +1,490 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/19/2024",
+                    "hora": "1h",
+                    "quantidade": 2409,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "2h",
+                    "quantidade": -394,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 e Pulm 625"
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "3h",
+                    "quantidade": -783,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 e Pulm 625"
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "4h",
+                    "quantidade": -150,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 e Pulm 625"
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "5h",
+                    "quantidade": -184,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 e Pulm 625"
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "6h",
+                    "quantidade": 54,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "7h",
+                    "quantidade": -1765,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 e Pulm 625"
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "8h",
+                    "quantidade": -1892,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 e Pulm 625"
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "9h",
+                    "quantidade": -1061,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "10h",
+                    "quantidade": -1576,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "11h",
+                    "quantidade": -1747,
+                    "justificativa": "Principal Impacto:  TR 1171-36/BSM07 Parada para troca de rolete. "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "12h",
+                    "quantidade": -1089,
+                    "justificativa": "Principal Impacto:  Baixa produtividade na BRT-02 e PEN-02 material argiloso Esc 1002 "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "13h",
+                    "quantidade": -358,
+                    "justificativa": "Principal Impacto:  TR 131-50/PEN-02 inversão de lado."
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "14h",
+                    "quantidade": 611,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "15h",
+                    "quantidade": 142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "16h",
+                    "quantidade": 473,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "17h",
+                    "quantidade": -1643,
+                    "justificativa": "Principal Impacto: TR 1100-04/circuito Bsm-02 e 06 parado por obstrução."
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "18h",
+                    "quantidade": -3724,
+                    "justificativa": "Principal Impacto: TR 113-04/circuito Bsm-02 e 06 parado por obstrução."
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "19h",
+                    "quantidade": -7398,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/19/2024",
+                    "hora": "1h",
+                    "quantidade": 1556,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "2h",
+                    "quantidade": -861,
+                    "justificativa": "Principal Impacto:  TR 3011-02/Circ de entrada descontaminação material úmido "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "3h",
+                    "quantidade": -100,
+                    "justificativa": "Principal Impacto:  TR 3011-02/Circ de entrada descontaminação material úmido "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "4h",
+                    "quantidade": 1888,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "5h",
+                    "quantidade": 1371,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "6h",
+                    "quantidade": 1305,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "7h",
+                    "quantidade": 2165,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "8h",
+                    "quantidade": 2292,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "9h",
+                    "quantidade": 2565,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "10h",
+                    "quantidade": -885,
+                    "justificativa": "Principal Impacto:  TR 2050-02/Circuito BSM-05 Parado por obstrução nível alto."
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "11h",
+                    "quantidade": -2052,
+                    "justificativa": "Principal Impacto:  TR 2050-02/Circuito BSM-05 Parado por obstrução nível alto."
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "12h",
+                    "quantidade": -543,
+                    "justificativa": "Principal Impacto:  TR 2050-02/Circuito BSM-05 Parado por obstrução nível alto."
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "13h",
+                    "quantidade": -1318,
+                    "justificativa": "Principal Impacto:  SI-3011-05/Classi parado circuito da bsm-05 falha eco na sonda"
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "14h",
+                    "quantidade": 45,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "15h",
+                    "quantidade": 988,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "16h",
+                    "quantidade": 2111,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "17h",
+                    "quantidade": 1688,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "18h",
+                    "quantidade": -484,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "19h",
+                    "quantidade": -2074,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/19/2024",
+                    "hora": "1h",
+                    "quantidade": -137,
+                    "justificativa": "Principal Impacto:  REP06:/02:  Baixa produtividade material argiloso "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "2h",
+                    "quantidade": -626,
+                    "justificativa": "Principal Impacto:  REP06:/02:  Baixa produtividade material argiloso "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "3h",
+                    "quantidade": 12,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "4h",
+                    "quantidade": -17,
+                    "justificativa": "Principal Impacto:  REP06:/02:  Baixa produtividade material argiloso "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "5h",
+                    "quantidade": -617,
+                    "justificativa": "Principal Impacto:  REP06:/02:  Baixa produtividade material argiloso "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "6h",
+                    "quantidade": -127,
+                    "justificativa": "Principal Impacto:  REP06:/02:  Baixa produtividade material argiloso "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "7h",
+                    "quantidade": -1739,
+                    "justificativa": "Principal Impacto:  REP06:/02:  Baixa produtividade material argiloso "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "8h",
+                    "quantidade": -1643,
+                    "justificativa": "Principal Impacto:  REP06:/02:  Baixa produtividade material argiloso "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "9h",
+                    "quantidade": 140,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "10h",
+                    "quantidade": -8,
+                    "justificativa": "Principal Impacto:  REP06: DF de linha "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "11h",
+                    "quantidade": -539,
+                    "justificativa": "Principal Impacto:  REP06: DF de linha "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "12h",
+                    "quantidade": -1457,
+                    "justificativa": "Principal Impacto:  REP02: Falta de agua na planta gerando impacto na limpeza. "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "13h",
+                    "quantidade": -1548,
+                    "justificativa": "Principal Impacto:  REP02: Falta de agua na planta gerando impacto na limpeza. "
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "14h",
+                    "quantidade": 380,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "15h",
+                    "quantidade": 988,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "16h",
+                    "quantidade": 1510,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "17h",
+                    "quantidade": 978,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "18h",
+                    "quantidade": -899,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "19h",
+                    "quantidade": -1558,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/19/2024",
+                    "hora": "1h",
+                    "quantidade": 83,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "2h",
+                    "quantidade": 159,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "3h",
+                    "quantidade": 162,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "4h",
+                    "quantidade": 167,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "5h",
+                    "quantidade": 116,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "6h",
+                    "quantidade": 135,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "7h",
+                    "quantidade": 30,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "8h",
+                    "quantidade": 121,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "9h",
+                    "quantidade": -2,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "10h",
+                    "quantidade": 121,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "11h",
+                    "quantidade": 133,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "12h",
+                    "quantidade": 93,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "13h",
+                    "quantidade": 111,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "14h",
+                    "quantidade": 108,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "15h",
+                    "quantidade": 39,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "16h",
+                    "quantidade": 7,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "17h",
+                    "quantidade": 153,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "18h",
+                    "quantidade": 122,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/19/2024",
+                    "hora": "19h",
+                    "quantidade": -42,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

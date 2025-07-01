@@ -1,0 +1,109 @@
+{
+  "tipo": "Produção",
+  "buildUp_tecnico": [
+    {
+      "sistema": "Usinas",
+      "total_sistema": 376,
+      "indicadores": [
+        {
+          "tipo": "DF",
+          "total_indicador": -247,
+          "detalhes": [
+            {
+              "saldo": -50,
+              "justificativa": "O desalinhamento do redutor causou a falha, ativando o detector de rasgo e necessitando ajuste da defletora e correia do transportador."
+            },
+            {
+              "saldo": -21,
+              "justificativa": "A falha do motor elétrico resultou em um trip no M01."
+            },
+            {
+              "saldo": -17,
+              "justificativa": "Houve quebra do acoplamento mecânico TR2020KS14, M3."
+            },
+            {
+              "saldo": -16,
+              "justificativa": "O revestimento solto no tambor de acionamento foi identificado durante a inspeção mecânica."
+            },
+            {
+              "saldo": -15,
+              "justificativa": "A falha na translação ocorreu devido a um defeito no freio do sistema de locomoção."
+            },
+            {
+              "saldo": -13,
+              "justificativa": "O rolete de retorno travou."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "A correia do transportador estava frouxa, necessitando tensionamento."
+            },
+            {
+              "saldo": -10,
+              "justificativa": "Houve um corte na tira da correia, ativando o detector de rasgo."
+            },
+            {
+              "saldo": 58,
+              "justificativa": "Houve compensação por dias com maior disponibilidade física."
+            }
+          ]
+        },
+        {
+          "tipo": "UF",
+          "total_indicador": 213,
+          "detalhes": [
+            {
+              "saldo": -135,
+              "justificativa": "O revestimento solto no tambor de desvio e a fixação inadequada dos cavaletes causaram vibração, necessitando corte e troca de cavaletes."
+            },
+            {
+              "saldo": -54,
+              "justificativa": "O desgaste do rolete de retorno e a fixação inadequada do rolete de impacto necessitaram troca."
+            },
+            {
+              "saldo": -34,
+              "justificativa": "A baixa oferta da mina e o pátio de regularização zerado resultaram em nível baixo de pilha."
+            },
+            {
+              "saldo": -24,
+              "justificativa": "Houve obstrução por sucata não britável."
+            },
+            {
+              "saldo": -8,
+              "justificativa": "Foi realizado atendimento de manutenção preditiva conforme análise CMA."
+            },
+            {
+              "saldo": -8,
+              "justificativa": "Foi realizada coleta de amostra para teste de processo."
+            },
+            {
+              "saldo": 476,
+              "justificativa": "Houve compensação por dias com maior utilização física."
+            }
+          ]
+        },
+        {
+          "tipo": "taxa",
+          "total_indicador": 410,
+          "detalhes": [
+            {
+              "saldo": 410,
+              "justificativa": "Houve compensação por dias com maior taxa horária."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buildUp_semanal": [
+    {
+      "sistema": "Usinas",
+      "buildUp": "-**-247Kt Disponibilidade Física**\n\t-**-50Kt** O desalinhamento do redutor causou a falha, ativando o detector de rasgo e necessitando ajuste da defletora e correia do transportador.\n\t-**-21Kt** A falha do motor elétrico resultou em um trip no M01.\n\t-**-17Kt** Houve quebra do acoplamento mecânico TR2020KS14, M3.\n\t-**-16Kt** O revestimento solto no tambor de acionamento foi identificado durante a inspeção mecânica.\n\t-**-15Kt** A falha na translação ocorreu devido a um defeito no freio do sistema de locomoção.\n\t-**-13Kt** O rolete de retorno travou.\n\t-**-12Kt** A correia do transportador estava frouxa, necessitando tensionamento.\n\t-**-10Kt** Houve um corte na tira da correia, ativando o detector de rasgo.\n\t-**+58Kt** Houve compensação por dias com maior disponibilidade física.\n-**+213Kt Utilização Física**\n\t-**-135Kt** O revestimento solto no tambor de desvio e a fixação inadequada dos cavaletes causaram vibração, necessitando corte e troca de cavaletes.\n\t-**-54Kt** O desgaste do rolete de retorno e a fixação inadequada do rolete de impacto necessitaram troca.\n\t-**-34Kt** A baixa oferta da mina e o pátio de regularização zerado resultaram em nível baixo de pilha.\n\t-**-24Kt** Houve obstrução por sucata não britável.\n\t-**-8Kt** Foi realizado atendimento de manutenção preditiva conforme análise CMA.\n\t-**-8Kt** Foi realizada coleta de amostra para teste de processo.\n\t-**+476Kt** Houve compensação por dias com maior utilização física.\n-**+410Kt Taxa Horária**\n\t-**+410Kt** Houve compensação por dias com maior taxa horária."
+    }
+  ],
+  "resumo_executivo": [
+    {
+      "sistema": "Disponibilidade Física",
+      "resumo": "-**-50Kt** O desalinhamento do redutor causou a falha, ativando o detector de rasgo e necessitando ajuste da defletora e correia do transportador.\n-**-21Kt** A falha do motor elétrico resultou em um trip no M01."
+    }
+  ]
+}

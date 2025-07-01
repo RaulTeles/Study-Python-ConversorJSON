@@ -1,0 +1,141 @@
+{
+  "tipo": "Produção",
+  "buildUp_tecnico": [
+    {
+      "sistema": "Usinas",
+      "total_sistema": 376,
+      "indicadores": [
+        {
+          "tipo": "DF",
+          "total_indicador": -247,
+          "detalhes": [
+            {
+              "saldo": -27,
+              "justificativa": "Desalinhamento do redutor causou a falha."
+            },
+            {
+              "saldo": -21,
+              "justificativa": "Falha do motor elétrico resultou em um trip no M01."
+            },
+            {
+              "saldo": -17,
+              "justificativa": "Desalinhamento da correia do transportador ativou o detector de rasgo, necessitando ajuste da defletora."
+            },
+            {
+              "saldo": -17,
+              "justificativa": "Quebra do acoplamento mecânico TR2020KS14, M3."
+            },
+            {
+              "saldo": -16,
+              "justificativa": "Revestimento solto no tambor de acionamento, inspeção realizada pela mecânica."
+            },
+            {
+              "saldo": -15,
+              "justificativa": "Falha na translação devido a defeito no freio do sistema de locomoção."
+            },
+            {
+              "saldo": -13,
+              "justificativa": "Travamento do rolete de retorno."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Afrouxamento da correia do transportador, necessitando tensionamento."
+            },
+            {
+              "saldo": -10,
+              "justificativa": "Corte na tira da correia, ativando o detector de rasgo TR2020KS12."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Desalinhamento da correia do transportador."
+            },
+            {
+              "saldo": 58,
+              "justificativa": "Compensação por dias com maior disponibilidade física."
+            }
+          ]
+        },
+        {
+          "tipo": "UF",
+          "total_indicador": 213,
+          "detalhes": [
+            {
+              "saldo": -71,
+              "justificativa": "Revestimento solto no tambor de desvio, necessitando corte e troca de cavaletes."
+            },
+            {
+              "saldo": -64,
+              "justificativa": "Fixação inadequada dos cavaletes, causando vibração devido ao descolamento do revestimento do tambor."
+            },
+            {
+              "saldo": -31,
+              "justificativa": "Desgaste no rolete de retorno, necessitando troca."
+            },
+            {
+              "saldo": -24,
+              "justificativa": "Obstrução por sucata não britável BR2012KS04."
+            },
+            {
+              "saldo": -20,
+              "justificativa": "Nível baixo de pilha devido à falta de alimentação."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Fixação inadequada do rolete de impacto, necessitando troca."
+            },
+            {
+              "saldo": -11,
+              "justificativa": "Desgaste no rolete de retorno, necessitando troca."
+            },
+            {
+              "saldo": -9,
+              "justificativa": "Baixa oferta da mina e pátio de regularização zerado."
+            },
+            {
+              "saldo": -8,
+              "justificativa": "Atendimento de manutenção preditiva conforme análise CMA."
+            },
+            {
+              "saldo": -8,
+              "justificativa": "Coleta de amostra para processo industrial no BR2013KS04."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Baixa oferta ROM, resultando em nível baixo de pilha."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Baixa oferta ROM, resultando em nível baixo de pilha."
+            },
+            {
+              "saldo": 476,
+              "justificativa": "Compensação por dias com maior utilização física."
+            }
+          ]
+        },
+        {
+          "tipo": "taxa",
+          "total_indicador": 410,
+          "detalhes": [
+            {
+              "saldo": 410,
+              "justificativa": "Compensação por dias com maior taxa horária."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buildUp_semanal": [
+    {
+      "sistema": "Usinas",
+      "buildUp": "-**-247Kt Disponibilidade Física**\n\t-**-27Kt** Desalinhamento do redutor causou a falha.\n\t-**-21Kt** Falha do motor elétrico resultou em um trip no M01.\n\t-**-17Kt** Desalinhamento da correia do transportador ativou o detector de rasgo, necessitando ajuste da defletora.\n\t-**-17Kt** Quebra do acoplamento mecânico TR2020KS14, M3.\n\t-**-16Kt** Revestimento solto no tambor de acionamento, inspeção realizada pela mecânica.\n\t-**-15Kt** Falha na translação devido a defeito no freio do sistema de locomoção.\n\t-**-13Kt** Travamento do rolete de retorno.\n\t-**-12Kt** Afrouxamento da correia do transportador, necessitando tensionamento.\n\t-**-10Kt** Corte na tira da correia, ativando o detector de rasgo TR2020KS12.\n\t-**-6Kt** Desalinhamento da correia do transportador.\n\t-**+58Kt** Compensação por dias com maior disponibilidade física.\n-**+213Kt Utilização Física**\n\t-**-71Kt** Revestimento solto no tambor de desvio, necessitando corte e troca de cavaletes.\n\t-**-64Kt** Fixação inadequada dos cavaletes, causando vibração devido ao descolamento do revestimento do tambor.\n\t-**-31Kt** Desgaste no rolete de retorno, necessitando troca.\n\t-**-24Kt** Obstrução por sucata não britável BR2012KS04.\n\t-**-20Kt** Nível baixo de pilha devido à falta de alimentação.\n\t-**-12Kt** Fixação inadequada do rolete de impacto, necessitando troca.\n\t-**-11Kt** Desgaste no rolete de retorno, necessitando troca.\n\t-**-9Kt** Baixa oferta da mina e pátio de regularização zerado.\n\t-**-8Kt** Atendimento de manutenção preditiva conforme análise CMA.\n\t-**-8Kt** Coleta de amostra para processo industrial no BR2013KS04.\n\t-**-3Kt** Baixa oferta ROM, resultando em nível baixo de pilha.\n\t-**-2Kt** Baixa oferta ROM, resultando em nível baixo de pilha.\n\t-**+476Kt** Compensação por dias com maior utilização física.\n-**+410Kt Taxa Horária**\n\t-**+410Kt** Compensação por dias com maior taxa horária."
+    }
+  ],
+  "resumo_executivo": [
+    {
+      "sistema": "Disponibilidade Física",
+      "resumo": "-**-27Kt** Desalinhamento do redutor causou a falha.\n-**-21Kt** Falha do motor elétrico resultou em um trip no M01."
+    }
+  ]
+}

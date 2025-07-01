@@ -1,0 +1,26 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+      {
+        "usina": "USINA I",
+        "comentarios": "Não houveram perdas significativas."
+      },
+      {
+        "usina": "USINA II",
+        "comentarios": "A usina enfrentou perdas significativas devido a diversos problemas. A maior perda foi causada por um rolamento danificado na classificação DP3011-02, que resultou na alimentação apenas do Bloco B devido à obstrução no TR3011-19. Outra perda significativa ocorreu devido a um atraso na manutenção preventiva da BSM5, com falha no sensor de rasgo do TR2030-02 e falha no contactor do BR2010KN01. Além disso, houve um atraso na manutenção preventiva do TR3011/24, com falha no conversor de profibus."
+      },
+      {
+        "usina": "USINA III",
+        "comentarios": "A usina teve perdas significativas devido a problemas na REP6, com baixa oferta da ESC0901 para manutenção corretiva. Outra perda ocorreu na REP02 devido à baixa oferta de ROM e material fora da granulometria do PUL BSM07, além de problemas na REP06 com baixa oferta de ROM e manutenção corretiva da ESC0901. Adicionalmente, houve uma perda na REP6 devido ao reposicionamento da ESC0901 e baixa oferta de ROM."
+      },
+      {
+        "usina": "USINA IV",
+        "comentarios": "Não houveram perdas significativas."
+      },
+      {
+        "usina": "USINA V",
+        "comentarios": "Não houveram perdas significativas."
+      }
+    ],
+    "resumo_executivo": "Impacto devido à falha em um rolamento na classificação, que resultou na alimentação de apenas um bloco e obstrução no transportador. Além disso, houve um atraso na manutenção preventiva da britagem semi imóvel, com falha no sensor de rasgo e no contactor do britador. Outro fator significativo foi o atraso na manutenção preventiva do transportador, que apresentou falha no conversor de profibus."
+  }

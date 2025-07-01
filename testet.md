@@ -1,0 +1,45 @@
+**+711Kt MSAL1080KS04**  
+- **+824Kt Utilização Física**
+	-  **-7Kt** Mudança de corredor com inversão EC durante parada operacional no BM1080KS04.
+	-   **-8Kt** Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04.
+	-   **-7Kt** Troca de rolete na TR201104 devido a quebra do rolete de carga.
+	-   **-7Kt** Corte de borda na TR2011KS07 após atuação do rip cord.
+	-   **+853Kt** Compensação por dias com maior utilização física.
+- **-113Kt Disponibilidade Física**
+	-   **-18Kt** Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04.
+	-   **-16Kt** Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13.
+	-   **-14Kt** Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04.
+	-   **-11Kt** Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04.
+	-   **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.
+	-   **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.
+	-   **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.
+- **-94Kt Taxa Horária**
+	- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.
+	- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.
+	- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.
+	- **+120Kt** Compensação por dias com maior taxa horária.
+
+**-93Kt AL1080KS901**  
+- **-54Kt Utilização Física**
+	-   **-29Kt** Nível baixo de pilha devido a falta de alimentação no AL1080KS901.
+	-   **-11Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.
+	-   **-8Kt** Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901.
+	-   **-504Kt** Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas.
+	-   **-163Kt** Formação de pilha devido a nível baixo de pilha no AL1080KS901.
+	-   **-41Kt** Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901.
+	-   **-27Kt** Aguardando formação de pilha durante parada operacional no AL1080KS901.
+	-   **-20Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.
+	-   **-19Kt** Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio.
+	-   **-6Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.
+	-   **-25Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.
+	-   **-16Kt** Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02.
+	-   **-12Kt** Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901.
+	-   **-12Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.
+	-   **-8Kt** Parado para formação de pilha durante parada operacional no BM1080KS901.
+	-   **+847Kt** Compensação por dias com maior utilização física.
+- **-39Kt  Disponibilidade Física**
+	-   **-23Kt** Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901.
+	-   **-14Kt** Ajuste no sensor do eletroímã no EX1080KS901.
+- **+10Kt Taxa Horária**
+	- **-20Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.
+	- **+10Kt** Compensação por dias com maior taxa horária.

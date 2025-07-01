@@ -1,0 +1,610 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/15/2024",
+                    "hora": "1h",
+                    "quantidade": -4708,
+                    "justificativa": "Principal Impacto:- BSM7: Desprendimento do encolder do tambor de desvio do TR 1171-35, BRIT01: Falha de inibição na partida no inversor do acionamento do AL 121-04. "
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "2h",
+                    "quantidade": -5893,
+                    "justificativa": "Principal Impacto:- BSM7: Desprendimento do encolder do tambor de desvio do TR 1171-35, BRIT01: Falha de inibição na partida no inversor do acionamento do AL 121-04. "
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "3h",
+                    "quantidade": -5896,
+                    "justificativa": "Principal Impacto:- BSM7: Desprendimento do encolder do tambor de desvio do TR 1171-35, BRIT01: Falha de inibição na partida no inversor do acionamento do AL 121-04. "
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "4h",
+                    "quantidade": -5025,
+                    "justificativa": "Principal Impacto:- BSM7: Desprendimento do encolder do tambor de desvio do TR 1171-35, BRIT01: Falha de inibição na partida no inversor do acionamento do AL 121-04. "
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "5h",
+                    "quantidade": -7183,
+                    "justificativa": "Principal Impacto:- BSM7: Desprendimento do encolder do tambor de desvio do TR 1171-35, BRIT01: Falha de inibição na partida no inversor do acionamento do AL 121-04. "
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "6h",
+                    "quantidade": -3685,
+                    "justificativa": "Principal Impacto:- BSM7: Desprendimento do encolder do tambor de desvio do TR 1171-35, BRIT01: Falha de inibição na partida no inversor do acionamento do AL 121-04. "
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "7h",
+                    "quantidade": -5952,
+                    "justificativa": "Principal Impacto:- BSM7: Desprendimento do encolder do tambor de desvio do TR 1171-35, BRIT01: Falha de inibição na partida no inversor do acionamento do AL 121-04. "
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "8h",
+                    "quantidade": -8063,
+                    "justificativa": "Principal Impacto:- Cic.Principal/EE151-03 obstrução ,3ªLinha B, ER 151-01 TR da lança desalinhada;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "9h",
+                    "quantidade": -3509,
+                    "justificativa": "Principal Impacto:- Cic.Principal/EE151-03 obstrução ,3ªLinha B, ER 151-01 TR da lança desalinhada;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "10h",
+                    "quantidade": -2212,
+                    "justificativa": "Principal Impacto:- PEN2 baixa produtividade na LUN pontuado N4WS-565-CV4-W-A ESC 0905;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "11h",
+                    "quantidade": -4085,
+                    "justificativa": "Principal Impacto:- PEN2 baixa produtividade na LUN pontuado N4WS-565-CV4-W-A ESC 0905;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "12h",
+                    "quantidade": 278,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "13h",
+                    "quantidade": -1018,
+                    "justificativa": "Principal Impacto:-PEN2 Indisponibilidade de linhas:LN3 troca do disjuntor da BA 06;LN6 troca de telas (contaminação no NP);LN7 recondicionamento do flap do chut de oversize, LN10 falha no inversor (em diagnóstico);LN 16 troca de telas PN 79;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "14h",
+                    "quantidade": -2550,
+                    "justificativa": "Principal Impacto:-PEN2 Indisponibilidade de linhas:LN3 troca do disjuntor da BA 06;LN6 troca de telas (contaminação no NP);LN7 recondicionamento do flap do chut de oversize, LN10 falha no inversor (em diagnóstico);LN 16 troca de telas PN 79;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "15h",
+                    "quantidade": -2824,
+                    "justificativa": "Principal Impacto:-PEN2 Indisponibilidade de linhas:LN3 troca do disjuntor da BA 06;LN6 troca de telas (contaminação no NP);LN7 recondicionamento do flap do chut de oversize, LN10 falha no inversor (em diagnóstico);LN 16 troca de telas PN 79;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "16h",
+                    "quantidade": -1470,
+                    "justificativa": "Principal Impacto:-PEN2 Indisponibilidade de linhas:LN3 troca do disjuntor da BA 06;LN6 troca de telas (contaminação no NP);LN7 recondicionamento do flap do chut de oversize, LN10 falha no inversor (em diagnóstico);LN 16 troca de telas PN 79;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "17h",
+                    "quantidade": -3443,
+                    "justificativa": "Principal Impacto:-Estocagem/EP151-04 falha no garra trilho;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "18h",
+                    "quantidade": -1442,
+                    "justificativa": "Principal Impacto:-Estocagem/EP151-04 falha no garra trilho;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "19h",
+                    "quantidade": -2726,
+                    "justificativa": "- BSM2 barulho anormal e excesso de vibração  no BR 113-01; BRIT baixa oferta de ROM devido corrtiva da pá 8112 e locomoção da pá 8102."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "20h",
+                    "quantidade": -3683,
+                    "justificativa": "- BSM2 barulho anormal e excesso de vibração  no BR 113-01; BRIT baixa oferta de ROM devido corrtiva da pá 8112 e locomoção da pá 8102."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "21h",
+                    "quantidade": -2488,
+                    "justificativa": "- BSM2/6 falta de eneriga por atuação da proteção no religador 59; BRIT baixa oferta de ROM devido corrtiva da pá 8112 e locomoção da pá 8102."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "22h",
+                    "quantidade": -694,
+                    "justificativa": "- BSM2/6 falta de eneriga por atuação da proteção no religador 59."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "23h",
+                    "quantidade": -502,
+                    "justificativa": "- BSM2/6 falta de eneriga por atuação da proteção no religador 59."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "24h",
+                    "quantidade": -944,
+                    "justificativa": "- BSM2/6 falta de eneriga por atuação da proteção no religador 59."
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/15/2024",
+                    "hora": "1h",
+                    "quantidade": 1090,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "2h",
+                    "quantidade": -1531,
+                    "justificativa": "Principal Impacto:- BSM 5 curto-circuito na BRIT 2 no terminal da fase “S” na caixa de ligação do BR 2050-01;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "3h",
+                    "quantidade": -3193,
+                    "justificativa": "Principal Impacto:- BSM 5 curto-circuito na BRIT 2 no terminal da fase “S” na caixa de ligação do BR 2050-01;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "4h",
+                    "quantidade": -1320,
+                    "justificativa": "Principal Impacto:- BSM 5 curto-circuito na BRIT 2 no terminal da fase “S” na caixa de ligação do BR 2050-01;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "5h",
+                    "quantidade": 501,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "6h",
+                    "quantidade": -102,
+                    "justificativa": "Principal Impacto:- BSM 5 AL 2010-01 retirada de sucata (tudo de Pead);"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "7h",
+                    "quantidade": -748,
+                    "justificativa": "Principal Impacto:- BSM 5 AL 2010-01 retirada de sucata (tudo de Pead);"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "8h",
+                    "quantidade": -1198,
+                    "justificativa": "Principal Impacto:- BSM 5 AL 2010-01 retirada de sucata (tudo de Pead);"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "9h",
+                    "quantidade": -29,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "10h",
+                    "quantidade": 1398,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "11h",
+                    "quantidade": 2703,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "12h",
+                    "quantidade": 304,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "13h",
+                    "quantidade": 3371,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "14h",
+                    "quantidade": 4089,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "15h",
+                    "quantidade": 2414,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "16h",
+                    "quantidade": 3195,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "17h",
+                    "quantidade": 1609,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "18h",
+                    "quantidade": 625,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "19h",
+                    "quantidade": -407,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "20h",
+                    "quantidade": -297,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "21h",
+                    "quantidade": 321,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "22h",
+                    "quantidade": -547,
+                    "justificativa": "- BSM5 falta de eneriga por atuação da proteção no religador 59."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "23h",
+                    "quantidade": 1802,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "24h",
+                    "quantidade": 916,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/15/2024",
+                    "hora": "1h",
+                    "quantidade": 1416,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "2h",
+                    "quantidade": 284,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "3h",
+                    "quantidade": 896,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "4h",
+                    "quantidade": 372,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "5h",
+                    "quantidade": -1208,
+                    "justificativa": "Principal Impacto:- 3ªLinha B, parada pelo TR da lança desalinhada;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "6h",
+                    "quantidade": 201,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "7h",
+                    "quantidade": -1028,
+                    "justificativa": "Principal Impacto:REP2/LN 22 vazamento na moega (para intervir necessita para LN 23 por condição de segurança), REP6/LN 25 e 27 troca de telas;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "8h",
+                    "quantidade": -767,
+                    "justificativa": "Principal Impacto:REP2/LN 22 vazamento na moega (para intervir necessita para LN 23 por condição de segurança), REP6/LN 25 e 27 troca de telas;"
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "9h",
+                    "quantidade": 622,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "10h",
+                    "quantidade": -149,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "11h",
+                    "quantidade": 564,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "12h",
+                    "quantidade": -67,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "13h",
+                    "quantidade": 1460,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "14h",
+                    "quantidade": 1700,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "15h",
+                    "quantidade": 1337,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "16h",
+                    "quantidade": -894,
+                    "justificativa": "- REP6 baixa produtividade devido material argiloso da ESC0901 em transição."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "17h",
+                    "quantidade": -1734,
+                    "justificativa": "- REP6 baixa produtividade devido material argiloso da ESC0901 em transição."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "18h",
+                    "quantidade": -2134,
+                    "justificativa": "- REP6 baixa produtividade devido material argiloso da ESC0901 em transição."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "19h",
+                    "quantidade": -2342,
+                    "justificativa": "- REP6 baixa produtividade devido material argiloso da ESC0901 em transição."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "20h",
+                    "quantidade": 219,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "21h",
+                    "quantidade": 91,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "22h",
+                    "quantidade": -38,
+                    "justificativa": "- REP6 baixa produtividade devido material argiloso da ESC0901 em transição."
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "23h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "24h",
+                    "quantidade": 1109,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/15/2024",
+                    "hora": "1h",
+                    "quantidade": 55,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "2h",
+                    "quantidade": 351,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "3h",
+                    "quantidade": 375,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "4h",
+                    "quantidade": 474,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "5h",
+                    "quantidade": 431,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "6h",
+                    "quantidade": 233,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "7h",
+                    "quantidade": -18,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "8h",
+                    "quantidade": 108,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "9h",
+                    "quantidade": 234,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "10h",
+                    "quantidade": 261,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "11h",
+                    "quantidade": 100,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "12h",
+                    "quantidade": 30,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "13h",
+                    "quantidade": 29,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "14h",
+                    "quantidade": 16,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "15h",
+                    "quantidade": 14,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "16h",
+                    "quantidade": 252,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "17h",
+                    "quantidade": 428,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "18h",
+                    "quantidade": 250,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "19h",
+                    "quantidade": -158,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "20h",
+                    "quantidade": 96,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "21h",
+                    "quantidade": 81,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "22h",
+                    "quantidade": 9,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "23h",
+                    "quantidade": 100,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/15/2024",
+                    "hora": "24h",
+                    "quantidade": 98,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

@@ -1,0 +1,755 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/14/2024",
+                    "hora": "1h",
+                    "quantidade": 3016,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "2h",
+                    "quantidade": 1817,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "3h",
+                    "quantidade": -683,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "4h",
+                    "quantidade": 189,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "5h",
+                    "quantidade": -1210,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "6h",
+                    "quantidade": 1447,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "7h",
+                    "quantidade": -2101,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "8h",
+                    "quantidade": -4345,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "9h",
+                    "quantidade": -2981,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "10h",
+                    "quantidade": -2458,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "11h",
+                    "quantidade": -1990,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "12h",
+                    "quantidade": -2845,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "13h",
+                    "quantidade": 553,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "14h",
+                    "quantidade": -274,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "15h",
+                    "quantidade": 73,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "16h",
+                    "quantidade": -1073,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "17h",
+                    "quantidade": -3926,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "18h",
+                    "quantidade": -2435,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "19h",
+                    "quantidade": -3263,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "20h",
+                    "quantidade": -3430,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "21h",
+                    "quantidade": -5271,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "22h",
+                    "quantidade": -4536,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "23h",
+                    "quantidade": -2630,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "24h",
+                    "quantidade": -1131,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/14/2024",
+                    "hora": "1h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "2h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "3h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "4h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "5h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "6h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "7h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "8h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "9h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "10h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "11h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "12h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "13h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "14h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "15h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "16h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "17h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "18h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "19h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "20h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "21h",
+                    "quantidade": 16,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "22h",
+                    "quantidade": 7,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "23h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "24h",
+                    "quantidade": 139,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/14/2024",
+                    "hora": "1h",
+                    "quantidade": 1190,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "2h",
+                    "quantidade": -101,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "3h",
+                    "quantidade": 1389,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "4h",
+                    "quantidade": 1074,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "5h",
+                    "quantidade": -175,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "6h",
+                    "quantidade": 843,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "7h",
+                    "quantidade": -885,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "8h",
+                    "quantidade": -1175,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "9h",
+                    "quantidade": 944,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "10h",
+                    "quantidade": 896,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "11h",
+                    "quantidade": 574,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "12h",
+                    "quantidade": 1440,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "13h",
+                    "quantidade": 2150,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "14h",
+                    "quantidade": 614,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "15h",
+                    "quantidade": -344,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "16h",
+                    "quantidade": -1188,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "17h",
+                    "quantidade": -1285,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "18h",
+                    "quantidade": -1647,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "19h",
+                    "quantidade": -1825,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "20h",
+                    "quantidade": -1968,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "21h",
+                    "quantidade": -127,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "22h",
+                    "quantidade": -738,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "23h",
+                    "quantidade": -1759,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "24h",
+                    "quantidade": -158,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/14/2024",
+                    "hora": "1h",
+                    "quantidade": 189,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "2h",
+                    "quantidade": 94,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "3h",
+                    "quantidade": 17,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "4h",
+                    "quantidade": 65,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "5h",
+                    "quantidade": 64,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "6h",
+                    "quantidade": 25,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "7h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "8h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "9h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "10h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "11h",
+                    "quantidade": -137,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "12h",
+                    "quantidade": 52,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "13h",
+                    "quantidade": 81,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "14h",
+                    "quantidade": 106,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "15h",
+                    "quantidade": 135,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "16h",
+                    "quantidade": -89,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "17h",
+                    "quantidade": 140,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "18h",
+                    "quantidade": 41,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "19h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "20h",
+                    "quantidade": -104,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "21h",
+                    "quantidade": 55,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "22h",
+                    "quantidade": 153,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "23h",
+                    "quantidade": -40,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "24h",
+                    "quantidade": 8,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/14/2024",
+                    "hora": "0h",
+                    "quantidade": 141,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "1h",
+                    "quantidade": -196,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "2h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "3h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "4h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "5h",
+                    "quantidade": -70,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "6h",
+                    "quantidade": 20,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "7h",
+                    "quantidade": -30,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "8h",
+                    "quantidade": 4,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "9h",
+                    "quantidade": 46,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "10h",
+                    "quantidade": -46,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "11h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "12h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "13h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "14h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "15h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "16h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "17h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "18h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "19h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "20h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "21h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "22h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/14/2024",
+                    "hora": "23h",
+                    "quantidade": -349,
+                    "justificativa": ""
+                }
+            ]
+        }
+    ]
+}

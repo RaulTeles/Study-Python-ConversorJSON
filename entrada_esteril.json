@@ -1,0 +1,57 @@
+{
+    "tipo": "Estéril",
+    "sistemas": [
+    {
+      "sistema": "MCR11",
+      "totalSistema": 0,
+      "equipamentos": [
+        {
+          "equipamento": "MCAL1080KS11",
+          "totalEquipamento": 0,
+          "saldoDF": -113,
+          "HMC": [
+            {
+              "duracaoAjustada": 6.61,
+              "UF": 43.0,
+              "DF": 91.7,
+              "taxa": 6.871,
+              "causa": "PLC e Remota",
+              "falha": "Falha de Comunicação",
+              "EGP": "MSAL1080KS04",
+              "observacao": "Perca de interface com o COI, falha de comunicação.",
+              "perda": 0
+            }
+          ],
+          "saldoUF": 824,
+          "HOI": [
+            {
+              "duracaoAjustada": 10.02,
+              "UF": 40.0,
+              "DF": 91.7,
+              "taxa": 6.818,
+              "causa": "Falta de alimentação",
+              "falha": "nível baixo de pilha",
+              "EGP": "MCAL1080KS11",
+              "observacao": "Aguardando formação de pilha",
+              "perda": 0
+            }
+          ],
+          "saldoTaxa": -70,
+          "taxaHora": [
+            {
+              "duracaoAjustada": 6.61,
+              "UF": 43.0,
+              "DF": 91.7,
+              "taxa": 6.871,
+              "causa": "PLC e Remota",
+              "falha": "Falha de Comunicação",
+              "EGP": "MSAL1080KS04",
+              "observacao": "Perca de interface com o COI, falha de comunicação.",
+              "perda": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/15/2024",
+                    "hora": "1h",
+                    "quantidade": 14,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "2h",
+                    "quantidade": 674,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "3h",
+                    "quantidade": 576,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "4h",
+                    "quantidade": 313,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "5h",
+                    "quantidade": 765,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "6h",
+                    "quantidade": 1988,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "7h",
+                    "quantidade": 457,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "8h",
+                    "quantidade": -7,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "9h",
+                    "quantidade": -782,
+                    "justificativa": "Impacto Principal: - BSM2 e 06 Insdisponibilidade de Retro (grelha obstruida);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "10h",
+                    "quantidade": -1282,
+                    "justificativa": "Impacto Principal: -  Baixa oferta ESC 1002 reposicionamento e ESC 0901 corretiva."
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "11h",
+                    "quantidade": -316,
+                    "justificativa": "Impacto Principal: -  Baixa oferta  ESC 0901 corretiva."
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "12h",
+                    "quantidade": -1154,
+                    "justificativa": "Impacto Principal: -  Baixa oferta ESC 1002 reposicionamento e ESC 0901 corretiva."
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "13h",
+                    "quantidade": -1629,
+                    "justificativa": "Impacto Principal: -  EIXO N5 Baixa DF de transporte, BSM2 DF da Retro 1121;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "14h",
+                    "quantidade": -1430,
+                    "justificativa": "Impacto Principal: -  EIXO N5 Baixa DF de transporte, BSM2 DF da Retro 1121;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "15h",
+                    "quantidade": -104,
+                    "justificativa": "Impacto Principal: -  EIXO N5 Baixa DF de transporte;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "16h",
+                    "quantidade": 373,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "17h",
+                    "quantidade": 1672,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "18h",
+                    "quantidade": 948,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "19h",
+                    "quantidade": 2505,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "20h",
+                    "quantidade": 376,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "21h",
+                    "quantidade": 2446,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "22h",
+                    "quantidade": 3573,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "23h",
+                    "quantidade": 3624,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "24h",
+                    "quantidade": 5047,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/15/2024",
+                    "hora": "1h",
+                    "quantidade": -1492,
+                    "justificativa": "Impacto Principal: - TR 3011/24: Classificação: atraso de manutenção preventiva,  falha no conversor de profhibus;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "2h",
+                    "quantidade": -1264,
+                    "justificativa": "Impacto Principal: - TR 3011/24: Classificação: atraso de manutenção preventiva,  falha no conversor de profhibus;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "3h",
+                    "quantidade": -4203,
+                    "justificativa": "Impacto Principal: - TR 3011/24: Classificação: atraso de manutenção preventiva,  falha no conversor de profhibus;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "4h",
+                    "quantidade": -882,
+                    "justificativa": "Impacto Principal: - TR 3011/24: Classificação: atraso de manutenção preventiva,  falha no conversor de profhibus;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "5h",
+                    "quantidade": -3707,
+                    "justificativa": "Impacto Principal: - TR 3011/24: Classificação: atraso de manutenção preventiva,  falha no conversor de profhibus;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "6h",
+                    "quantidade": -2584,
+                    "justificativa": "Impacto Principal: - BSM5 atraso de preventiva (TR 2030-02 falha no sensor de rasgo e BR 2010KN01 com Falha no contactor);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "7h",
+                    "quantidade": -4496,
+                    "justificativa": "Impacto Principal: - BSM5 atraso de preventiva (TR 2030-02 falha no sensor de rasgo e BR 2010KN01 com Falha no contactor);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "8h",
+                    "quantidade": -4786,
+                    "justificativa": "Impacto Principal: - BSM5 atraso de preventiva (TR 2030-02 falha no sensor de rasgo e BR 2010KN01 com Falha no contactor);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "9h",
+                    "quantidade": -3996,
+                    "justificativa": "Impacto Principal: - BSM5 atraso de preventiva (TR 2030-02 falha no sensor de rasgo e BR 2010KN01 com Falha no contactor);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "10h",
+                    "quantidade": -4600,
+                    "justificativa": "Impacto Principal: - BSM5 PUL-N4WN-NW2-600-A PM em locomoção;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "11h",
+                    "quantidade": -2829,
+                    "justificativa": "Impacto Principal: - BSM5 PUL-N4WN-NW2-600-A PM em locomoção;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "12h",
+                    "quantidade": -949,
+                    "justificativa": "Impacto Principal: - BSM5 PUL-N4WN-NW2-600-A PM em locomoção;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "13h",
+                    "quantidade": -1967,
+                    "justificativa": "Impacto Principal: - Classificação/Si08 falha na sonda;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "14h",
+                    "quantidade": -4115,
+                    "justificativa": "Impacto Principal: -BSM5/TR 2030-02 desalinhamento e PN 2030-10 falha no inversor;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "15h",
+                    "quantidade": -4963,
+                    "justificativa": "Impacto Principal: -Classificação/DP3011-02 rolamento danificado alimentando somente Bloco B (TR 3011-19 obstrução);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "16h",
+                    "quantidade": -4912,
+                    "justificativa": "Impacto Principal: -Classificação/DP3011-02 rolamento danificado alimentando somente Bloco B (TR 3011-19 obstrução);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "17h",
+                    "quantidade": -3680,
+                    "justificativa": "Impacto Principal: -Classificação/DP3011-02 rolamento danificado alimentando somente Bloco B (TR 3011-19 obstrução);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "18h",
+                    "quantidade": -2936,
+                    "justificativa": "Impacto Principal: -Classificação/DP3011-02 rolamento danificado alimentando somente Bloco B (TR 3011-19 obstrução);"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "19h",
+                    "quantidade": -1871,
+                    "justificativa": "Impacto Principal: - TR 3011-19/Classificação: Obstrução no chute de descarga;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "20h",
+                    "quantidade": -1435,
+                    "justificativa": "Impacto Principal: - TR 3011-19/Classificação: Obstrução no chute de descarga;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "21h",
+                    "quantidade": -335,
+                    "justificativa": "Impacto Principal: - TR 3011-19/Classificação: Obstrução no chute de descarga;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "22h",
+                    "quantidade": 701,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "23h",
+                    "quantidade": 511,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "24h",
+                    "quantidade": 372,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/15/2024",
+                    "hora": "1h",
+                    "quantidade": -946,
+                    "justificativa": "Impacto Principal: - REP 02: baixa oferta de ROM, material do PUL BSM 07 fora da granulometria, REP 06: baixa oferta de ROM, DF da ESC 0901 manutenção corretiva;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "2h",
+                    "quantidade": -1392,
+                    "justificativa": "Impacto Principal: - REP 02: baixa oferta de ROM, material do PUL BSM 07 fora da granulometria, REP 06: baixa oferta de ROM, DF da ESC 0901 manutenção corretiva;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "3h",
+                    "quantidade": -585,
+                    "justificativa": "Impacto Principal: -  REP 06: baixa oferta de ROM,  ESC 0901 priorizando alimentação para US1 correção do blend;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "4h",
+                    "quantidade": -195,
+                    "justificativa": "Impacto Principal: -  REP 06: baixa produtividade,  ESC 0901 priorizando alimentação para US1 correção do blend;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "5h",
+                    "quantidade": 915,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "6h",
+                    "quantidade": 644,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "7h",
+                    "quantidade": -73,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "8h",
+                    "quantidade": 1136,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "9h",
+                    "quantidade": 596,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "10h",
+                    "quantidade": 568,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "11h",
+                    "quantidade": 866,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "12h",
+                    "quantidade": -832,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 corretiiva;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "13h",
+                    "quantidade": -612,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 corretiiva;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "14h",
+                    "quantidade": -889,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 corretiiva;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "15h",
+                    "quantidade": -731,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 corretiiva;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "16h",
+                    "quantidade": 683,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "17h",
+                    "quantidade": 704,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "18h",
+                    "quantidade": 544,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "19h",
+                    "quantidade": -1659,
+                    "justificativa": "Impacto Principal: - REP 02,06: Troca de turno;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "20h",
+                    "quantidade": -478,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 reposicionamento;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "21h",
+                    "quantidade": -711,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 reposicionamento, REP 02: Baixa oferta, DF da PC 8109 PUL BSM 07;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "22h",
+                    "quantidade": -711,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 reposicionamento, REP 02: Baixa oferta, DF da PC 8109 PUL BSM 07;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "23h",
+                    "quantidade": -811,
+                    "justificativa": "Impacto Principal: - REP6 baixa oferta ESC 0901 reposicionamento, REP 02: Baixa oferta, DF da PC 8109 PUL BSM 07;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "24h",
+                    "quantidade": 60,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/15/2024",
+                    "hora": "1h",
+                    "quantidade": 147,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "2h",
+                    "quantidade": 62,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "3h",
+                    "quantidade": 206,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "4h",
+                    "quantidade": 78,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "5h",
+                    "quantidade": 213,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "6h",
+                    "quantidade": 18,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "7h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "8h",
+                    "quantidade": 66,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "9h",
+                    "quantidade": 145,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "10h",
+                    "quantidade": 212,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "11h",
+                    "quantidade": 230,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "12h",
+                    "quantidade": 254,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "13h",
+                    "quantidade": 250,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "14h",
+                    "quantidade": -138,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "15h",
+                    "quantidade": -142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "16h",
+                    "quantidade": 1,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "17h",
+                    "quantidade": 213,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "18h",
+                    "quantidade": 289,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "19h",
+                    "quantidade": -142,
+                    "justificativa": "Impacto Principal: - REP 03: recompondo pulmão;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "20h",
+                    "quantidade": -89,
+                    "justificativa": "Impacto Principal: - REP 03: recompondo pulmão;"
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "21h",
+                    "quantidade": 68,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "22h",
+                    "quantidade": 50,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "23h",
+                    "quantidade": -14,
+                    "justificativa": " "
+                },
+                {
+                    "data": "08/15/2024",
+                    "hora": "24h",
+                    "quantidade": 123,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

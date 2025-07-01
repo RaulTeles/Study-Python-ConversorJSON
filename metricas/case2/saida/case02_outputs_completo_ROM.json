@@ -1,0 +1,601 @@
+{
+  "tipo": "ROM",
+  "buildUp_tecnico": [
+    {
+      "sistema": "S1SS",
+      "total_sistema": 478,
+      "equipamentos": [
+        {
+          "equipamento": "AL1080KS901",
+          "total_equipamento": -163,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "total_indicador": -70,
+              "detalhes": [
+                {
+                  "saldo": -18,
+                  "justificativa": "Houve perda de interface com o COI, resultando em falha de comunicação."
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "total_indicador": -54,
+              "detalhes": [
+                {
+                  "saldo": -504,
+                  "justificativa": "Aguardando planejamento devido à necessidade de priorizar a recomposição das pilhas dos sistemas."
+                },
+                {
+                  "saldo": -163,
+                  "justificativa": "Operação parada devido ao nível baixo de pilha."
+                },
+                {
+                  "saldo": -41,
+                  "justificativa": "Equipamento parado para formação de pilha."
+                },
+                {
+                  "saldo": -29,
+                  "justificativa": "Operação parada devido ao nível baixo de pilha."
+                },
+                {
+                  "saldo": -27,
+                  "justificativa": "Aguardando planejamento para formação de pilha."
+                },
+                {
+                  "saldo": -25,
+                  "justificativa": "Operação parada aguardando formação de pilha."
+                },
+                {
+                  "saldo": -20,
+                  "justificativa": "Operação parada aguardando formação de pilha."
+                },
+                {
+                  "saldo": -19,
+                  "justificativa": "Pilha cheia, manutenção corretiva programada no TR2011KS09."
+                },
+                {
+                  "saldo": -16,
+                  "justificativa": "Manutenção preditiva realizada conforme análise CMA Nº610078."
+                },
+                {
+                  "saldo": -12,
+                  "justificativa": "Parada devido a vazamento de óleo na transmissão e rompimento da mangueira hidráulica do PC31."
+                },
+                {
+                  "saldo": -12,
+                  "justificativa": "Operação parada devido ao limite de capacidade circ. posterior."
+                },
+                {
+                  "saldo": -11,
+                  "justificativa": "Operação parada devido ao limite de capacidade circ. posterior."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "Operação parada para formação de pilha."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "Parada para revezamento/refeição do operador."
+                },
+                {
+                  "saldo": -6,
+                  "justificativa": "Operação parada aguardando acerto de praça."
+                },
+                {
+                  "saldo": 847,
+                  "justificativa": "Compensação por dias com maior utilização física."
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "total_indicador": -39,
+              "detalhes": [
+                {
+                  "saldo": -23,
+                  "justificativa": "Falha de contator trip no EX901, realizada troca do cabo do Feedback YS1080KS9003."
+                },
+                {
+                  "saldo": -14,
+                  "justificativa": "Ajuste no sensor do eletroímã em avaliação."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "equipamento": "MSAL1080KS04",
+          "total_equipamento": 641,
+          "indicadores": [
+            {
+              "tipo": "DF",
+              "total_indicador": -113,
+              "detalhes": [
+                {
+                  "saldo": -18,
+                  "justificativa": "Houve perda de interface com o COI, resultando em falha de comunicação."
+                },
+                {
+                  "saldo": -16,
+                  "justificativa": "Necessidade de intervenção no controlador devido a falha na rede e falha nos parâmetros do sensor de velocidade."
+                },
+                {
+                  "saldo": -14,
+                  "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002."
+                },
+                {
+                  "saldo": -11,
+                  "justificativa": "Manutenção corretiva na mesa de impacto lança descarga BM04, reposição de cavalete."
+                },
+                {
+                  "saldo": -10,
+                  "justificativa": "Falha no freio da elevação da EC53, realizada troca de bateria LCT."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "Ajuste no pino da mola do freio da elevação."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador."
+                }
+              ]
+            },
+            {
+              "tipo": "taxa",
+              "total_indicador": -70,
+              "detalhes": [
+                {
+                  "saldo": -18,
+                  "justificativa": "Houve perda de interface com o COI, resultando em falha de comunicação."
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "total_indicador": 824,
+              "detalhes": [
+                {
+                  "saldo": -8,
+                  "justificativa": "Parada para locomoção/reposicionamento pós manutenção."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Parada para troca de rolete na TR201104."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Parada para mudança de corredor com inversão EC."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Corte de borda na correia, atuado rip cord."
+                },
+                {
+                  "saldo": 853,
+                  "justificativa": "Compensação por dias com maior utilização física."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sistema": "S2SS",
+      "total_sistema": 216.2,
+      "equipamentos": [
+        {
+          "equipamento": "MSAL1080KS02",
+          "total_equipamento": 216.2,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "total_indicador": -70,
+              "detalhes": [
+                {
+                  "saldo": -18,
+                  "justificativa": "Houve perda de interface com o COI devido a uma falha de comunicação."
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "total_indicador": 0.2,
+              "detalhes": [
+                {
+                  "saldo": -20,
+                  "justificativa": "O cabo de elevação da caçamba foi danificado, aguardando reparo pela mecânica."
+                },
+                {
+                  "saldo": -12,
+                  "justificativa": "A temperatura alta no rolo móvel do britador causou mau contato no painel elétrico."
+                },
+                {
+                  "saldo": -10,
+                  "justificativa": "A proteção atuou devido a uma falha no guincho, necessitando ajuste na célula de carga."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "A escavação foi interrompida devido ao rompimento do cabo de aço."
+                },
+                {
+                  "saldo": 50,
+                  "justificativa": "Compensação por dias com maior disponibilidade física."
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "total_indicador": 286,
+              "detalhes": [
+                {
+                  "saldo": -35,
+                  "justificativa": "A formação de pilha resultou em falta de alimentação e nível baixo de pilha."
+                },
+                {
+                  "saldo": -28,
+                  "justificativa": "A taxa foi restrita devido à manutenção no BR2012-03, despriorizando o sistema para recomposição da pilha."
+                },
+                {
+                  "saldo": -20,
+                  "justificativa": "Manutenção preventiva Pit Stop TCLD foi realizada."
+                },
+                {
+                  "saldo": -13,
+                  "justificativa": "Acúmulo de material gerou travamento do cabeça móvel por sobrecarga."
+                },
+                {
+                  "saldo": -12,
+                  "justificativa": "O alimentador foi parado devido à presença de sucata no chute de descarga."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "A troca de rolete foi necessária devido à quebra."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Laudo CMA indicou necessidade de manutenção planejada não sistemática."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "O detector de rasgo atuou devido ao corte de tira na correia."
+                },
+                {
+                  "saldo": 415,
+                  "justificativa": "Compensação por dias com maior utilização física."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sistema": "S3SS",
+      "total_sistema": -110,
+      "equipamentos": [
+        {
+          "equipamento": "AL1080KS902",
+          "total_equipamento": -305,
+          "indicadores": [
+            {
+              "tipo": "UF",
+              "total_indicador": -269,
+              "detalhes": [
+                {
+                  "saldo": -312,
+                  "justificativa": "Parada operacional devido à espera por planejamento."
+                },
+                {
+                  "saldo": -289,
+                  "justificativa": "Falta de alimentação causada por nível baixo de pilha."
+                },
+                {
+                  "saldo": -225,
+                  "justificativa": "Parada operacional não programada para priorizar a recomposição das pilhas dos sistemas."
+                },
+                {
+                  "saldo": -150,
+                  "justificativa": "Falta de alimentação enquanto aguardava a formação de pilha."
+                },
+                {
+                  "saldo": -92,
+                  "justificativa": "Falta de alimentação enquanto aguardava a formação de pilha."
+                },
+                {
+                  "saldo": -20,
+                  "justificativa": "Parada aguardando operador para revezamento/refeição."
+                },
+                {
+                  "saldo": -15,
+                  "justificativa": "Parada operacional para inspeção."
+                },
+                {
+                  "saldo": -13,
+                  "justificativa": "Limpeza no retorno do alimentador devido ao acúmulo de material."
+                },
+                {
+                  "saldo": -12,
+                  "justificativa": "Instalação de cabo de ancoragem nos cavaletes devido à vibração causada pelo descolamento do revestimento do tambor."
+                },
+                {
+                  "saldo": -10,
+                  "justificativa": "Manutenção preditiva conforme análise CMA."
+                },
+                {
+                  "saldo": 869,
+                  "justificativa": "Compensação por dias com maior utilização física."
+                }
+              ]
+            },
+            {
+              "tipo": "taxa",
+              "total_indicador": -70,
+              "detalhes": [
+                {
+                  "saldo": -18,
+                  "justificativa": "Perda de interface com o COI devido a falha de comunicação."
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "total_indicador": 34,
+              "detalhes": [
+                {
+                  "saldo": -13,
+                  "justificativa": "Parada devido à proteção da ventoinha do M2 do britador solta."
+                },
+                {
+                  "saldo": 47,
+                  "justificativa": "Compensação por dias com maior disponibilidade física."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "equipamento": "MSAL1080KS03",
+          "total_equipamento": 195,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "total_indicador": -70,
+              "detalhes": [
+                {
+                  "saldo": -18,
+                  "justificativa": "Perda de interface com o COI devido a falha de comunicação."
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "total_indicador": -19,
+              "detalhes": [
+                {
+                  "saldo": -10,
+                  "justificativa": "Parada devido a falha no fechamento da caçamba."
+                },
+                {
+                  "saldo": -9,
+                  "justificativa": "Baixo nível de óleo no redutor de giro, completando nível."
+                },
+                {
+                  "saldo": -9,
+                  "justificativa": "Reposição de guirlandas devido à quebra do rolete de guia."
+                },
+                {
+                  "saldo": -9,
+                  "justificativa": "Rasgo na correia, realizando emenda."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "Perda de interface com o COI devido a falha de comunicação."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Parada para remoção de reparo na correia."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Falha de comunicação com o CLP, resolvida após desligamento do rádio."
+                },
+                {
+                  "saldo": -3,
+                  "justificativa": "Ajuste no suporte e sensor devido a falha no sensor de velocidade."
+                },
+                {
+                  "saldo": 43,
+                  "justificativa": "Compensação por dias com maior disponibilidade física."
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "total_indicador": 284,
+              "detalhes": [
+                {
+                  "saldo": -27,
+                  "justificativa": "Parada para retirada de material que escorreu da pilha sobre a esteira da escavadeira."
+                },
+                {
+                  "saldo": -22,
+                  "justificativa": "Manutenção preventiva Pit Stop TCLD."
+                },
+                {
+                  "saldo": -21,
+                  "justificativa": "Falta de alimentação devido à formação de pilha."
+                },
+                {
+                  "saldo": -20,
+                  "justificativa": "Bloco fora de especificação no alimentador."
+                },
+                {
+                  "saldo": -16,
+                  "justificativa": "Pilha cheia, corretiva programada no TR2011KS09."
+                },
+                {
+                  "saldo": -12,
+                  "justificativa": "Instalação de cabo de ancoragem nos cavaletes devido à vibração causada pelo descolamento do revestimento do tambor."
+                },
+                {
+                  "saldo": -9,
+                  "justificativa": "Acerto de praça e limpeza antes da locomoção."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Parada para retirada de chapa no chute de descarga da TR1081KS11."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Detector de rasgo atuado, corte de tira na correia."
+                },
+                {
+                  "saldo": -5,
+                  "justificativa": "Manobra de cabo para desplugar caminhão enrolador e conectar no CRC-01."
+                },
+                {
+                  "saldo": 430,
+                  "justificativa": "Compensação por dias com maior utilização física."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sistema": "S4SS",
+      "total_sistema": 601.3,
+      "equipamentos": [
+        {
+          "equipamento": "MSAL1080KS01",
+          "total_equipamento": 601.3,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "total_indicador": -70,
+              "detalhes": [
+                {
+                  "saldo": -18,
+                  "justificativa": "Perda de interface com o COI devido a falha de comunicação."
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "total_indicador": -0.7,
+              "detalhes": [
+                {
+                  "saldo": -22,
+                  "justificativa": "Falha de comunicação nos ativos de rede."
+                },
+                {
+                  "saldo": -11,
+                  "justificativa": "Parada devido à quebra do freio de abrir caçamba."
+                },
+                {
+                  "saldo": -11,
+                  "justificativa": "Parado devido ao rompimento do cabo de abertura da caçamba."
+                },
+                {
+                  "saldo": -10,
+                  "justificativa": "Troca do sensor de velocidade e ajuste realizado."
+                },
+                {
+                  "saldo": -9,
+                  "justificativa": "Troca do acoplamento de encoder."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "Cabeamento do rip cord XS-4002 ajustado."
+                },
+                {
+                  "saldo": 70,
+                  "justificativa": "Compensação por dias com maior disponibilidade física."
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "total_indicador": 672,
+              "detalhes": [
+                {
+                  "saldo": -54,
+                  "justificativa": "Formação de pilha devido ao nível baixo de pilha."
+                },
+                {
+                  "saldo": -48,
+                  "justificativa": "Nível baixo de pilha."
+                },
+                {
+                  "saldo": -33,
+                  "justificativa": "Mudança de corredor com inversão de escavadeira."
+                },
+                {
+                  "saldo": -20,
+                  "justificativa": "Manutenção preventiva Pit Stop TCLD."
+                },
+                {
+                  "saldo": -12,
+                  "justificativa": "Troca de dois rolos de impacto conforme laudo CMA."
+                },
+                {
+                  "saldo": -10,
+                  "justificativa": "Pilha cheia, corretiva programada no TR2011KS09."
+                },
+                {
+                  "saldo": -9,
+                  "justificativa": "Parado para realizar formação de pilha."
+                },
+                {
+                  "saldo": -9,
+                  "justificativa": "Parado para executar troca de rolete na TR201104."
+                },
+                {
+                  "saldo": -8,
+                  "justificativa": "Parado devido obstrução na intermediária causada por detonação."
+                },
+                {
+                  "saldo": -7,
+                  "justificativa": "Mudança de corredor com inversão de escavadeira."
+                },
+                {
+                  "saldo": 882,
+                  "justificativa": "Compensação por dias com maior utilização física."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buildUp_semanal": [
+    {
+      "sistema": "S1SS",
+      "buildUp": "**-163Kt AL1080KS901**\n-**-70Kt Taxa Horária**\n\t-**-18Kt** Houve perda de interface com o COI, resultando em falha de comunicação.\n-**-54Kt Utilização Física**\n\t-**-504Kt** Aguardando planejamento devido à necessidade de priorizar a recomposição das pilhas dos sistemas.\n\t-**-163Kt** Operação parada devido ao nível baixo de pilha.\n\t-**-41Kt** Equipamento parado para formação de pilha.\n\t-**-29Kt** Operação parada devido ao nível baixo de pilha.\n\t-**-27Kt** Aguardando planejamento para formação de pilha.\n\t-**-25Kt** Operação parada aguardando formação de pilha.\n\t-**-20Kt** Operação parada aguardando formação de pilha.\n\t-**-19Kt** Pilha cheia, manutenção corretiva programada no TR2011KS09.\n\t-**-16Kt** Manutenção preditiva realizada conforme análise CMA Nº610078.\n\t-**-12Kt** Parada devido a vazamento de óleo na transmissão e rompimento da mangueira hidráulica do PC31.\n\t-**-12Kt** Operação parada devido ao limite de capacidade circ. posterior.\n\t-**-11Kt** Operação parada devido ao limite de capacidade circ. posterior.\n\t-**-8Kt** Operação parada para formação de pilha.\n\t-**-8Kt** Parada para revezamento/refeição do operador.\n\t-**-6Kt** Operação parada aguardando acerto de praça.\n\t-**+847Kt** Compensação por dias com maior utilização física.\n-**-39Kt Disponibilidade Física**\n\t-**-23Kt** Falha de contator trip no EX901, realizada troca do cabo do Feedback YS1080KS9003.\n\t-**-14Kt** Ajuste no sensor do eletroímã em avaliação.\n**+641Kt MSAL1080KS04**\n-**-113Kt Disponibilidade Física**\n\t-**-18Kt** Houve perda de interface com o COI, resultando em falha de comunicação.\n\t-**-16Kt** Necessidade de intervenção no controlador devido a falha na rede e falha nos parâmetros do sensor de velocidade.\n\t-**-14Kt** Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002.\n\t-**-11Kt** Manutenção corretiva na mesa de impacto lança descarga BM04, reposição de cavalete.\n\t-**-10Kt** Falha no freio da elevação da EC53, realizada troca de bateria LCT.\n\t-**-8Kt** Ajuste no pino da mola do freio da elevação.\n\t-**-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador.\n-**-70Kt Taxa Horária**\n\t-**-18Kt** Houve perda de interface com o COI, resultando em falha de comunicação.\n-**+824Kt Utilização Física**\n\t-**-8Kt** Parada para locomoção/reposicionamento pós manutenção.\n\t-**-7Kt** Parada para troca de rolete na TR201104.\n\t-**-7Kt** Parada para mudança de corredor com inversão EC.\n\t-**-7Kt** Corte de borda na correia, atuado rip cord.\n\t-**+853Kt** Compensação por dias com maior utilização física."
+    },
+    {
+      "sistema": "S2SS",
+      "buildUp": "**+216.2Kt MSAL1080KS02**\n-**-70Kt Taxa Horária**\n\t-**-18Kt** Houve perda de interface com o COI devido a uma falha de comunicação.\n-**+0.2Kt Disponibilidade Física**\n\t-**-20Kt** O cabo de elevação da caçamba foi danificado, aguardando reparo pela mecânica.\n\t-**-12Kt** A temperatura alta no rolo móvel do britador causou mau contato no painel elétrico.\n\t-**-10Kt** A proteção atuou devido a uma falha no guincho, necessitando ajuste na célula de carga.\n\t-**-8Kt** A escavação foi interrompida devido ao rompimento do cabo de aço.\n\t-**+50Kt** Compensação por dias com maior disponibilidade física.\n-**+286Kt Utilização Física**\n\t-**-35Kt** A formação de pilha resultou em falta de alimentação e nível baixo de pilha.\n\t-**-28Kt** A taxa foi restrita devido à manutenção no BR2012-03, despriorizando o sistema para recomposição da pilha.\n\t-**-20Kt** Manutenção preventiva Pit Stop TCLD foi realizada.\n\t-**-13Kt** Acúmulo de material gerou travamento do cabeça móvel por sobrecarga.\n\t-**-12Kt** O alimentador foi parado devido à presença de sucata no chute de descarga.\n\t-**-7Kt** A troca de rolete foi necessária devido à quebra.\n\t-**-7Kt** Laudo CMA indicou necessidade de manutenção planejada não sistemática.\n\t-**-7Kt** O detector de rasgo atuou devido ao corte de tira na correia.\n\t-**+415Kt** Compensação por dias com maior utilização física."
+    },
+    {
+      "sistema": "S3SS",
+      "buildUp": "**-305Kt AL1080KS902**\n-**-269Kt Utilização Física**\n\t-**-312Kt** Parada operacional devido à espera por planejamento.\n\t-**-289Kt** Falta de alimentação causada por nível baixo de pilha.\n\t-**-225Kt** Parada operacional não programada para priorizar a recomposição das pilhas dos sistemas.\n\t-**-150Kt** Falta de alimentação enquanto aguardava a formação de pilha.\n\t-**-92Kt** Falta de alimentação enquanto aguardava a formação de pilha.\n\t-**-20Kt** Parada aguardando operador para revezamento/refeição.\n\t-**-15Kt** Parada operacional para inspeção.\n\t-**-13Kt** Limpeza no retorno do alimentador devido ao acúmulo de material.\n\t-**-12Kt** Instalação de cabo de ancoragem nos cavaletes devido à vibração causada pelo descolamento do revestimento do tambor.\n\t-**-10Kt** Manutenção preditiva conforme análise CMA.\n\t-**+869Kt** Compensação por dias com maior utilização física.\n-**-70Kt Taxa Horária**\n\t-**-18Kt** Perda de interface com o COI devido a falha de comunicação.\n-**+34Kt Disponibilidade Física**\n\t-**-13Kt** Parada devido à proteção da ventoinha do M2 do britador solta.\n\t-**+47Kt** Compensação por dias com maior disponibilidade física.\n**+195Kt MSAL1080KS03**\n-**-70Kt Taxa Horária**\n\t-**-18Kt** Perda de interface com o COI devido a falha de comunicação.\n-**-19Kt Disponibilidade Física**\n\t-**-10Kt** Parada devido a falha no fechamento da caçamba.\n\t-**-9Kt** Baixo nível de óleo no redutor de giro, completando nível.\n\t-**-9Kt** Reposição de guirlandas devido à quebra do rolete de guia.\n\t-**-9Kt** Rasgo na correia, realizando emenda.\n\t-**-8Kt** Perda de interface com o COI devido a falha de comunicação.\n\t-**-7Kt** Parada para remoção de reparo na correia.\n\t-**-7Kt** Falha de comunicação com o CLP, resolvida após desligamento do rádio.\n\t-**-3Kt** Ajuste no suporte e sensor devido a falha no sensor de velocidade.\n\t-**+43Kt** Compensação por dias com maior disponibilidade física.\n-**+284Kt Utilização Física**\n\t-**-27Kt** Parada para retirada de material que escorreu da pilha sobre a esteira da escavadeira.\n\t-**-22Kt** Manutenção preventiva Pit Stop TCLD.\n\t-**-21Kt** Falta de alimentação devido à formação de pilha.\n\t-**-20Kt** Bloco fora de especificação no alimentador.\n\t-**-16Kt** Pilha cheia, corretiva programada no TR2011KS09.\n\t-**-12Kt** Instalação de cabo de ancoragem nos cavaletes devido à vibração causada pelo descolamento do revestimento do tambor.\n\t-**-9Kt** Acerto de praça e limpeza antes da locomoção.\n\t-**-7Kt** Parada para retirada de chapa no chute de descarga da TR1081KS11.\n\t-**-7Kt** Detector de rasgo atuado, corte de tira na correia.\n\t-**-5Kt** Manobra de cabo para desplugar caminhão enrolador e conectar no CRC-01.\n\t-**+430Kt** Compensação por dias com maior utilização física."
+    },
+    {
+      "sistema": "S4SS",
+      "buildUp": "**+601.3Kt MSAL1080KS01**\n-**-70Kt Taxa Horária**\n\t-**-18Kt** Perda de interface com o COI devido a falha de comunicação.\n-**-0.7Kt Disponibilidade Física**\n\t-**-22Kt** Falha de comunicação nos ativos de rede.\n\t-**-11Kt** Parada devido à quebra do freio de abrir caçamba.\n\t-**-11Kt** Parado devido ao rompimento do cabo de abertura da caçamba.\n\t-**-10Kt** Troca do sensor de velocidade e ajuste realizado.\n\t-**-9Kt** Troca do acoplamento de encoder.\n\t-**-8Kt** Cabeamento do rip cord XS-4002 ajustado.\n\t-**+70Kt** Compensação por dias com maior disponibilidade física.\n-**+672Kt Utilização Física**\n\t-**-54Kt** Formação de pilha devido ao nível baixo de pilha.\n\t-**-48Kt** Nível baixo de pilha.\n\t-**-33Kt** Mudança de corredor com inversão de escavadeira.\n\t-**-20Kt** Manutenção preventiva Pit Stop TCLD.\n\t-**-12Kt** Troca de dois rolos de impacto conforme laudo CMA.\n\t-**-10Kt** Pilha cheia, corretiva programada no TR2011KS09.\n\t-**-9Kt** Parado para realizar formação de pilha.\n\t-**-9Kt** Parado para executar troca de rolete na TR201104.\n\t-**-8Kt** Parado devido obstrução na intermediária causada por detonação.\n\t-**-7Kt** Mudança de corredor com inversão de escavadeira.\n\t-**+882Kt** Compensação por dias com maior utilização física."
+    }
+  ],
+  "resumo_executivo": [
+    {
+      "sistema": "S3SS",
+      "resumo": "**-110Kt** Parada operacional devido à espera por planejamento."
+    }
+  ]
+}

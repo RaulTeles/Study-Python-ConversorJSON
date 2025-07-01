@@ -1,0 +1,880 @@
+{
+  "tipo": "ROM",
+  "sistemas": [
+    {
+      "sistema": "S1SS",
+      "totalSistema": 478,
+      "equipamentos": [
+        {
+          "equipamento": "AL1080KS901",
+          "totalEquipamento": -163,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "totalIndicador": -70,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "totalIndicador": -54,
+              "detalhes": [
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Não programado em função da necessidade de priorização da recomposição das pilhas dos sistemas.",
+                  "perda": -504
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Formação de pilha.",
+                  "perda": -163
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Parado para formação de pilha.",
+                  "perda": -41
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS901",
+                  "observacao": "",
+                  "perda": -29
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Aguardando formação de pilha.",
+                  "perda": -27
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Aguardando formação de pilha.",
+                  "perda": -25
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Aguardando formação de pilha",
+                  "perda": -20
+                },
+                {
+                  "causa": "Tambor de desvio",
+                  "falha": "Revestimento solto",
+                  "EGP": "TR2011KS07",
+                  "observacao": "Pilha cheia, corretiva programada no TR2011KS09.",
+                  "perda": -19
+                },
+                {
+                  "causa": "Manutenção Preditiva",
+                  "falha": "Preditiva",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Atendimento CMA ANÁLISE Nº610078",
+                  "perda": -16
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Indisponibilidade de equipamentos de mina",
+                  "EGP": "AL1080KS901",
+                  "observacao": "PC31 vazamento de óleo na transmissão, rompimento da mangueira hidráulica.",
+                  "perda": -12
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Limite de capacidade circ. posterior",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Limite de capacidade circ. posterior",
+                  "perda": -12
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Limite de capacidade circ. posterior",
+                  "EGP": "AL1080KS901",
+                  "observacao": "",
+                  "perda": -11
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "BM1080KS901",
+                  "observacao": "Parado para formação de pilha.",
+                  "perda": -8
+                },
+                {
+                  "causa": "Aguardando mão de obra",
+                  "falha": "Revezamento/refeição operador",
+                  "EGP": "AL1080KS901",
+                  "observacao": "",
+                  "perda": -8
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Aguardando acerto de praça",
+                  "EGP": "AL1080KS901",
+                  "observacao": "Acerto de praça",
+                  "perda": -6
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 847
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "totalIndicador": -39,
+              "detalhes": [
+                {
+                  "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                  "falha": "Mau contato",
+                  "EGP": "EX1080KS901",
+                  "observacao": "Falha de contator trip no EX901 (Realizado troca cabo do Feedback YS1080KS9003)",
+                  "perda": -23
+                },
+                {
+                  "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                  "falha": "Mau contato",
+                  "EGP": "EX1080KS901",
+                  "observacao": "Ajuste no sensor do eletroímã (Em avaliação)",
+                  "perda": -14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "equipamento": "MSAL1080KS04",
+          "totalEquipamento": 641,
+          "indicadores": [
+            {
+              "tipo": "DF",
+              "totalIndicador": -113,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                },
+                {
+                  "causa": "Ativos de rede",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "TR1081KS13",
+                  "observacao": "Necessidade de INT no controlador nos circuitos de correias devido falha na rede, falha no extrator de metais no TR1082KS02 e falha nos parâmetros do sensor de velocidade da TR1081KS13",
+                  "perda": -16
+                },
+                {
+                  "causa": "Componentes de comando, proteção e controle",
+                  "falha": "Falha sensor de velocidade",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Atuado sensor de sub velocidade no alimentador SE1001-1002, realizado reposicionamento do sensor em campo.",
+                  "perda": -14
+                },
+                {
+                  "causa": "Cavalete",
+                  "falha": "Quebra",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Manutenção corretiva na mesa de impacto lança descarga BM04, reposição de cavalete.",
+                  "perda": -11
+                },
+                {
+                  "causa": "Elevacao - Freio",
+                  "falha": "Freio",
+                  "EGP": "EC1013KS53",
+                  "observacao": "Falha no freio da elevação da EC53 (troca de bateria LCT).",
+                  "perda": -10
+                },
+                {
+                  "causa": "Elevacao - Freio",
+                  "falha": "Freio",
+                  "EGP": "EC1013KS53",
+                  "observacao": "Falha no freio da elevação. Ajuste no pino da mola do freio.",
+                  "perda": -8
+                },
+                {
+                  "causa": "Componentes de comando, proteção e controle",
+                  "falha": "Falha sensor de velocidade",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Atuado sensor de sub velocidade SE1001,1002 no alimentador, realizado ajuste e limpeza no sensor.",
+                  "perda": -8
+                }
+              ]
+            },
+            {
+              "tipo": "taxa",
+              "totalIndicador": -70,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "totalIndicador": 824,
+              "detalhes": [
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Locomoção/Reposicionamento pós Manut",
+                  "EGP": "BM1080KS04",
+                  "observacao": "",
+                  "perda": -8
+                },
+                {
+                  "causa": "Rolete de Carga",
+                  "falha": "Quebra",
+                  "EGP": "TR2011KS07",
+                  "observacao": "Parado para executar troca de rolete na TR201104.",
+                  "perda": -7
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Mudança de corredor C/ inversão EC",
+                  "EGP": "BM1080KS04",
+                  "observacao": "",
+                  "perda": -7
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Cortando tira de correia",
+                  "EGP": "TR2011KS07",
+                  "observacao": "TR2011KS07 Atuado rip cord, corte de borda.",
+                  "perda": -7
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 853
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sistema": "S2SS",
+      "totalSistema": 216.2,
+      "equipamentos": [
+        {
+          "equipamento": "MSAL1080KS02",
+          "totalEquipamento": 216.2,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "totalIndicador": -70,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "totalIndicador": 0.2,
+              "detalhes": [
+                {
+                  "causa": "Escavacao - Cabo Aco Le",
+                  "falha": "Cabo de Aco",
+                  "EGP": "EC1013KS54",
+                  "observacao": "EC54 Cabo de elevação da caçamba danificado, índice de acidente. Aguardando mecânica normalizar condição em campo.",
+                  "perda": -20
+                },
+                {
+                  "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                  "falha": "Mau contato",
+                  "EGP": "MSBR1080KS02",
+                  "observacao": "Temperatura alta no rolo móvel do britador.",
+                  "perda": -12
+                },
+                {
+                  "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                  "falha": "Proteção atuada",
+                  "EGP": "TR1081KS14",
+                  "observacao": "Falha no guincho (Realizada ajuste na célula de carga)",
+                  "perda": -10
+                },
+                {
+                  "causa": "Escavacao - Cabo Aco",
+                  "falha": "Cabo de Aco de Escavacao",
+                  "EGP": "EC1013KS54",
+                  "observacao": "Parado devido rompimento de cabo.",
+                  "perda": -8
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior disponibilidade física.",
+                  "perda": 50
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "totalIndicador": 286,
+              "detalhes": [
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MSAL1080KS02",
+                  "observacao": "Formação de pilha.",
+                  "perda": -35
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Limite de capacidade circ. posterior",
+                  "EGP": "TR1085KS01",
+                  "observacao": "Taxa restrita do TCLD devido manutenção no BR2012-03. Sistema despriorizado para recomposição da pilha.",
+                  "perda": -28
+                },
+                {
+                  "causa": "Manutenção Preventiva",
+                  "falha": "Preventiva de circuito",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Manutenção preventiva Pit Stop TCLD.",
+                  "perda": -20
+                },
+                {
+                  "causa": "Proteção Atuada",
+                  "falha": "Sobrecarga",
+                  "EGP": "TR1082KS01",
+                  "observacao": "Acúmulo de material gerando travamento do cabeça móvel.",
+                  "perda": -13
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Retirando sucata",
+                  "EGP": "TR1081KS14",
+                  "observacao": "Parado o alimentador devido sucata (cano metálico) no chute de descarga da TR1081KS14.",
+                  "perda": -12
+                },
+                {
+                  "causa": "Rolete de Carga",
+                  "falha": "Quebra",
+                  "EGP": "TR2011KS07",
+                  "observacao": "Parado para executar troca de rolete na TR201104.",
+                  "perda": -7
+                },
+                {
+                  "causa": "Parada Programada",
+                  "falha": "Manutenção Planejada Não Sistemática",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Laudo CMA",
+                  "perda": -7
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Cortando tira de correia",
+                  "EGP": "TR2011KS07",
+                  "observacao": "TR2011KS07 detector de rasgo atuado corte de tira",
+                  "perda": -7
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 415
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sistema": "S3SS",
+      "totalSistema": -110,
+      "equipamentos": [
+        {
+          "equipamento": "AL1080KS902",
+          "totalEquipamento": -305,
+          "indicadores": [
+            {
+              "tipo": "UF",
+              "totalIndicador": -269,
+              "detalhes": [
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "AL1080KS902",
+                  "observacao": "",
+                  "perda": -312
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS902",
+                  "observacao": "",
+                  "perda": -289
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "AL1080KS902",
+                  "observacao": "Não programado em função da necessidade de priorização da recomposição das pilhas dos sistemas.",
+                  "perda": -225
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS902",
+                  "observacao": "Aguardando formação de pilha",
+                  "perda": -150
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1080KS902",
+                  "observacao": "Aguardando formação de pilha.",
+                  "perda": -92
+                },
+                {
+                  "causa": "Aguardando mão de obra",
+                  "falha": "Revezamento/refeição operador",
+                  "EGP": "AL1080KS902",
+                  "observacao": "Parado aguardando operador.",
+                  "perda": -20
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Inspeção operacional",
+                  "EGP": "AL1080KS902",
+                  "observacao": "",
+                  "perda": -15
+                },
+                {
+                  "causa": "Acúmulo de material",
+                  "falha": "Limpeza",
+                  "EGP": "AL1080KS902",
+                  "observacao": "Limpeza no retorno do alimentador",
+                  "perda": -13
+                },
+                {
+                  "causa": "Cavalete",
+                  "falha": "Fixação",
+                  "EGP": "TR2011KS09",
+                  "observacao": "Instalação de Cabo de ancoragem nos cavaletes 201 a 203 (Vibração devido à descolamento de revestimento do tambor 6).",
+                  "perda": -12
+                },
+                {
+                  "causa": "Manutenção Preditiva",
+                  "falha": "Preditiva",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Atendimento CMA ANÁLISE Nº610078",
+                  "perda": -10
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 869
+                }
+              ]
+            },
+            {
+              "tipo": "taxa",
+              "totalIndicador": -70,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "totalIndicador": 34,
+              "detalhes": [
+                {
+                  "causa": "Painel elétr. (CCM, gaveta, força, comando, etc)",
+                  "falha": "Desligado",
+                  "EGP": "BR1080KS902",
+                  "observacao": "Parado divido a Proteção da Ventoina do M2 do Britador solto",
+                  "perda": -13
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior disponibilidade física.",
+                  "perda": 47
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "equipamento": "MSAL1080KS03",
+          "totalEquipamento": 195,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "totalIndicador": -70,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "totalIndicador": -19,
+              "detalhes": [
+                {
+                  "causa": "Escavacao - Cacamba",
+                  "falha": "Calco",
+                  "EGP": "EC1013KS52",
+                  "observacao": "Parado devido falha no fechamento da caçamba.",
+                  "perda": -10
+                },
+                {
+                  "causa": "Giro - Redutor Ld",
+                  "falha": "Redutor",
+                  "EGP": "EC1013KS52",
+                  "observacao": "EC52 baixo nível de óleo no redutor de giro 1, completando nível.",
+                  "perda": -9
+                },
+                {
+                  "causa": "Rolete de Guia",
+                  "falha": "Quebra",
+                  "EGP": "TR1081KS11",
+                  "observacao": "Repor Guirlandas",
+                  "perda": -9
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Rasgo",
+                  "EGP": "TR1082KS03",
+                  "observacao": "Rasgo na correia TR1081KS11, realizando emenda.",
+                  "perda": -9
+                },
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS03",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -8
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Cortando tira de correia",
+                  "EGP": "MBTR1080KS03",
+                  "observacao": "Parado para remoção de reparo na correia.",
+                  "perda": -7
+                },
+                {
+                  "causa": "Comunicação Radio",
+                  "falha": "Configuração",
+                  "EGP": "EC1013KS52",
+                  "observacao": "Falha de comunicação (Comunicação com o CLP perdida). Obs. Liberação após desligamento do rádio.",
+                  "perda": -7
+                },
+                {
+                  "causa": "Componentes de comando, proteção e controle",
+                  "falha": "Falha sensor de velocidade",
+                  "EGP": "MBTR1080KS03",
+                  "observacao": "Ajuste no suporte e sensor",
+                  "perda": -3
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior disponibilidade física.",
+                  "perda": 43
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "totalIndicador": 284,
+              "detalhes": [
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando acerto de praça",
+                  "EGP": "EC1013KS52",
+                  "observacao": "Parada para retirada de material que escorreu da pilha sobre a esteira da escavadeira EC52.Nota: Equipamentos recuados, aguardando movimentação da EC56 para realizar mudança de corredor.",
+                  "perda": -27
+                },
+                {
+                  "causa": "Manutenção Preventiva",
+                  "falha": "Preventiva de circuito",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Manutenção preventiva Pit Stop TCLD.",
+                  "perda": -22
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MSAL1080KS03",
+                  "observacao": "Formação de pilha.",
+                  "perda": -21
+                },
+                {
+                  "causa": "Obstrução",
+                  "falha": "Matacão / Lamelar",
+                  "EGP": "MSAL1080KS03",
+                  "observacao": "Bloco fora de especificação no alimentador.",
+                  "perda": -20
+                },
+                {
+                  "causa": "Tambor de desvio",
+                  "falha": "Revestimento solto",
+                  "EGP": "TR2011KS07",
+                  "observacao": "Pilha cheia, corretiva programada no TR2011KS09.",
+                  "perda": -16
+                },
+                {
+                  "causa": "Cavalete",
+                  "falha": "Fixação",
+                  "EGP": "TR2011KS09",
+                  "observacao": "Instalação de Cabo de ancoragem nos cavaletes 201 a 203 (Vibração devido à descolamento de revestimento do tambor 6).",
+                  "perda": -12
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Aguardando acerto de praça",
+                  "EGP": "MSAL1080KS03",
+                  "observacao": "Acerto de praça e limpeza antes da locomoção.",
+                  "perda": -9
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Retirando sucata",
+                  "EGP": "TR1081KS11",
+                  "observacao": "Parada para retirada de chapa no chute de descarga da TR1081KS11.",
+                  "perda": -7
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Cortando tira de correia",
+                  "EGP": "TR2011KS07",
+                  "observacao": "TR2011KS07 detector de rasgo atuado corte de tira",
+                  "perda": -7
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Manobra de cabo",
+                  "EGP": "BM1080KS03",
+                  "observacao": "Manobra de cabo para desplugar caminhão enrolador e conectar no CRC-01.",
+                  "perda": -5
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 430
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sistema": "S4SS",
+      "totalSistema": 601.3,
+      "equipamentos": [
+        {
+          "equipamento": "MSAL1080KS01",
+          "totalEquipamento": 601.3,
+          "indicadores": [
+            {
+              "tipo": "taxa",
+              "totalIndicador": -70,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "totalIndicador": -0.7,
+              "detalhes": [
+                {
+                  "causa": "Ativos de rede",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS01",
+                  "observacao": "",
+                  "perda": -22
+                },
+                {
+                  "causa": "Escavacao - Freio",
+                  "falha": "Freio",
+                  "EGP": "EC1013KS55",
+                  "observacao": "EC55 Parada quebra do freio de abrir caçamba.",
+                  "perda": -11
+                },
+                {
+                  "causa": "Escavacao - Cabo Aco",
+                  "falha": "Cabo de Aco de Escavacao",
+                  "EGP": "EC1013KS55",
+                  "observacao": "Parado devido rompimento do cabo de abertura da caçamba.",
+                  "perda": -11
+                },
+                {
+                  "causa": "Componentes de comando, proteção e controle",
+                  "falha": "Falha sensor de velocidade",
+                  "EGP": "MSTR1080KS11",
+                  "observacao": "Realizado troca do sensor e feito ajuste.",
+                  "perda": -10
+                },
+                {
+                  "causa": "Componentes de controle e medição",
+                  "falha": "Falha encoder",
+                  "EGP": "TR1082KS04",
+                  "observacao": "Troca do acoplamento de encoder",
+                  "perda": -9
+                },
+                {
+                  "causa": "Componentes de controle e medição",
+                  "falha": "Ajuste/Calibração Sensor rasgo de correia",
+                  "EGP": "TR1082KS04",
+                  "observacao": "Cabeamento do rip cord XS-4002.",
+                  "perda": -8
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior disponibilidade física.",
+                  "perda": 70
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "totalIndicador": 672,
+              "detalhes": [
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MSAL1080KS01",
+                  "observacao": "Formação de pilha.",
+                  "perda": -54
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MSAL1080KS01",
+                  "observacao": "",
+                  "perda": -48
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Mudança de corredor C/ inversão EC",
+                  "EGP": "BM1080KS01",
+                  "observacao": "",
+                  "perda": -33
+                },
+                {
+                  "causa": "Manutenção Preventiva",
+                  "falha": "Preventiva de circuito",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Manutenção preventiva Pit Stop TCLD.",
+                  "perda": -20
+                },
+                {
+                  "causa": "Parada Programada",
+                  "falha": "Manutenção Planejada Não Sistemática",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Troca de dois rolos de impacto (Laudo CMA)",
+                  "perda": -12
+                },
+                {
+                  "causa": "Vulcanização",
+                  "falha": "Tambor de desvio",
+                  "EGP": "TR2011KS09",
+                  "observacao": "Pilha cheia, corretiva programada no TR2011KS09.",
+                  "perda": -10
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MSAL1080KS01",
+                  "observacao": "Parado para realizar formação de pilha.",
+                  "perda": -9
+                },
+                {
+                  "causa": "Rolete de Carga",
+                  "falha": "Quebra",
+                  "EGP": "TR2011KS07",
+                  "observacao": "Parado para executar troca de rolete na TR201104.",
+                  "perda": -9
+                },
+                {
+                  "causa": "Acúmulo de material",
+                  "falha": "Limpeza",
+                  "EGP": "MSTR1080KS11",
+                  "observacao": "Parado devido obstrução na intermediaria. ( impactado devido detonação )",
+                  "perda": -8
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Mudança de corredor C/ inversão EC",
+                  "EGP": "BM1080KS01",
+                  "observacao": "Mudança de corredor com inversão de escavadeira",
+                  "perda": -7
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 882
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

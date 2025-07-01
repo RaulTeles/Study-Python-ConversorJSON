@@ -1,0 +1,125 @@
+{
+  "tipo": "Estéril",
+  "buildUp_tecnico": [
+    {
+      "sistema": "5ª Britagem",
+      "total_sistema": -122,
+      "indicadores": [
+        {
+          "tipo": "UF",
+          "total_indicador": -220,
+          "detalhes": [
+            {
+              "saldo": -107,
+              "justificativa": "A formação de pilha resultou em falta de alimentação, causando várias paradas para aguardar a formação de pilha. Durante esse período, foi realizada a limpeza com escavadeira de material acumulado no interior da moega."
+            },
+            {
+              "saldo": -31,
+              "justificativa": "A produção de estéril não programada foi priorizada para recompor as pilhas dos sistemas."
+            },
+            {
+              "saldo": -31,
+              "justificativa": "O sistema ficou parado aguardando planejamento, sem observações adicionais."
+            },
+            {
+              "saldo": -17,
+              "justificativa": "Foi realizada a limpeza de equipamento durante a parada da 5ª Britagem/Overland 1083."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Houve um bloqueio na câmara de britagem, que foi resolvido com a quebra do bloco utilizando um rompedor."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "O sistema estava disponível, mas sem programação, devido à priorização da formação de pilhas nos sistemas convencionais."
+            },
+            {
+              "saldo": -11,
+              "justificativa": "Houve um atraso na execução da manutenção preventiva."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Indisponibilidade de equipamentos de mina (PC33) devido a falha na sirene de ré e falta de operador."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Desalinhamento ZXS3021B, troca da chave e ajuste da chave de desalinhamento ZXS-3011B, além de atuação da chave de emergência TR8302."
+            },
+            {
+              "saldo": -5,
+              "justificativa": "Parada devido à atuação do rip cord TR1083KS01 XS1009B."
+            },
+            {
+              "saldo": -4,
+              "justificativa": "Desregulagem do freio."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Falha de inclinação do MTS."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parada para realizar calibração dos pneus."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Inspeção operacional sem observações adicionais."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Não programado devido à falta de equipamento de carga disponível."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "PC31 apresentou nível baixo do óleo de transmissão."
+            },
+            {
+              "saldo": 32,
+              "justificativa": "Compensação por dias com maior utilização física."
+            }
+          ]
+        },
+        {
+          "tipo": "taxa",
+          "total_indicador": 18,
+          "detalhes": [
+            {
+              "saldo": -18,
+              "justificativa": "Perda de interface com o COI devido a falha de comunicação."
+            },
+            {
+              "saldo": 36,
+              "justificativa": "Compensação por dias com maior taxa horária."
+            }
+          ]
+        },
+        {
+          "tipo": "DF",
+          "total_indicador": 80,
+          "detalhes": [
+            {
+              "saldo": -1,
+              "justificativa": "Inspeção na abanadeira do britador, aguardando diagnóstico."
+            },
+            {
+              "saldo": 81,
+              "justificativa": "Compensação por dias com maior disponibilidade física."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buildUp_semanal": [
+    {
+      "sistema": "5ª Britagem",
+      "buildUp": "-**-220Kt Utilização Física**\n\t-**-107Kt** A formação de pilha resultou em falta de alimentação, causando várias paradas para aguardar a formação de pilha. Durante esse período, foi realizada a limpeza com escavadeira de material acumulado no interior da moega.\n\t-**-31Kt** A produção de estéril não programada foi priorizada para recompor as pilhas dos sistemas.\n\t-**-31Kt** O sistema ficou parado aguardando planejamento, sem observações adicionais.\n\t-**-17Kt** Foi realizada a limpeza de equipamento durante a parada da 5ª Britagem/Overland 1083.\n\t-**-12Kt** Houve um bloqueio na câmara de britagem, que foi resolvido com a quebra do bloco utilizando um rompedor.\n\t-**-12Kt** O sistema estava disponível, mas sem programação, devido à priorização da formação de pilhas nos sistemas convencionais.\n\t-**-11Kt** Houve um atraso na execução da manutenção preventiva.\n\t-**-6Kt** Indisponibilidade de equipamentos de mina (PC33) devido a falha na sirene de ré e falta de operador.\n\t-**-6Kt** Desalinhamento ZXS3021B, troca da chave e ajuste da chave de desalinhamento ZXS-3011B, além de atuação da chave de emergência TR8302.\n\t-**-5Kt** Parada devido à atuação do rip cord TR1083KS01 XS1009B.\n\t-**-4Kt** Desregulagem do freio.\n\t-**-3Kt** Falha de inclinação do MTS.\n\t-**-2Kt** Parada para realizar calibração dos pneus.\n\t-**-1Kt** Inspeção operacional sem observações adicionais.\n\t-**-1Kt** Não programado devido à falta de equipamento de carga disponível.\n\t-**-1Kt** PC31 apresentou nível baixo do óleo de transmissão.\n\t-**+32Kt** Compensação por dias com maior utilização física.\n-**+18Kt Taxa Horária**\n\t-**-18Kt** Perda de interface com o COI devido a falha de comunicação.\n\t-**+36Kt** Compensação por dias com maior taxa horária.\n-**+80Kt Disponibilidade Física**\n\t-**-1Kt** Inspeção na abanadeira do britador, aguardando diagnóstico.\n\t-**+81Kt** Compensação por dias com maior disponibilidade física."
+    }
+  ],
+  "resumo_executivo": [
+    {
+      "sistema": "5ª Britagem",
+      "resumo": "-107 A formação de pilha resultou em falta de alimentação, causando várias paradas para aguardar a formação de pilha. Durante esse período, foi realizada a limpeza com escavadeira de material acumulado no interior da moega."
+    }
+  ]
+}

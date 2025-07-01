@@ -1,0 +1,26 @@
+{
+  "regiao": "Serra Norte",
+  "usinas": [
+    {
+      "usina": "USINA I",
+      "comentarios": "A usina enfrentou uma falha de comunicação devido a um pico de energia, resultando na parada de todo o circuito da US-01. Houve uma oscilação de tensão causada por uma atuação de proteção no disjuntor da linha da Usina II. Além disso, a baixa DF de linhas no PEN 2 impactou negativamente a produção. A BSM-02 também foi parada devido a sucata orgânica na PN-113-02."
+    },
+    {
+      "usina": "USINA II",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA III",
+      "comentarios": "A baixa oferta de ROM no EIXO N5, devido a condições de acesso pós-chuva, foi um dos principais impactos. A usina também sofreu com uma falha de comunicação proveniente de um pico de energia, que parou todo o circuito da US-01. Além disso, a baixa produtividade no REP-02 e 06, proveniente do material do PUL-625 e DF da ESC-0901, contribuiu para as perdas."
+    },
+    {
+      "usina": "USINA IV",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA V",
+      "comentarios": "Não houveram perdas significativas"
+    }
+  ],
+  "resumo_executivo": "Impacto devido à falha de comunicação causada por um pico de energia, que paralisou todo o circuito da Usina 01, resultando em uma perda significativa. Além disso, a baixa disponibilidade física das linhas de peneiramento secundário contribuiu para uma redução adicional na produção. Outro fator relevante foi a parada da britagem semi imóvel devido à presença de sucata orgânica na peneira, afetando ainda mais a produção."
+}

@@ -1,0 +1,610 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/11/2024",
+                    "hora": "1h",
+                    "quantidade": 694,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "2h",
+                    "quantidade": 6338,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "3h",
+                    "quantidade": 1873,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "4h",
+                    "quantidade": -810,
+                    "justificativa": "Principal Impacto:   BM06: baixa oferta devido Esc 0907 aceto de praça e DF de equipamento de carga / BRIT: baixa oferta devido DF equipamento de carga Pá 8109 e Esc 1002 priorizando BSM03. "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "5h",
+                    "quantidade": -4228,
+                    "justificativa": "Principal Impacto:   BM06: baixa oferta devido Esc 0907 aceto de praça e DF de equipamento de carga / BRIT: baixa oferta devido DF equipamento de carga Pá 8109 e Esc 1002 priorizando BSM03. "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "6h",
+                    "quantidade": -1804,
+                    "justificativa": "Principal Impacto:   BM06: baixa oferta devido Esc 0907 aceto de praça e DF de equipamento de carga / BRIT: baixa oferta devido DF equipamento de carga Pá 8109 e Esc 1002 priorizando BSM03. "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "7h",
+                    "quantidade": -2622,
+                    "justificativa": "Principal Impacto: troca de turno na mina;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "8h",
+                    "quantidade": -4830,
+                    "justificativa": "Principal Impacto: BR 122-03/BR II: parada devido sucata no britador;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "9h",
+                    "quantidade": -324,
+                    "justificativa": "Principal Impacto: BR 122-03/BR II: parada devido sucata no britador;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "10h",
+                    "quantidade": -287,
+                    "justificativa": "Principal Impacto: corte das linhas úmido devido desarme dos compressores;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "11h",
+                    "quantidade": 5347,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "12h",
+                    "quantidade": -1889,
+                    "justificativa": "Principal Impacto: BR 122-03/BR II: parada devido sucata no britador (corte das entradas pela parada do TR 122-02 para retirar sucata);"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "13h",
+                    "quantidade": -3634,
+                    "justificativa": "Principal Impacto: BR 122-03/BR II: parada devido sucata no britador (corte das entradas pela parada do TR 122-02 para retirar sucata);"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "14h",
+                    "quantidade": -939,
+                    "justificativa": "Principal Impacto: BR 122-03/BR II: parada devido sucata no britador (restringindo alimentação das entradas);"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "15h",
+                    "quantidade": -500,
+                    "justificativa": "Principal Impacto: BR 122-03/BR II: parada devido sucata no britador (restringindo alimentação das entradas);"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "16h",
+                    "quantidade": 2265,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "17h",
+                    "quantidade": -623,
+                    "justificativa": "Principal Impacto: BR 122-03/BR II: parada devido sucata no britador (restringindo alimentação das entradas);"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "18h",
+                    "quantidade": 512,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "19h",
+                    "quantidade": 770,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "20h",
+                    "quantidade": -473,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "21h",
+                    "quantidade": -3266,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "22h",
+                    "quantidade": -3442,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "23h",
+                    "quantidade": -3438,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "24h",
+                    "quantidade": -3184,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/11/2024",
+                    "hora": "1h",
+                    "quantidade": -192,
+                    "justificativa": "Principal Impacto:  Classificação parada devido DP3030-01 obstrução acumulo de material "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "2h",
+                    "quantidade": -501,
+                    "justificativa": "Principal Impacto:  Classificação parada devido DP3030-01 obstrução acumulo de material "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "3h",
+                    "quantidade": -24,
+                    "justificativa": "Principal Impacto:  TR 2030-04/BSM05: Circuito parado devido rompimento linha de rip cord  "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "4h",
+                    "quantidade": -630,
+                    "justificativa": "Principal Impacto:  TR 2030-04/BSM05: Circuito parado devido rompimento linha de rip cord  "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "5h",
+                    "quantidade": 474,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "6h",
+                    "quantidade": 1548,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "7h",
+                    "quantidade": 1202,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "8h",
+                    "quantidade": -1767,
+                    "justificativa": "Principal Impacto: BSM5: locomoção da pá 8115 BCO490;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "9h",
+                    "quantidade": 157,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "10h",
+                    "quantidade": 220,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "11h",
+                    "quantidade": -59,
+                    "justificativa": "Principal Impacto: Classificação: ajuste de vazão devido restrição do TR 5010-01;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "12h",
+                    "quantidade": -101,
+                    "justificativa": "Principal Impacto: Classificação: ajuste de vazão devido restrição do TR 5010-01;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "13h",
+                    "quantidade": 705,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "14h",
+                    "quantidade": 270,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "15h",
+                    "quantidade": 165,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "16h",
+                    "quantidade": -238,
+                    "justificativa": "Principal Impacto: TR 3011-17/Classificação: limpeza preventiva;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "17h",
+                    "quantidade": -473,
+                    "justificativa": "Principal Impacto: TR 2030-03/BSM5: nível alto no chute por blocos;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "18h",
+                    "quantidade": 529,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "19h",
+                    "quantidade": 986,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "20h",
+                    "quantidade": 778,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "21h",
+                    "quantidade": -502,
+                    "justificativa": "Principal Impacto: : TR-5010-01:  parada devido  desalinhamento "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "22h",
+                    "quantidade": -2138,
+                    "justificativa": "Principal Impacto: : TR-5010-01:  parada devido  desalinhamento e falha de freio"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "23h",
+                    "quantidade": -1912,
+                    "justificativa": "Principal Impacto: : TR-5010-01:  parada devido  desalinhamento "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "24h",
+                    "quantidade": -207,
+                    "justificativa": "Principal Impacto: : TR-5010-01:  parada devido  desalinhamento "
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/11/2024",
+                    "hora": "1h",
+                    "quantidade": 2490,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "2h",
+                    "quantidade": 1310,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "3h",
+                    "quantidade": 770,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "4h",
+                    "quantidade": 1200,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "5h",
+                    "quantidade": 254,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "6h",
+                    "quantidade": 1154,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "7h",
+                    "quantidade": -756,
+                    "justificativa": "Principal Impacto: troca de turno na mina;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "8h",
+                    "quantidade": -306,
+                    "justificativa": "Principal Impacto: troca de turno na mina;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "9h",
+                    "quantidade": 528,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "10h",
+                    "quantidade": 166,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "11h",
+                    "quantidade": 46,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "12h",
+                    "quantidade": 899,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "13h",
+                    "quantidade": -338,
+                    "justificativa": "Principal Impacto: REP06: baixa UF de operadores durante revezamento;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "14h",
+                    "quantidade": -148,
+                    "justificativa": "Principal Impacto: REP06: baixa UF de operadores durante revezamento;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "15h",
+                    "quantidade": 231,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "16h",
+                    "quantidade": -528,
+                    "justificativa": "Principal Impacto: TR 1230-73 e 76/REP06:desalinhamento;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "17h",
+                    "quantidade": 382,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "18h",
+                    "quantidade": 833,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "19h",
+                    "quantidade": -195,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "20h",
+                    "quantidade": -293,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "21h",
+                    "quantidade": -1365,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "22h",
+                    "quantidade": -1063,
+                    "justificativa": "Principal Impacto: : baixa oferta devido ESC0901 falha no movimento da caçamba desde /ESC1002 acidente no cabo elétrico "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "23h",
+                    "quantidade": 50,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "24h",
+                    "quantidade": 388,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/11/2024",
+                    "hora": "1h",
+                    "quantidade": -97,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "2h",
+                    "quantidade": 114,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "3h",
+                    "quantidade": 147,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "4h",
+                    "quantidade": 25,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "5h",
+                    "quantidade": 128,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "6h",
+                    "quantidade": 87,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "7h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: troca de turno;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "8h",
+                    "quantidade": -29,
+                    "justificativa": "Principal Impacto: troca de turno;"
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "9h",
+                    "quantidade": 151,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "10h",
+                    "quantidade": 114,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "11h",
+                    "quantidade": 83,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "12h",
+                    "quantidade": 169,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "13h",
+                    "quantidade": 209,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "14h",
+                    "quantidade": 142,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "15h",
+                    "quantidade": 175,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "16h",
+                    "quantidade": 220,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "17h",
+                    "quantidade": -54,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "18h",
+                    "quantidade": 54,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "19h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: recompomdo pulmão "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "20h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: recompomdo pulmão "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "21h",
+                    "quantidade": -133,
+                    "justificativa": "Principal Impacto: recompomdo pulmão "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "22h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: recompomdo pulmão "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "23h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: recompomdo pulmão "
+                },
+                {
+                    "data": "08/11/2024",
+                    "hora": "24h",
+                    "quantidade": 48,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

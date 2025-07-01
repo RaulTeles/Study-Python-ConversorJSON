@@ -1,0 +1,241 @@
+{
+  "tipo": "Estéril",
+  "buildUp_tecnico": [
+    {
+      "sistema": "5ª Britagem",
+      "total_sistema": -122,
+      "indicadores": [
+        {
+          "tipo": "UF",
+          "total_indicador": -220,
+          "detalhes": [
+            {
+              "saldo": -22,
+              "justificativa": "Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas."
+            },
+            {
+              "saldo": -19,
+              "justificativa": "Formação de pilha resultou em falta de alimentação."
+            },
+            {
+              "saldo": -17,
+              "justificativa": "Limpeza de equipamento durante parada da 5ª Britagem/Overland 1083."
+            },
+            {
+              "saldo": -15,
+              "justificativa": "Parado por formação de pilha."
+            },
+            {
+              "saldo": -14,
+              "justificativa": "Aguardando planejamento para retomar operações."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Parado sem programação, aguardando planejamento."
+            },
+            {
+              "saldo": -12,
+              "justificativa": "Bloco na câmara de britagem, realizado a quebra com rompedor."
+            },
+            {
+              "saldo": -11,
+              "justificativa": "Atraso na execução da manutenção preventiva."
+            },
+            {
+              "saldo": -10,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -10,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -9,
+              "justificativa": "Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Disponível, sem programação em função da priorização formação de pilhas nos sistemas."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Falta de alimentação devido ao nível baixo de pilha."
+            },
+            {
+              "saldo": -6,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -5,
+              "justificativa": "Aguardando planejamento para retomar operações."
+            },
+            {
+              "saldo": -5,
+              "justificativa": "Falta de alimentação devido ao nível baixo de pilha."
+            },
+            {
+              "saldo": -4,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -4,
+              "justificativa": "Desregulagem do freio."
+            },
+            {
+              "saldo": -4,
+              "justificativa": "Formação de pilha."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Falha de inclinação do MTS."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Indisponibilidade de equipamentos de mina (PC33)."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Parada por atuação rip cord TR1083KS01 XS1009B."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Parado para formação de pilha."
+            },
+            {
+              "saldo": -3,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parado para realizar calibração dos pneus."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parada por atuação rip cord TR1083KS01 XS1009B."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Desalinhamento ZXS3021B (Troca da chave)."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Ajuste da chave de desalinhamento ZXS-3011B."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Em função da priorização de formação das pilhas dos sistemas na convencional."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "PC33 Falha na sirene de ré."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Parado para formação de pilha."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "TR8302 Atuado chave de emergência. Troca da chave de desalinhamento da cauda."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Aguardando formação de pilha."
+            },
+            {
+              "saldo": -2,
+              "justificativa": "Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional, em operação com BM11."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Parado para Formação de Pilha."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Formação de pilha."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Inspeção operacional."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Falta de Operador da PC-33."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Formação de pilha. Em oportunidade realizada a limpeza com escavadeira de material acumulado no interior da moega."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Não programado em função da falta de equipamento de carga disponível."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "PC31 Nível baixo do óleo de transmissão."
+            },
+            {
+              "saldo": -1,
+              "justificativa": "Em Formação de pilha."
+            },
+            {
+              "saldo": 32,
+              "justificativa": "Compensação por dias com maior utilização física."
+            }
+          ]
+        },
+        {
+          "tipo": "taxa",
+          "total_indicador": 18,
+          "detalhes": [
+            {
+              "saldo": -18,
+              "justificativa": "Perca de interface com o COI, falha de comunicação."
+            },
+            {
+              "saldo": 36,
+              "justificativa": "Compensação por dias com maior taxa horária."
+            }
+          ]
+        },
+        {
+          "tipo": "DF",
+          "total_indicador": 80,
+          "detalhes": [
+            {
+              "saldo": -1,
+              "justificativa": "Inspeção na abanadeira do britador (aguardando diagnostico)."
+            },
+            {
+              "saldo": 81,
+              "justificativa": "Compensação por dias com maior disponibilidade física."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "buildUp_semanal": [
+    {
+      "sistema": "5ª Britagem",
+      "buildUp": "-**-220Kt Utilização Física**\n\t-**-22Kt** Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas.\n\t-**-19Kt** Formação de pilha resultou em falta de alimentação.\n\t-**-17Kt** Limpeza de equipamento durante parada da 5ª Britagem/Overland 1083.\n\t-**-15Kt** Parado por formação de pilha.\n\t-**-14Kt** Aguardando planejamento para retomar operações.\n\t-**-12Kt** Aguardando formação de pilha.\n\t-**-12Kt** Parado sem programação, aguardando planejamento.\n\t-**-12Kt** Bloco na câmara de britagem, realizado a quebra com rompedor.\n\t-**-11Kt** Atraso na execução da manutenção preventiva.\n\t-**-10Kt** Aguardando formação de pilha.\n\t-**-10Kt** Aguardando formação de pilha.\n\t-**-9Kt** Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas.\n\t-**-6Kt** Disponível, sem programação em função da priorização formação de pilhas nos sistemas.\n\t-**-6Kt** Falta de alimentação devido ao nível baixo de pilha.\n\t-**-6Kt** Aguardando formação de pilha.\n\t-**-5Kt** Aguardando planejamento para retomar operações.\n\t-**-5Kt** Falta de alimentação devido ao nível baixo de pilha.\n\t-**-4Kt** Aguardando formação de pilha.\n\t-**-4Kt** Desregulagem do freio.\n\t-**-4Kt** Formação de pilha.\n\t-**-3Kt** Falha de inclinação do MTS.\n\t-**-3Kt** Indisponibilidade de equipamentos de mina (PC33).\n\t-**-3Kt** Parada por atuação rip cord TR1083KS01 XS1009B.\n\t-**-3Kt** Parado para formação de pilha.\n\t-**-3Kt** Aguardando formação de pilha.\n\t-**-2Kt** Aguardando formação de pilha.\n\t-**-2Kt** Parado para realizar calibração dos pneus.\n\t-**-2Kt** Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional.\n\t-**-2Kt** Parada por atuação rip cord TR1083KS01 XS1009B.\n\t-**-2Kt** Desalinhamento ZXS3021B (Troca da chave).\n\t-**-2Kt** Ajuste da chave de desalinhamento ZXS-3011B.\n\t-**-2Kt** Em função da priorização de formação das pilhas dos sistemas na convencional.\n\t-**-2Kt** PC33 Falha na sirene de ré.\n\t-**-2Kt** Parado para formação de pilha.\n\t-**-2Kt** TR8302 Atuado chave de emergência. Troca da chave de desalinhamento da cauda.\n\t-**-2Kt** Aguardando formação de pilha.\n\t-**-2Kt** Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional, em operação com BM11.\n\t-**-1Kt** Parado para Formação de Pilha.\n\t-**-1Kt** Formação de pilha.\n\t-**-1Kt** Inspeção operacional.\n\t-**-1Kt** Falta de Operador da PC-33.\n\t-**-1Kt** Formação de pilha. Em oportunidade realizada a limpeza com escavadeira de material acumulado no interior da moega.\n\t-**-1Kt** Não programado em função da falta de equipamento de carga disponível.\n\t-**-1Kt** PC31 Nível baixo do óleo de transmissão.\n\t-**-1Kt** Em Formação de pilha.\n\t-**+32Kt** Compensação por dias com maior utilização física.\n-**+18Kt Taxa Horária**\n\t-**-18Kt** Perca de interface com o COI, falha de comunicação.\n\t-**+36Kt** Compensação por dias com maior taxa horária.\n-**+80Kt Disponibilidade Física**\n\t-**-1Kt** Inspeção na abanadeira do britador (aguardando diagnostico).\n\t-**+81Kt** Compensação por dias com maior disponibilidade física."
+    }
+  ],
+  "resumo_executivo": [
+    {
+      "sistema": "5ª Britagem",
+      "resumo": "-22 Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas."
+    }
+  ]
+}

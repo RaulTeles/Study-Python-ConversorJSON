@@ -1,0 +1,385 @@
+{
+  "tipo": "ESTÉRIL",
+  "sistemas": [
+    {
+      "sistema": "5ª Britagem",
+      "totalSistema": -122,
+      "equipamentos": [
+        {
+          "equipamento": "Equipamentos agrupados",
+          "totalEquipamento": -122,
+          "indicadores": [
+            {
+              "tipo": "UF",
+              "totalIndicador": -220,
+              "detalhes": [
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas. Produção a ser realizada em oportunidade no caso de lavra seletiva.",
+                  "perda": -22
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Formação de pilha.",
+                  "perda": -19
+                },
+                {
+                  "causa": "Manutenção Preventiva",
+                  "falha": "Limpeza de equipamento",
+                  "EGP": "TR1080KS36",
+                  "observacao": "Disponível sem programação em função parada 5ª Britagem/Overland 1083.",
+                  "perda": -17
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Parado por formação de pilha.",
+                  "perda": -15
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "",
+                  "perda": -14
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Aguardando formação de pilha",
+                  "perda": -12
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Parado sem programação (Aguardando planejamento)",
+                  "perda": -12
+                },
+                {
+                  "causa": "Obstrução",
+                  "falha": "Matacão / Lamelar",
+                  "EGP": "MCBR1080KS13",
+                  "observacao": "Bloco na câmara de britagem, realizado a quebra com rompedor.",
+                  "perda": -12
+                },
+                {
+                  "causa": "Atraso Manutenção Preventiva",
+                  "falha": "Execução do Serviço",
+                  "EGP": "TR1083KS01",
+                  "observacao": "Atraso de manutenção preventiva.",
+                  "perda": -11
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "",
+                  "perda": -10
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Aguardando formação de pilha",
+                  "perda": -10
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Produção de estéril não programada para priorizar a recomposição das pilhas dos sistemas. Produção a ser realizada em oportunidade no caso de lavra seletiva. Em oportunidade realizada a troca rolos.",
+                  "perda": -9
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Disponível, sem programação em função da priorização formação de pilhas nos sistemas/slms.",
+                  "perda": -6
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "",
+                  "perda": -6
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Aguardando formação de pilha.",
+                  "perda": -6
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "",
+                  "perda": -5
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "",
+                  "perda": -5
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Aguardando formação de pilha.",
+                  "perda": -4
+                },
+                {
+                  "causa": "Freio",
+                  "falha": "desregulagem",
+                  "EGP": "MTTR1083KS01",
+                  "observacao": "",
+                  "perda": -4
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Formação de pilha.",
+                  "perda": -4
+                },
+                {
+                  "causa": "Componentes de controle e medição",
+                  "falha": "Ajuste/Calibração Sensor de posição",
+                  "EGP": "EE1083KS01",
+                  "observacao": "Falha de inclinação do MTS",
+                  "perda": -3
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Indisponibilidade de equipamentos de mina",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "PC33",
+                  "perda": -3
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Cortando tira de correia",
+                  "EGP": "TR1083KS01",
+                  "observacao": "Parada por atuação rip cord TR1083KS01 XS1009B",
+                  "perda": -3
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Nível baixo",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Parado Para formação de pilha.",
+                  "perda": -3
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Aguardando formação de pilha.",
+                  "perda": -3
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Movimentação de material na praça",
+                  "EGP": "BM1080KS11",
+                  "observacao": "Aguardando formação de pilha",
+                  "perda": -2
+                },
+                {
+                  "causa": "Eixo Dianteiro - Roda Dd",
+                  "falha": "Pneu",
+                  "EGP": "PC1014KS33",
+                  "observacao": "Parado para realizar calibração dos pneus.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Cortando tira de correia",
+                  "EGP": "TR1083KS01",
+                  "observacao": "Parada por atuação rip cord TR1083KS01 XS1009B.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Componentes de comando, proteção e controle",
+                  "falha": "Falha Chave de desalinhamento",
+                  "EGP": "TR1083KS03",
+                  "observacao": "Desalinhamento ZXS3021B (Troca da chave)",
+                  "perda": -2
+                },
+                {
+                  "causa": "Componentes de comando, proteção e controle",
+                  "falha": "Falha Chave de desalinhamento",
+                  "EGP": "TR1083KS03",
+                  "observacao": "Ajuste da chave de desalinhamento ZXS-3011B.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Em função da priorização de formação das pilhas dos sistemas na convencional.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Indisponibilidade de equipamentos de mina",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "PC33 Falha na sirene de ré",
+                  "perda": -2
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Parado para formação de pilha.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Acúmulo de material",
+                  "falha": "Chave de desalinhamento",
+                  "EGP": "TR1083KS02",
+                  "observacao": "TR8302 Atuado chave de emergência. Troca da chave de desalinhamento da cauda.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Aguardando formação de pilha",
+                  "perda": -2
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Disponível sem programação, em função da priorização de formação das pilhas dos sistemas na convencional, em operação com BM11.",
+                  "perda": -2
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Parado para Formação de Pilha.",
+                  "perda": -1
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS11",
+                  "observacao": "Formação de pilha.",
+                  "perda": -1
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Inspeção operacional",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "",
+                  "perda": -1
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Indisp. Equip. Mina - Transporte",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Falta de Operador da PC-33.",
+                  "perda": -1
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS12",
+                  "observacao": "Formação de pilha. Em oportunidade realizada a limpeza com escavadeira de material acumulado no interior da moega.",
+                  "perda": -1
+                },
+                {
+                  "causa": "Parada operacional",
+                  "falha": "Aguardando planejamento",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Não programado em função da falta de equipamento de carga disponível.",
+                  "perda": -1
+                },
+                {
+                  "causa": "Transmis Forca - Transmissao",
+                  "falha": "Transmissao",
+                  "EGP": "PC1014KS31",
+                  "observacao": "PC31 Nível baixo do óleo de transmissão.",
+                  "perda": -1
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "MCAL1080KS13",
+                  "observacao": "Em Formação de pilha.",
+                  "perda": -1
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 32
+                }
+              ]
+            },
+            {
+              "tipo": "taxa",
+              "totalIndicador": 18,
+              "detalhes": [
+                {
+                  "causa": "PLC e Remota",
+                  "falha": "Falha de Comunicação",
+                  "EGP": "MSAL1080KS04",
+                  "observacao": "Perca de interface com o COI, falha de comunicação.",
+                  "perda": -18
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior taxa horária.",
+                  "perda": 36
+                }
+              ]
+            },
+            {
+              "tipo": "DF",
+              "totalIndicador": 80,
+              "detalhes": [
+                {
+                  "causa": "Abanadeira",
+                  "falha": "Quebra/Trinca",
+                  "EGP": "MCBR1080KS13",
+                  "observacao": "Inspeção na abanadeira do britador (aguardando diagnostico).",
+                  "perda": -1
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior disponibilidade física.",
+                  "perda": 81
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

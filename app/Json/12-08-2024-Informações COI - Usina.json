@@ -1,0 +1,610 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/12/2024",
+                    "hora": "1h",
+                    "quantidade": -265,
+                    "justificativa": "Principal Impacto: : EP-151-04: parou com falha no disjuntor do M014 de translação. "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "2h",
+                    "quantidade": -50,
+                    "justificativa": "Principal Impacto: :- TR 133-08/PEN03:parado devido chute obstruído acumulo de material "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "3h",
+                    "quantidade": -1082,
+                    "justificativa": "Principal Impacto: : EP-151-04: parou com falha no disjuntor do M014 de translação. "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "4h",
+                    "quantidade": -1124,
+                    "justificativa": "Principal Impacto: :  TR 133-08/PEN03:parado devido sensor de rasgo atuado "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "5h",
+                    "quantidade": -676,
+                    "justificativa": "Principal Impacto: : PEN02: baixa produtividade  material argiloso "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "6h",
+                    "quantidade": 613,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "7h",
+                    "quantidade": -96,
+                    "justificativa": "Principal Impacto: troca de turno"
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "8h",
+                    "quantidade": -973,
+                    "justificativa": "Principal Impacto: troca de turno"
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "9h",
+                    "quantidade": 2514,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "10h",
+                    "quantidade": 4988,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "11h",
+                    "quantidade": 8791,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "12h",
+                    "quantidade": -944,
+                    "justificativa": "Principal Impacto: : parada BSM03 e 07 devido limpeza no chute do TR121-07."
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "13h",
+                    "quantidade": -1710,
+                    "justificativa": "Principal Impacto: : TR151-06/circuito de estocagem parou devido desalinhamento."
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "14h",
+                    "quantidade": -144,
+                    "justificativa": "Principal Impacto: : TR151-06/circuito de estocagem parou devido desalinhamento."
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "15h",
+                    "quantidade": 1453,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "16h",
+                    "quantidade": 6406,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "17h",
+                    "quantidade": 1208,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "18h",
+                    "quantidade": -559,
+                    "justificativa": "Principal Impacto: : baixa oferta  devido troca de turno mina "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "19h",
+                    "quantidade": -915,
+                    "justificativa": "Principal Impacto: : baixa oferta  devido troca de turno mina "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "20h",
+                    "quantidade": -2913,
+                    "justificativa": "Principal Impacto: : EP-151-04: parou com falha no disjuntor  de translação. "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "21h",
+                    "quantidade": 870,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "22h",
+                    "quantidade": 165,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "23h",
+                    "quantidade": -1695,
+                    "justificativa": "Principal Impacto: : TR 131-25 parada devido sobrecarga de material "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "24h",
+                    "quantidade": -268,
+                    "justificativa": "Principal Impacto: : TR 131-25 parada devido sobrecarga de material "
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/12/2024",
+                    "hora": "1h",
+                    "quantidade": 13,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "2h",
+                    "quantidade": 29,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "3h",
+                    "quantidade": 49,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "4h",
+                    "quantidade": 17,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "5h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "6h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "7h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "8h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "9h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "10h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "11h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "12h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "13h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "14h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "15h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "16h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "17h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "18h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "19h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "20h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "21h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "22h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "23h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "24h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/12/2024",
+                    "hora": "1h",
+                    "quantidade": 1806,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "2h",
+                    "quantidade": 1584,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "3h",
+                    "quantidade": 2170,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "4h",
+                    "quantidade": 1440,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "5h",
+                    "quantidade": 180,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "6h",
+                    "quantidade": -52,
+                    "justificativa": "Principal Impacto: troca de turno"
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "7h",
+                    "quantidade": -695,
+                    "justificativa": "s"
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "8h",
+                    "quantidade": 52,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "9h",
+                    "quantidade": 7,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "10h",
+                    "quantidade": 77,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "11h",
+                    "quantidade": 992,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "12h",
+                    "quantidade": 1033,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "13h",
+                    "quantidade": -200,
+                    "justificativa": "Principal Impacto: revezamento de almoço "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "14h",
+                    "quantidade": 692,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "15h",
+                    "quantidade": -480,
+                    "justificativa": "Principal Impacto: falta de operador"
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "16h",
+                    "quantidade": -1060,
+                    "justificativa": "Principal Impacto: baixa oferta devido priorização da ES0901 para US01 (PULBSM07 finalizado material)."
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "17h",
+                    "quantidade": 261,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "18h",
+                    "quantidade": 511,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "19h",
+                    "quantidade": 896,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "20h",
+                    "quantidade": -288,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 acerto de praça "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "21h",
+                    "quantidade": -848,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 acerto de praça "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "22h",
+                    "quantidade": -760,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 acerto de praça "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "23h",
+                    "quantidade": -1900,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 acerto de praça "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "24h",
+                    "quantidade": -880,
+                    "justificativa": "Principal Impacto:  baixa oferta devido esc 0901 acerto de praça "
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "08/12/2024",
+                    "hora": "1h",
+                    "quantidade": 153,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "2h",
+                    "quantidade": 63,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "3h",
+                    "quantidade": 90,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "4h",
+                    "quantidade": -52,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "5h",
+                    "quantidade": -10,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "6h",
+                    "quantidade": 47,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "7h",
+                    "quantidade": -43,
+                    "justificativa": "Principal Impacto: traca de turno"
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "8h",
+                    "quantidade": 170,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "9h",
+                    "quantidade": 140,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "10h",
+                    "quantidade": 53,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "11h",
+                    "quantidade": 38,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "12h",
+                    "quantidade": 39,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "13h",
+                    "quantidade": 128,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "14h",
+                    "quantidade": 68,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "15h",
+                    "quantidade": -1,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "16h",
+                    "quantidade": 17,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "17h",
+                    "quantidade": 21,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "18h",
+                    "quantidade": -18,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "19h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "20h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "21h",
+                    "quantidade": -142,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "22h",
+                    "quantidade": -126,
+                    "justificativa": "Principal Impacto: :REP05: recompondo pulmão "
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "23h",
+                    "quantidade": 6,
+                    "justificativa": ""
+                },
+                {
+                    "data": "08/12/2024",
+                    "hora": "24h",
+                    "quantidade": 158,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

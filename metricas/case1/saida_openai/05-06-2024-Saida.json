@@ -1,0 +1,26 @@
+{
+  "regiao": "Serra Norte",
+  "usinas": [
+    {
+      "usina": "USINA I",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA II",
+      "comentarios": "Houve uma restrição na classificação devido à DF de britadores, incluindo falha hidráulica no BR 3030-01, MP no BR 3030-03 e troca do motor no BR 3030-05. Além disso, o TR 3011-19/Bloco B ficou parado devido a um vazamento no chute. A BSM05 também sofreu com falta de alimentação devido à DF de retro e moega cheia de material."
+    },
+    {
+      "usina": "USINA III",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA IV",
+      "comentarios": "A REP03/05 enfrentou falta de área de estocagem no pátio M."
+    },
+    {
+      "usina": "USINA V",
+      "comentarios": "Não houveram perdas significativas"
+    }
+  ],
+  "resumo_executivo": "Impacto devido à falha hidráulica em britadores, manutenção preventiva e troca de motor, resultando em uma restrição na classificação. Além disso, houve um vazamento no chute do transportador, causando a parada do bloco B. A falta de alimentação na britagem semi imóvel também contribuiu para a perda, devido à disponibilidade física de retroescavadeiras e moega cheia de material."
+}

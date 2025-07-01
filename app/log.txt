@@ -1,0 +1,4 @@
+2025-06-16 21:32:25,026 - INFO - Upload do log.txt realizado com sucesso.
+2025-06-16 21:32:25,228 - INFO - Upload do log.txt realizado com sucesso.
+2025-06-16 21:32:25,467 - INFO - Upload do log.txt realizado com sucesso.
+2025-06-16 21:32:25,761 - INFO - Upload do log.txt realizado com sucesso.

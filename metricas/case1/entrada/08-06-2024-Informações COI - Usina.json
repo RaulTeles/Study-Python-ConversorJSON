@@ -1,0 +1,68 @@
+{
+    "regiao": "Serra Norte",
+    "total_regiao": -42859,
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": -49415,
+            "eventos": [
+                {
+                    "quantidade": -9849,
+                    "justificativa": "Principal impacto: - TR 117-06/BSM 07: Sensor de rasgo;"
+                },
+                {
+                    "quantidade": -9336,
+                    "justificativa": "Principal impacto: - BSM07: TR 117-07 Cabo exposto;"
+                },
+                {
+                    "quantidade": -8686,
+                    "justificativa": "Principal impacto: - PEN02: Baixa produtividade, perda de blend;"
+                },
+                {
+                    "quantidade": -7334,
+                    "justificativa": "Principal impacto: - EP 149-01/F. Disco: falha na translação, cortado linhas a úmido;"
+                },
+                {
+                    "quantidade": -6370,
+                    "justificativa": "Principal impacto: - BRIT02: Indisponibilidade de LN´s (LN-02, quebra da proteção do cardan, LN´s 07 e 08 restrição na alimentação devido  nível das LN´s 05 e 06 pela preventiva do BR03;"
+                },
+                {
+                    "quantidade": -5510,
+                    "justificativa": "Principal impacto: - BRIT: Recorrentes por limpeza de grelha; BSM07: TR 117-07 Chave de nível alto, bloco no chute;"
+                },
+                {
+                    "quantidade": -4870,
+                    "justificativa": "Principal impacto: - BRIT: Recorrentes por limpeza de grelha; BSM07: TR 117-06 Chave de nível alto, bloco no chute;"
+                },
+                {
+                    "quantidade": -3625,
+                    "justificativa": "Principal impacto: - BRIT: Baixa oferta de ROM, troca de turno;"
+                },
+                {
+                    "quantidade": -2244,
+                    "justificativa": "Principal impacto: - Estocagem: TR 151-04 Desalinhamento da correia;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 100,
+            "eventos": []
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 100,
+            "eventos": []
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 100,
+            "eventos": []
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 100,
+            "eventos": []
+        }
+    ]
+}

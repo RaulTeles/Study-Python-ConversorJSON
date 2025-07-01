@@ -1,0 +1,26 @@
+{
+  "regiao": "Serra Norte",
+  "usinas": [
+    {
+      "usina": "USINA I",
+      "comentarios": "Não houveram perdas significativas."
+    },
+    {
+      "usina": "USINA II",
+      "comentarios": "Houve uma série de eventos significativos que impactaram a produção. Notavelmente, houve um rolamento danificado alimentando somente o Bloco B no TR3011-19, atraso na preventiva da BSM5 com falha no sensor de rasgo no TR2030-02 e falha no contactor do BR2010KN01, além de um atraso na manutenção preventiva do TR3011/24 com falha no conversor de profibus."
+    },
+    {
+      "usina": "USINA III",
+      "comentarios": "Diversos fatores contribuíram negativamente para a produção, incluindo baixa oferta da ESC0901 no REP6, baixa oferta de ROM no REP02 e REP06, e manutenção corretiva da ESC0901. Adicionalmente, a baixa oferta e disponibilidade física da PC8109 e do PUL BSM07 também foram fatores críticos."
+    },
+    {
+      "usina": "USINA IV",
+      "comentarios": "Não houveram perdas significativas."
+    },
+    {
+      "usina": "USINA V",
+      "comentarios": "Não houveram perdas significativas."
+    }
+  ],
+  "resumo_executivo": "Impacto devido à manutenção atrasada e falhas mecânicas em várias usinas. A maior perda foi causada por um rolamento danificado que afetou a alimentação de um bloco específico, seguida por um atraso na manutenção preventiva e falha em sensores e contactores em outra usina. Outra perda significativa ocorreu devido a um atraso de manutenção e falha no conversor de um transportador."
+}

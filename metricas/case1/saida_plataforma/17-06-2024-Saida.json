@@ -1,0 +1,26 @@
+{
+  "regiao": "Serra Norte",
+  "usinas": [
+    {
+      "usina": "USINA I",
+      "comentarios": "Parado todo circuito devido a falha de comunicação causada por pico de energia, com atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão. Baixa DF de linhas no PEN 2 a partir da meia-noite, afetando LN2/PN 131-02, LN6/PN 131-59, LN8/PN 131-62, e LN13/PN 131-13. BSM-02 parada devido sucata orgânica na PN-113-02."
+    },
+    {
+      "usina": "USINA II",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA III",
+      "comentarios": "Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva. Parado todo circuito devido a falha de comunicação causada por pico de energia, com atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão. Baixa produtividade no REP-02 e 06 devido ao material do PUL-625 e DF da ESC-0901."
+    },
+    {
+      "usina": "USINA IV",
+      "comentarios": "Não houveram perdas significativas"
+    },
+    {
+      "usina": "USINA V",
+      "comentarios": "Não houveram perdas significativas"
+    }
+  ],
+  "resumo_executivo": "Impacto devido à falha de comunicação causada por um pico de energia, resultando na parada total do circuito da US-01 e oscilação de tensão. Além disso, houve baixa disponibilidade de linhas no Peneiramento Secundário e a Britagem Semi Imóvel foi afetada por sucata orgânica."
+}

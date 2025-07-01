@@ -1,0 +1,210 @@
+{
+  "tipo": "PRODUÇÃO",
+  "sistemas": [
+    {
+      "sistema": "Usinas",
+      "totalSistema": 376,
+      "equipamentos": [
+        {
+          "equipamento": "Equipamentos agrupados",
+          "totalEquipamento": 376,
+          "indicadores": [
+            {
+              "tipo": "DF",
+              "totalIndicador": -247,
+              "detalhes": [
+                {
+                  "causa": "Redutor",
+                  "falha": "Desalinhamento",
+                  "EGP": "TR2020KS14",
+                  "observacao": "",
+                  "perda": -27
+                },
+                {
+                  "causa": "Motor Elétrico",
+                  "falha": "Falha do motor eletrico",
+                  "EGP": "TR2091KS04",
+                  "observacao": "Trip no M01",
+                  "perda": -21
+                },
+                {
+                  "causa": "Correia do Transportador",
+                  "falha": "Desalinhamento",
+                  "EGP": "TR2020KS13",
+                  "observacao": "Atuado detector de rasgo TR2020KS13, XS_0153 (Atuação do sensor devido desalinhamento da correia/Realizado ajuste da defletora e normalizado condição do sensor de rasgo).",
+                  "perda": -17
+                },
+                {
+                  "causa": "Acoplamento Mecânico",
+                  "falha": "Quebra",
+                  "EGP": "TR2020KS14",
+                  "observacao": "Quebra do acoplamento TR2020KS14, M3.",
+                  "perda": -17
+                },
+                {
+                  "causa": "Tambor de Acionamento",
+                  "falha": "Revestimento solto",
+                  "EGP": "TR2020KS13",
+                  "observacao": "Mecânica atuou em conjunto na inspeção do redutor (vibração)",
+                  "perda": -16
+                },
+                {
+                  "causa": "Sistema Locomoção",
+                  "falha": "Freio - Defeito ou Falha",
+                  "EGP": "TR2020KS14",
+                  "observacao": "Falha na translação",
+                  "perda": -15
+                },
+                {
+                  "causa": "Rolete de Retorno",
+                  "falha": "Travamento",
+                  "EGP": "TR2032KS38",
+                  "observacao": "",
+                  "perda": -13
+                },
+                {
+                  "causa": "Correia do Transportador",
+                  "falha": "Afrouxamento",
+                  "EGP": "TR2091KS04",
+                  "observacao": "Tensionamento da correia.",
+                  "perda": -12
+                },
+                {
+                  "causa": "Correia",
+                  "falha": "Cortando tira de correia",
+                  "EGP": "TR2020KS12",
+                  "observacao": "Nível baixo TR2020KS12 detector de rasgo atuado",
+                  "perda": -10
+                },
+                {
+                  "causa": "Correia do Transportador",
+                  "falha": "Desalinhamento",
+                  "EGP": "TR2032KS32",
+                  "observacao": "",
+                  "perda": -6
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior disponibilidade física.",
+                  "perda": 58
+                }
+              ]
+            },
+            {
+              "tipo": "UF",
+              "totalIndicador": 213,
+              "detalhes": [
+                {
+                  "causa": "Tambor de desvio",
+                  "falha": "Revestimento solto",
+                  "EGP": "TR2011KS09",
+                  "observacao": "TR2011-09 corte do revestimento do Tambor 06 e troca de cavaletes.",
+                  "perda": -71
+                },
+                {
+                  "causa": "Cavalete",
+                  "falha": "Fixação",
+                  "EGP": "TR2011KS09",
+                  "observacao": "Nível baixo (Instalação de cabo de ancoragem nos cavaletes 201 a 203/Vibração devido à descolamento de revestimento do tambor 6).",
+                  "perda": -64
+                },
+                {
+                  "causa": "Rolete de Retorno",
+                  "falha": "Desgaste",
+                  "EGP": "TR2011KS07",
+                  "observacao": "Troca de rolo de retorno",
+                  "perda": -31
+                },
+                {
+                  "causa": "Obstrução",
+                  "falha": "Sucata (metálica, borracha, madeira, etc.)",
+                  "EGP": "BR2012KS04",
+                  "observacao": "Nível baixo (Não britável BR2012KS04).",
+                  "perda": -24
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1085KS01",
+                  "observacao": "",
+                  "perda": -20
+                },
+                {
+                  "causa": "Rolete de Impacto",
+                  "falha": "Fixação",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Troca de rolos",
+                  "perda": -12
+                },
+                {
+                  "causa": "Rolete de Retorno",
+                  "falha": "Desgaste",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Troca de rolos",
+                  "perda": -11
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1085KS01",
+                  "observacao": "Baixa oferta da mina e pátio de regularização zerado",
+                  "perda": -9
+                },
+                {
+                  "causa": "Manutenção Preditiva",
+                  "falha": "Preditiva",
+                  "EGP": "TR1085KS02",
+                  "observacao": "Atendimento CMA ANÁLISE Nº610078",
+                  "perda": -8
+                },
+                {
+                  "causa": "Teste de processo",
+                  "falha": "Coleta de amostra",
+                  "EGP": "TR2020KS13",
+                  "observacao": "Processo (Amostragem Industrial de processo no BR2013KS04).",
+                  "perda": -8
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1085KS02",
+                  "observacao": "Baixa oferta ROM.",
+                  "perda": -3
+                },
+                {
+                  "causa": "Falta de Alimentação",
+                  "falha": "Nível baixo de pilha",
+                  "EGP": "AL1085KS02",
+                  "observacao": "Baixa oferta ROM",
+                  "perda": -2
+                },
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior utilização física.",
+                  "perda": 476
+                }
+              ]
+            },
+            {
+              "tipo": "taxa",
+              "totalIndicador": 410,
+              "detalhes": [
+                {
+                  "causa": "",
+                  "falha": "",
+                  "EGP": "",
+                  "observacao": "Compensação por dias com maior taxa horária.",
+                  "perda": 410
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

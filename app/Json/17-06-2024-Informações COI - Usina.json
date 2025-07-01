@@ -1,0 +1,466 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/17/2024",
+                    "hora": "1h",
+                    "quantidade": -3077,
+                    "justificativa": "Principal Impacto: - PEN 2, baixa DF de linhas a partir de 00h ( LN2/PN 131-02, - LN6/PN 131-59, - LN8/PN 131-62 , - LN13/PN 131-13);"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "2h",
+                    "quantidade": -3651,
+                    "justificativa": "Principal Impacto: - PEN 2, baixa DF de linhas a partir de 00h ( LN2/PN 131-02, - LN6/PN 131-59, - LN8/PN 131-62 , - LN13/PN 131-13);"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "3h",
+                    "quantidade": -3229,
+                    "justificativa": "Principal Impacto: - PEN 2, baixa DF de linhas a partir de 00h ( LN2/PN 131-02, - LN6/PN 131-59, - LN8/PN 131-62 , - LN13/PN 131-13);"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "4h",
+                    "quantidade": -4198,
+                    "justificativa": "Principal Impacto: - PEN 2, baixa DF de linhas a partir de 00h ( LN2/PN 131-02, - LN6/PN 131-59, - LN8/PN 131-62 , - LN13/PN 131-13);"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "5h",
+                    "quantidade": -2278,
+                    "justificativa": "Principal Impacto: - TR 1100-02/BSM 2 e 06, parou com falha de inversor devido temperatura alta na SE 1100-102;"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "6h",
+                    "quantidade": 67,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "7h",
+                    "quantidade": -7834,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "8h",
+                    "quantidade": -9603,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "9h",
+                    "quantidade": -10124,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "10h",
+                    "quantidade": -7350,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "11h",
+                    "quantidade": -1883,
+                    "justificativa": "Principal Impacto: TR 1100-02/BSM 2 e 06, parou com falha de inversor pré-carga ativa"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "12h",
+                    "quantidade": -182,
+                    "justificativa": "Principal Impacto: TR 1100-02/BSM 2 e 06, parou com falha de inversor pré-carga ativa"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "13h",
+                    "quantidade": -1688,
+                    "justificativa": "Principal Impacto: TR 1100-02/BSM 2 e 06, parou com falha de inversor pré-carga ativa"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "14h",
+                    "quantidade": -1608,
+                    "justificativa": "Principal Impacto: BSM-02 parada devido sucata organica na PN-113-02"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "15h",
+                    "quantidade": 472,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "16h",
+                    "quantidade": 48,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "17h",
+                    "quantidade": -3099,
+                    "justificativa": "Principal Impacto: BSM-02 parada devido sucata organica na PN-113-02"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "18h",
+                    "quantidade": -6514,
+                    "justificativa": "Principal Impacto: BSM-02 parada devido sucata organica na PN-113-02"
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/17/2024",
+                    "hora": "1h",
+                    "quantidade": 574,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "2h",
+                    "quantidade": 154,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "3h",
+                    "quantidade": 24,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "4h",
+                    "quantidade": 6,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "5h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "6h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "7h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "8h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "9h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "10h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "11h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "12h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "13h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "14h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "15h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "16h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "17h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "18h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/17/2024",
+                    "hora": "1h",
+                    "quantidade": -840,
+                    "justificativa": "Principal Impacto: - Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva;"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "2h",
+                    "quantidade": -2548,
+                    "justificativa": "Principal Impacto: - Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva;"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "3h",
+                    "quantidade": -1956,
+                    "justificativa": "Principal Impacto: - Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva;"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "4h",
+                    "quantidade": 179,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "5h",
+                    "quantidade": -828,
+                    "justificativa": "Principal Impacto: > Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva. Após recompondo pulmão."
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "6h",
+                    "quantidade": -558,
+                    "justificativa": "Principal Impacto: > Baixa oferta de ROM no EIXO N5 por condições de acesso pós chuva. Após recompondo pulmão."
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "7h",
+                    "quantidade": -1911,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "8h",
+                    "quantidade": -1860,
+                    "justificativa": "Principal Impacto: Parado todo circuito da US-01 devido falha de comunicação proveniente de pico de energia. Tivemos uma saída por atuação de proteção no disjuntor da linha da Usina II, gerando uma oscilação de tensão, em análise prévia do time foi um passará na rede aérea da usina II"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "9h",
+                    "quantidade": 1083,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "10h",
+                    "quantidade": 1532,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "11h",
+                    "quantidade": 220,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "12h",
+                    "quantidade": 72,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "13h",
+                    "quantidade": 94,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "14h",
+                    "quantidade": -17,
+                    "justificativa": "Principal Impacto:"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "15h",
+                    "quantidade": 721,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "16h",
+                    "quantidade": -674,
+                    "justificativa": "Principal Impacto: Baixa produtividade no REP-02 e 06 proveniente do material do PUL-625 e DF da ESC-0901"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "17h",
+                    "quantidade": -248,
+                    "justificativa": "Principal Impacto: Baixa produtividade no REP-02 e 06 proveniente do material do PUL-625 e DF da ESC-0901"
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "18h",
+                    "quantidade": -499,
+                    "justificativa": "Principal Impacto: Baixa produtividade no REP-02 e 06 proveniente do material do PUL-625 e DF da ESC-0901"
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/17/2024",
+                    "hora": "1h",
+                    "quantidade": 386,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "2h",
+                    "quantidade": 414,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "3h",
+                    "quantidade": 328,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "4h",
+                    "quantidade": 30,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "5h",
+                    "quantidade": 149,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "6h",
+                    "quantidade": 185,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "7h",
+                    "quantidade": -158,
+                    "justificativa": "Principal Impacto: PN 152-03/REP 05, vazamento no chute de oversizer "
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "8h",
+                    "quantidade": 76,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "9h",
+                    "quantidade": 346,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "10h",
+                    "quantidade": 377,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "11h",
+                    "quantidade": 373,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "12h",
+                    "quantidade": 182,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "13h",
+                    "quantidade": 231,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "14h",
+                    "quantidade": 300,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "15h",
+                    "quantidade": 136,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "16h",
+                    "quantidade": 250,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "17h",
+                    "quantidade": 244,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/17/2024",
+                    "hora": "18h",
+                    "quantidade": 74,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

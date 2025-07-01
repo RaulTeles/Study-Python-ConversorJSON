@@ -1,0 +1,465 @@
+{
+    "result": {
+        "workflow_execution_title": "Sumarização C1 Resumo Executivo Vale COI",
+        "workflow_execution_code": "CD_WRFL_SUM_C1_RESUMO_EXEC_VALE_COI-WKFE-1",
+        "workflow_execution_id": "a4b8c239-3292-4b5d-b317-21417185c9dc",
+        "start_time": "2024-08-28T16:49:57.418387",
+        "end_time": "2024-08-28T16:50:01.30718",
+        "status": "WF_COMPLETED_SUCCESS",
+        "input_collection": null,
+        "output_collection": {
+            "output_datas": [
+                {
+                    "workflow_step_id": "0d5242bd-f1b1-413c-8016-f45f5a3a65de",
+                    "workflow_step_order": 0,
+                    "workflow_step_output_collection": {
+                        "output": {
+                            "json_data": {
+                                "output_metadata": [
+                                    {
+                                        "prompt_tokens": 1757,
+                                        "completion_tokens": 91,
+                                        "total_tokens": 1848,
+                                        "engine_model": "gpt-4o"
+                                    }
+                                ],
+                                "context_markdown": "{\n    \"resumo_executivo\": \"Impacto devido à manutenção atrasada e falhas mecânicas em várias usinas. A maior perda foi causada por um rolamento danificado que afetou a alimentação de um bloco específico, seguida por um atraso na manutenção preventiva e falha em sensores e contactores em outra usina. Outra perda significativa ocorreu devido a um atraso de manutenção e falha no conversor de um transportador.\"\n}",
+                                "context_id": "IGNORE_CONTEXT"
+                            },
+                            "property_configuration": {
+                                "properties": [
+                                    {
+                                        "name": "output_metadata",
+                                        "type": "array",
+                                        "label_property": null,
+                                        "full_path": "output_metadata",
+                                        "format_property": null,
+                                        "enum": null,
+                                        "required": false,
+                                        "default_value": [],
+                                        "actual_value": null,
+                                        "title": null,
+                                        "description": null,
+                                        "items": {
+                                            "type": "object",
+                                            "properties": [
+                                                {
+                                                    "name": "prompt_tokens",
+                                                    "type": "integer",
+                                                    "label_property": null,
+                                                    "full_path": "prompt_tokens",
+                                                    "format_property": null,
+                                                    "enum": null,
+                                                    "required": false,
+                                                    "default_value": "{{number}}",
+                                                    "actual_value": 1757,
+                                                    "title": null,
+                                                    "description": null,
+                                                    "items": null,
+                                                    "child_properties": null,
+                                                    "parentFullPath": null,
+                                                    "required_on_workflow_start": null,
+                                                    "titles": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Number of tokens in the prompt."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Número de tokens no prompt."
+                                                        }
+                                                    ],
+                                                    "descriptions": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Number of tokens in the prompt."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Número de tokens no prompt."
+                                                        }
+                                                    ],
+                                                    "hints": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Enter the number of tokens in the prompt."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Informe o número de tokens no prompt."
+                                                        }
+                                                    ],
+                                                    "properties": null,
+                                                    "is_valid": null,
+                                                    "error_message": null,
+                                                    "placeholder_pattern": null,
+                                                    "ui_binding_type": "INPUT",
+                                                    "type_resource": "NOT_MAPPED",
+                                                    "visibilities": [
+                                                        "PLAYGROUND",
+                                                        "WORKFLOW",
+                                                        "RESOURCE"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "completion_tokens",
+                                                    "type": "integer",
+                                                    "label_property": null,
+                                                    "full_path": "completion_tokens",
+                                                    "format_property": null,
+                                                    "enum": null,
+                                                    "required": false,
+                                                    "default_value": "{{number}}",
+                                                    "actual_value": 91,
+                                                    "title": null,
+                                                    "description": null,
+                                                    "items": null,
+                                                    "child_properties": null,
+                                                    "parentFullPath": null,
+                                                    "required_on_workflow_start": null,
+                                                    "titles": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Number of tokens in the completion."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Número de tokens na conclusão."
+                                                        }
+                                                    ],
+                                                    "descriptions": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Number of tokens in the completion."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Número de tokens na conclusão."
+                                                        }
+                                                    ],
+                                                    "hints": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Enter the number of tokens in the completion."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Informe o número de tokens na conclusão."
+                                                        }
+                                                    ],
+                                                    "properties": null,
+                                                    "is_valid": null,
+                                                    "error_message": null,
+                                                    "placeholder_pattern": null,
+                                                    "ui_binding_type": "INPUT",
+                                                    "type_resource": "NOT_MAPPED",
+                                                    "visibilities": [
+                                                        "PLAYGROUND",
+                                                        "WORKFLOW",
+                                                        "RESOURCE"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "total_tokens",
+                                                    "type": "integer",
+                                                    "label_property": null,
+                                                    "full_path": "total_tokens",
+                                                    "format_property": null,
+                                                    "enum": null,
+                                                    "required": false,
+                                                    "default_value": "{{number}}",
+                                                    "actual_value": 1848,
+                                                    "title": null,
+                                                    "description": null,
+                                                    "items": null,
+                                                    "child_properties": null,
+                                                    "parentFullPath": null,
+                                                    "required_on_workflow_start": null,
+                                                    "titles": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Total number of tokens."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Número total de tokens."
+                                                        }
+                                                    ],
+                                                    "descriptions": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Total number of tokens."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Número total de tokens."
+                                                        }
+                                                    ],
+                                                    "hints": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Enter the total number of tokens."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Informe o número total de tokens."
+                                                        }
+                                                    ],
+                                                    "properties": null,
+                                                    "is_valid": null,
+                                                    "error_message": null,
+                                                    "placeholder_pattern": null,
+                                                    "ui_binding_type": "INPUT",
+                                                    "type_resource": "NOT_MAPPED",
+                                                    "visibilities": [
+                                                        "PLAYGROUND",
+                                                        "WORKFLOW",
+                                                        "RESOURCE"
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "engine_model",
+                                                    "type": "string",
+                                                    "label_property": null,
+                                                    "full_path": "engine_model",
+                                                    "format_property": null,
+                                                    "enum": null,
+                                                    "required": false,
+                                                    "default_value": "{{text}}",
+                                                    "actual_value": "gpt-4o",
+                                                    "title": null,
+                                                    "description": null,
+                                                    "items": null,
+                                                    "child_properties": null,
+                                                    "parentFullPath": null,
+                                                    "required_on_workflow_start": null,
+                                                    "titles": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Engine model used."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Modelo do motor utilizado."
+                                                        }
+                                                    ],
+                                                    "descriptions": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Engine model used."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Modelo do motor utilizado."
+                                                        }
+                                                    ],
+                                                    "hints": [
+                                                        {
+                                                            "language": "en",
+                                                            "value": "Enter the engine model used."
+                                                        },
+                                                        {
+                                                            "language": "pt-BR",
+                                                            "value": "Informe o modelo do motor utilizado."
+                                                        }
+                                                    ],
+                                                    "properties": null,
+                                                    "is_valid": null,
+                                                    "error_message": null,
+                                                    "placeholder_pattern": null,
+                                                    "ui_binding_type": "INPUT",
+                                                    "type_resource": "NOT_MAPPED",
+                                                    "visibilities": [
+                                                        "PLAYGROUND",
+                                                        "WORKFLOW",
+                                                        "RESOURCE"
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        "child_properties": null,
+                                        "parentFullPath": null,
+                                        "required_on_workflow_start": null,
+                                        "titles": [
+                                            {
+                                                "language": "en",
+                                                "value": "Output object list"
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "Lista de objetos de saída"
+                                            }
+                                        ],
+                                        "descriptions": [
+                                            {
+                                                "language": "en",
+                                                "value": "Output object list"
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "Lista de objetos de saída"
+                                            }
+                                        ],
+                                        "hints": [
+                                            {
+                                                "language": "en",
+                                                "value": "Enter the output object list"
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "Informe a lista de objetos de saída"
+                                            }
+                                        ],
+                                        "properties": null,
+                                        "is_valid": null,
+                                        "error_message": null,
+                                        "placeholder_pattern": null,
+                                        "ui_binding_type": "ARRAY",
+                                        "type_resource": "NOT_MAPPED",
+                                        "visibilities": [
+                                            "PLAYGROUND",
+                                            "WORKFLOW",
+                                            "RESOURCE"
+                                        ]
+                                    },
+                                    {
+                                        "name": "context_markdown",
+                                        "type": "string",
+                                        "label_property": null,
+                                        "full_path": "context_markdown",
+                                        "format_property": null,
+                                        "enum": null,
+                                        "required": false,
+                                        "default_value": "",
+                                        "actual_value": "{\n    \"resumo_executivo\": \"Impacto devido à manutenção atrasada e falhas mecânicas em várias usinas. A maior perda foi causada por um rolamento danificado que afetou a alimentação de um bloco específico, seguida por um atraso na manutenção preventiva e falha em sensores e contactores em outra usina. Outra perda significativa ocorreu devido a um atraso de manutenção e falha no conversor de um transportador.\"\n}",
+                                        "title": null,
+                                        "description": null,
+                                        "items": null,
+                                        "child_properties": null,
+                                        "parentFullPath": null,
+                                        "required_on_workflow_start": null,
+                                        "titles": [
+                                            {
+                                                "language": "en",
+                                                "value": "Context Markdown"
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "Contexto Markdown"
+                                            }
+                                        ],
+                                        "descriptions": [
+                                            {
+                                                "language": "en",
+                                                "value": "Return content in markdown format."
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "Conteúdo de retorno em markdown."
+                                            }
+                                        ],
+                                        "hints": [
+                                            {
+                                                "language": "en",
+                                                "value": "Provide the return content in markdown."
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "Forneça o conteúdo de retorno em markdown."
+                                            }
+                                        ],
+                                        "properties": null,
+                                        "is_valid": null,
+                                        "error_message": null,
+                                        "placeholder_pattern": null,
+                                        "ui_binding_type": "MARKDOWN",
+                                        "type_resource": "NOT_MAPPED",
+                                        "visibilities": [
+                                            "PLAYGROUND",
+                                            "WORKFLOW",
+                                            "RESOURCE"
+                                        ]
+                                    },
+                                    {
+                                        "name": "context_id",
+                                        "type": "string",
+                                        "label_property": null,
+                                        "full_path": "context_id",
+                                        "format_property": null,
+                                        "enum": null,
+                                        "required": false,
+                                        "default_value": "",
+                                        "actual_value": "IGNORE_CONTEXT",
+                                        "title": null,
+                                        "description": null,
+                                        "items": null,
+                                        "child_properties": null,
+                                        "parentFullPath": null,
+                                        "required_on_workflow_start": null,
+                                        "titles": [
+                                            {
+                                                "language": "en",
+                                                "value": "Context ID."
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "ID do contexto."
+                                            }
+                                        ],
+                                        "descriptions": [
+                                            {
+                                                "language": "en",
+                                                "value": "Context ID."
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "ID do contexto."
+                                            }
+                                        ],
+                                        "hints": [
+                                            {
+                                                "language": "en",
+                                                "value": "Enter the context ID."
+                                            },
+                                            {
+                                                "language": "pt-BR",
+                                                "value": "Informe o ID do contexto."
+                                            }
+                                        ],
+                                        "properties": null,
+                                        "is_valid": null,
+                                        "error_message": null,
+                                        "placeholder_pattern": null,
+                                        "ui_binding_type": "TEXT",
+                                        "type_resource": "NOT_MAPPED",
+                                        "visibilities": [
+                                            "WORKFLOW",
+                                            "RESOURCE"
+                                        ]
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "workflow_step_executions": [
+            {
+                "id": "0d5242bd-f1b1-413c-8016-f45f5a3a65de",
+                "order": 0,
+                "status": "WS_COMPLETED_SUCCESS",
+                "start_time": "2024-08-28T16:49:57.418387",
+                "end_time": "2024-08-28T16:50:01.30718",
+                "title": "Sumarização  Resumo Executivo Vale COI"
+            }
+        ],
+        "is_valid": null,
+        "message": null
+    },
+    "targetUrl": null,
+    "success": true,
+    "error": null,
+    "unAuthorizedRequest": false,
+    "__abp": true
+}

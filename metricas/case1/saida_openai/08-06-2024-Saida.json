@@ -1,0 +1,26 @@
+{
+  "regiao": "Serra Norte",
+  "usinas": [
+    {
+      "usina": "USINA I",
+      "comentarios": "A usina enfrentou perdas significativas devido a diversos eventos. As três maiores perdas foram causadas por um sensor de rasgo no TR117-06/BSM07, um cabo exposto no TR117-07/BSM07 e baixa produtividade no PEN02, resultando em perda de blend."
+    },
+    {
+      "usina": "USINA II",
+      "comentarios": "Não houveram perdas significativas."
+    },
+    {
+      "usina": "USINA III",
+      "comentarios": "Não houveram perdas significativas."
+    },
+    {
+      "usina": "USINA IV",
+      "comentarios": "Não houveram perdas significativas."
+    },
+    {
+      "usina": "USINA V",
+      "comentarios": "Não houveram perdas significativas."
+    }
+  ],
+  "resumo_executivo": "Impacto devido à falha em sensores e cabos expostos nas estruturas de transporte, causando interrupções significativas na produção. Adicionalmente, a baixa produtividade no peneiramento secundário e problemas na empilhadeira contribuíram para as perdas. A indisponibilidade de equipamentos na britagem secundária também afetou negativamente a produção."
+}

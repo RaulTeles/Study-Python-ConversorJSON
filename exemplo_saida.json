@@ -1,0 +1,840 @@
+{
+    "buildUp_tecnico": [
+        {
+            "sistema": "S1SS",
+            "equipamentos": [
+                {
+                    "equipamento": "MSAL1080KS04",
+                    "total_equipamento": 642,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": 824,
+                            "detalhes": [
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Mudança de corredor com inversão EC durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Troca de rolete na TR201104 devido a quebra do rolete de carga."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Corte de borda na TR2011KS07 após atuação do rip cord."
+                                },
+                                {
+                                    "saldo": 853,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -113,
+                            "detalhes": [
+                                {
+                                    "saldo": -18,
+                                    "justificativa": "Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04."
+                                },
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": -94,
+                            "detalhes": [
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04."
+                                },
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": 120,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "equipamento": "AL1080KS901",
+                    "total_equipamento": -83,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": -54,
+                            "detalhes": [
+                                {
+                                    "saldo": -29,
+                                    "justificativa": "Nível baixo de pilha devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -504,
+                                    "justificativa": "Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas."
+                                },
+                                {
+                                    "saldo": -163,
+                                    "justificativa": "Formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -41,
+                                    "justificativa": "Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -27,
+                                    "justificativa": "Aguardando formação de pilha durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -19,
+                                    "justificativa": "Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio."
+                                },
+                                {
+                                    "saldo": -6,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -25,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Parado para formação de pilha durante parada operacional no BM1080KS901."
+                                },
+                                {
+                                    "saldo": 847,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -39,
+                            "detalhes": [
+                                {
+                                    "saldo": -23,
+                                    "justificativa": "Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Ajuste no sensor do eletroímã no EX1080KS901."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": 10,
+                            "detalhes": [
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": 10,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sistema": "S2SS",
+            "equipamentos": [
+                {
+                    "equipamento": "MSAL1080KS04",
+                    "total_equipamento": 642,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": 824,
+                            "detalhes": [
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Mudança de corredor com inversão EC durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Troca de rolete na TR201104 devido a quebra do rolete de carga."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Corte de borda na TR2011KS07 após atuação do rip cord."
+                                },
+                                {
+                                    "saldo": 853,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -113,
+                            "detalhes": [
+                                {
+                                    "saldo": -18,
+                                    "justificativa": "Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04."
+                                },
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": -94,
+                            "detalhes": [
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": 120,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "equipamento": "AL1080KS901",
+                    "total_equipamento": -83,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": -54,
+                            "detalhes": [
+                                {
+                                    "saldo": -29,
+                                    "justificativa": "Nível baixo de pilha devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -504,
+                                    "justificativa": "Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas."
+                                },
+                                {
+                                    "saldo": -163,
+                                    "justificativa": "Formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -41,
+                                    "justificativa": "Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -27,
+                                    "justificativa": "Aguardando formação de pilha durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -19,
+                                    "justificativa": "Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio."
+                                },
+                                {
+                                    "saldo": -6,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -25,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Parado para formação de pilha durante parada operacional no BM1080KS901."
+                                },
+                                {
+                                    "saldo": 847,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -39,
+                            "detalhes": [
+                                {
+                                    "saldo": -23,
+                                    "justificativa": "Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Ajuste no sensor do eletroímã no EX1080KS901."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": 10,
+                            "detalhes": [
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": 10,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sistema": "S3SS",
+            "equipamentos": [
+                {
+                    "equipamento": "MSAL1080KS04",
+                    "total_equipamento": 642,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": 824,
+                            "detalhes": [
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Mudança de corredor com inversão EC durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Troca de rolete na TR201104 devido a quebra do rolete de carga."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Corte de borda na TR2011KS07 após atuação do rip cord."
+                                },
+                                {
+                                    "saldo": 853,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -113,
+                            "detalhes": [
+                                {
+                                    "saldo": -18,
+                                    "justificativa": "Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04."
+                                },
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": -94,
+                            "detalhes": [
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04."
+                                },
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": 120,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "equipamento": "AL1080KS901",
+                    "total_equipamento": -83,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": -54,
+                            "detalhes": [
+                                {
+                                    "saldo": -29,
+                                    "justificativa": "Nível baixo de pilha devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -504,
+                                    "justificativa": "Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas."
+                                },
+                                {
+                                    "saldo": -163,
+                                    "justificativa": "Formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -41,
+                                    "justificativa": "Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -27,
+                                    "justificativa": "Aguardando formação de pilha durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -19,
+                                    "justificativa": "Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio."
+                                },
+                                {
+                                    "saldo": -6,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -25,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Parado para formação de pilha durante parada operacional no BM1080KS901."
+                                },
+                                {
+                                    "saldo": 847,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -39,
+                            "detalhes": [
+                                {
+                                    "saldo": -23,
+                                    "justificativa": "Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Ajuste no sensor do eletroímã no EX1080KS901."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": 10,
+                            "detalhes": [
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": 10,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sistema": "S4SS",
+            "equipamentos": [
+                {
+                    "equipamento": "MSAL1080KS04",
+                    "total_equipamento": 642,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": 824,
+                            "detalhes": [
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Mudança de corredor com inversão EC durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Troca de rolete na TR201104 devido a quebra do rolete de carga."
+                                },
+                                {
+                                    "saldo": -7,
+                                    "justificativa": "Corte de borda na TR2011KS07 após atuação do rip cord."
+                                },
+                                {
+                                    "saldo": 853,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -113,
+                            "detalhes": [
+                                {
+                                    "saldo": -18,
+                                    "justificativa": "Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04."
+                                },
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": -94,
+                            "detalhes": [
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04."
+                                },
+                                {
+                                    "saldo": -10,
+                                    "justificativa": "Troca de bateria LCT devido a falha no freio da elevação da EC53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04."
+                                },
+                                {
+                                    "saldo": 120,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "equipamento": "AL1080KS901",
+                    "total_equipamento": -83,
+                    "categorias": [
+                        {
+                            "tipo": "UF",
+                            "total_categoria": -54,
+                            "detalhes": [
+                                {
+                                    "saldo": -29,
+                                    "justificativa": "Nível baixo de pilha devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -11,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -504,
+                                    "justificativa": "Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas."
+                                },
+                                {
+                                    "saldo": -163,
+                                    "justificativa": "Formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -41,
+                                    "justificativa": "Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -27,
+                                    "justificativa": "Aguardando formação de pilha durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -19,
+                                    "justificativa": "Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio."
+                                },
+                                {
+                                    "saldo": -6,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -25,
+                                    "justificativa": "Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -16,
+                                    "justificativa": "Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -12,
+                                    "justificativa": "Limite de capacidade circ. posterior durante parada operacional no AL1080KS901."
+                                },
+                                {
+                                    "saldo": -8,
+                                    "justificativa": "Parado para formação de pilha durante parada operacional no BM1080KS901."
+                                },
+                                {
+                                    "saldo": 847,
+                                    "justificativa": "Compensação por dias com maior utilização física."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "DF",
+                            "total_categoria": -39,
+                            "detalhes": [
+                                {
+                                    "saldo": -23,
+                                    "justificativa": "Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901."
+                                },
+                                {
+                                    "saldo": -14,
+                                    "justificativa": "Ajuste no sensor do eletroímã no EX1080KS901."
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "taxa",
+                            "total_categoria": 10,
+                            "detalhes": [
+                                {
+                                    "saldo": -20,
+                                    "justificativa": "Acerto de praça devido a falta de alimentação no AL1080KS901."
+                                },
+                                {
+                                    "saldo": 10,
+                                    "justificativa": "Compensação por dias com maior taxa horária."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "buildUp_Semanal": [
+        {
+            "sistema": "S1SS",
+            "buildUp": "**+711Kt MSAL1080KS04**\n- **+824Kt Utilização Física**\n\t- **-7Kt** Mudança de corredor com inversão EC durante parada operacional no BM1080KS04.\n\t- **-8Kt** Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04.\n\t- **-7Kt** Troca de rolete na TR201104 devido a quebra do rolete de carga.\n\t- **-7Kt** Corte de borda na TR2011KS07 após atuação do rip cord.\n\t- **+853Kt** Compensação por dias com maior utilização física.\n- **-113Kt Disponibilidade Física**\n\t- **-18Kt** Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04.\n\t- **-16Kt** Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13.\n\t- **-14Kt** Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **-11Kt** Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04.\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n- **-94Kt Taxa Horária**\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **+120Kt** Compensação por dias com maior taxa horária.\n\n**-93Kt AL1080KS901**\n- **-54Kt Utilização Física**\n\t- **-29Kt** Nível baixo de pilha devido a falta de alimentação no AL1080KS901.\n\t- **-11Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901.\n\t- **-504Kt** Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas.\n\t- **-163Kt** Formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-41Kt** Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-27Kt** Aguardando formação de pilha durante parada operacional no AL1080KS901.\n\t- **-20Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-19Kt** Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio.\n\t- **-6Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **-25Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-16Kt** Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02.\n\t- **-12Kt** Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901.\n\t- **-12Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Parado para formação de pilha durante parada operacional no BM1080KS901.\n\t- **+847Kt** Compensação por dias com maior utilização física.\n- **-39Kt Disponibilidade Física**\n\t- **-23Kt** Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901.\n\t- **-14Kt** Ajuste no sensor do eletroímã no EX1080KS901.\n- **+10Kt Taxa Horária**\n\t- **-20Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **+10Kt** Compensação por dias com maior taxa horária."
+        },
+        {
+            "sistema": "S2SS",
+            "buildUp": "**+711Kt MSAL1080KS04**\n- **+824Kt Utilização Física**\n\t- **-7Kt** Mudança de corredor com inversão EC durante parada operacional no BM1080KS04.\n\t- **-8Kt** Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04.\n\t- **-7Kt** Troca de rolete na TR201104 devido a quebra do rolete de carga.\n\t- **-7Kt** Corte de borda na TR2011KS07 após atuação do rip cord.\n\t- **+853Kt** Compensação por dias com maior utilização física.\n- **-113Kt Disponibilidade Física**\n\t- **-18Kt** Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04.\n\t- **-16Kt** Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13.\n\t- **-14Kt** Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **-11Kt** Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04.\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n- **-94Kt Taxa Horária**\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **+120Kt** Compensação por dias com maior taxa horária.\n\n**-93Kt AL1080KS901**\n- **-54Kt Utilização Física**\n\t- **-29Kt** Nível baixo de pilha devido a falta de alimentação no AL1080KS901.\n\t- **-11Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901.\n\t- **-504Kt** Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas.\n\t- **-163Kt** Formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-41Kt** Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-27Kt** Aguardando formação de pilha durante parada operacional no AL1080KS901.\n\t- **-20Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-19Kt** Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio.\n\t- **-6Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **-25Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-16Kt** Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02.\n\t- **-12Kt** Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901.\n\t- **-12Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Parado para formação de pilha durante parada operacional no BM1080KS901.\n\t- **+847Kt** Compensação por dias com maior utilização física.\n- **-39Kt Disponibilidade Física**\n\t- **-23Kt** Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901.\n\t- **-14Kt** Ajuste no sensor do eletroímã no EX1080KS901.\n- **+10Kt Taxa Horária**\n\t- **-20Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **+10Kt** Compensação por dias com maior taxa horária."
+        },
+        {
+            "sistema": "S3SS",
+            "buildUp": "**+711Kt MSAL1080KS04**\n- **+824Kt Utilização Física**\n\t- **-7Kt** Mudança de corredor com inversão EC durante parada operacional no BM1080KS04.\n\t- **-8Kt** Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04.\n\t- **-7Kt** Troca de rolete na TR201104 devido a quebra do rolete de carga.\n\t- **-7Kt** Corte de borda na TR2011KS07 após atuação do rip cord.\n\t- **+853Kt** Compensação por dias com maior utilização física.\n- **-113Kt Disponibilidade Física**\n\t- **-18Kt** Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04.\n\t- **-16Kt** Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13.\n\t- **-14Kt** Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **-11Kt** Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04.\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n- **-94Kt Taxa Horária**\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **+120Kt** Compensação por dias com maior taxa horária.\n\n**-93Kt AL1080KS901**\n- **-54Kt Utilização Física**\n\t- **-29Kt** Nível baixo de pilha devido a falta de alimentação no AL1080KS901.\n\t- **-11Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901.\n\t- **-504Kt** Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas.\n\t- **-163Kt** Formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-41Kt** Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-27Kt** Aguardando formação de pilha durante parada operacional no AL1080KS901.\n\t- **-20Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-19Kt** Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio.\n\t- **-6Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **-25Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-16Kt** Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02.\n\t- **-12Kt** Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901.\n\t- **-12Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Parado para formação de pilha durante parada operacional no BM1080KS901.\n\t- **+847Kt** Compensação por dias com maior utilização física.\n- **-39Kt Disponibilidade Física**\n\t- **-23Kt** Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901.\n\t- **-14Kt** Ajuste no sensor do eletroímã no EX1080KS901.\n- **+10Kt Taxa Horária**\n\t- **-20Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **+10Kt** Compensação por dias com maior taxa horária."
+        },
+        {
+            "sistema": "S4SS",
+            "buildUp": "**+711Kt MSAL1080KS04**\n- **+824Kt Utilização Física**\n\t- **-7Kt** Mudança de corredor com inversão EC durante parada operacional no BM1080KS04.\n\t- **-8Kt** Locomoção e reposicionamento pós manutenção durante parada operacional no BM1080KS04.\n\t- **-7Kt** Troca de rolete na TR201104 devido a quebra do rolete de carga.\n\t- **-7Kt** Corte de borda na TR2011KS07 após atuação do rip cord.\n\t- **+853Kt** Compensação por dias com maior utilização física.\n- **-113Kt Disponibilidade Física**\n\t- **-18Kt** Perda de interface com o COI devido a falha de comunicação no PLC e Remota do MSAL1080KS04.\n\t- **-16Kt** Falha de comunicação nos ativos de rede, incluindo falha no extrator de metais no TR1082KS02 e sensor de velocidade na TR1081KS13.\n\t- **-14Kt** Reposicionamento do sensor de sub velocidade no alimentador SE1001-1002 devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **-11Kt** Reposição de cavalete durante manutenção corretiva na mesa de impacto lança descarga BM04.\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n- **-94Kt Taxa Horária**\n\t- **-10Kt** Troca de bateria LCT devido a falha no freio da elevação da EC53.\n\t- **-8Kt** Ajuste no pino da mola do freio devido a falha no freio da elevação da EC1013KS53.\n\t- **-8Kt** Ajuste e limpeza no sensor de sub velocidade SE1001,1002 no alimentador devido a falha no sensor de velocidade no MSAL1080KS04.\n\t- **+120Kt** Compensação por dias com maior taxa horária.\n\n**-93Kt AL1080KS901**\n- **-54Kt Utilização Física**\n\t- **-29Kt** Nível baixo de pilha devido a falta de alimentação no AL1080KS901.\n\t- **-11Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Revezamento e refeição do operador devido a falta de mão de obra no AL1080KS901.\n\t- **-504Kt** Aguardando planejamento durante parada operacional no AL1080KS901 para priorização da recomposição das pilhas dos sistemas.\n\t- **-163Kt** Formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-41Kt** Parado para formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-27Kt** Aguardando formação de pilha durante parada operacional no AL1080KS901.\n\t- **-20Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-19Kt** Corretiva programada no TR2011KS09 devido a revestimento solto no tambor de desvio.\n\t- **-6Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **-25Kt** Aguardando formação de pilha devido a nível baixo de pilha no AL1080KS901.\n\t- **-16Kt** Atendimento CMA ANÁLISE Nº610078 durante manutenção preditiva no TR1085KS02.\n\t- **-12Kt** Vazamento de óleo na transmissão e rompimento da mangueira hidráulica no PC31 devido a indisponibilidade de equipamentos de mina no AL1080KS901.\n\t- **-12Kt** Limite de capacidade circ. posterior durante parada operacional no AL1080KS901.\n\t- **-8Kt** Parado para formação de pilha durante parada operacional no BM1080KS901.\n\t- **+847Kt** Compensação por dias com maior utilização física.\n- **-39Kt Disponibilidade Física**\n\t- **-23Kt** Troca de cabo do Feedback YS1080KS9003 devido a falha de contator trip no EX901.\n\t- **-14Kt** Ajuste no sensor do eletroímã no EX1080KS901.\n- **+10Kt Taxa Horária**\n\t- **-20Kt** Acerto de praça devido a falta de alimentação no AL1080KS901.\n\t- **+10Kt** Compensação por dias com maior taxa horária."
+        }
+    ],
+    "resumo_executivo": [
+        {
+            "sistema": "S3SS",
+            "resumo": "**-253Kt** Despriorização do SLM-902 em função do nível baixo de pilha dos sistemas oriundo do backlog dos meses anteriores (impacto compensado pela melhor performance dos sistemas 1, 2 e 4)."
+        }
+    ]
+}

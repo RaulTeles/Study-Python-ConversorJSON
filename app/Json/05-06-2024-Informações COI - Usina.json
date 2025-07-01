@@ -1,0 +1,610 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/05/2024",
+                    "hora": "1h",
+                    "quantidade": -1949,
+                    "justificativa": "Principal impacto: - TR 149-02/ F.Disco: falha no sensor de velociadade, TR 151-23/F. Prensa: Rolamento do tambor danificado;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "2h",
+                    "quantidade": 621,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "3h",
+                    "quantidade": 1814,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "4h",
+                    "quantidade": -2818,
+                    "justificativa": "Principal impacto: - TR 117-07/BSM07: Sensor de rasgo, rompeu o Nylon do Rip Cord (Identificado borda);"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "5h",
+                    "quantidade": -3423,
+                    "justificativa": "Principal impacto: PN II, baixa produtividade devido material úmido e argiloso, operando com taxas mínimas (ESC0903);"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "6h",
+                    "quantidade": -1502,
+                    "justificativa": "Principal impacto: PN II, baixa produtividade devido material úmido e argiloso, operando com taxas mínimas (ESC0903);"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "7h",
+                    "quantidade": -1417,
+                    "justificativa": "Principal impacto: PN II, baixa produtividade devido material úmido e argiloso, operando com taxas mínimas (ESC0903);"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "8h",
+                    "quantidade": -1637,
+                    "justificativa": "Principal impacto: PN II, baixa produtividade devido material úmido e argiloso, operando com taxas mínimas (ESC0903);"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "9h",
+                    "quantidade": -1212,
+                    "justificativa": "Principal impacto: PN II, baixa produtividade devido material úmido e argiloso, operando com taxas mínimas (ESC0903);"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "10h",
+                    "quantidade": 474,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "11h",
+                    "quantidade": 720,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "12h",
+                    "quantidade": 1167,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "13h",
+                    "quantidade": -96,
+                    "justificativa": "Principal impacto: PN II, baixa produtividade devido material úmido e argiloso, perda de blend da BSM07 por limpeza de grelha."
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "14h",
+                    "quantidade": 5017,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "15h",
+                    "quantidade": 3517,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "16h",
+                    "quantidade": 4077,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "17h",
+                    "quantidade": 1657,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "18h",
+                    "quantidade": 3224,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "19h",
+                    "quantidade": 3327,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "20h",
+                    "quantidade": 790,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "21h",
+                    "quantidade": 1061,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "22h",
+                    "quantidade": 1198,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "23h",
+                    "quantidade": 1579,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "24h",
+                    "quantidade": -569,
+                    "justificativa": "Principal impacto:  TR 151-25 desalinhamento da correia "
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/05/2024",
+                    "hora": "1h",
+                    "quantidade": -2889,
+                    "justificativa": "Principal impacto: - Descontaminação da classificação que está produzindo FASN, No D veio programado SFLS;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "2h",
+                    "quantidade": -2402,
+                    "justificativa": "Principal impacto: - Descontaminação da classificação que está produzindo FASN, no D veio programado SFLS;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "3h",
+                    "quantidade": -3994,
+                    "justificativa": "Principal impacto: - Descontaminação da classificação que está produzindo FASN, no D veio programado SFLS;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "4h",
+                    "quantidade": -3770,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "5h",
+                    "quantidade": -456,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "6h",
+                    "quantidade": -2151,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "7h",
+                    "quantidade": -2696,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "8h",
+                    "quantidade": -2984,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "9h",
+                    "quantidade": -1755,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "10h",
+                    "quantidade": -2751,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "11h",
+                    "quantidade": -2328,
+                    "justificativa": "Principal impacto: - Restrição na classificação devido, DF de britadores, BR 3030-01: Falha hidráulica, BR 3030-03: Manutenção Preventiva, BR 3030-05: Troca do motor;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "12h",
+                    "quantidade": -1260,
+                    "justificativa": "Principal impacto: BSM05: falta de alimentação devido DF de retro e moega cheia de material;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "13h",
+                    "quantidade": -2262,
+                    "justificativa": "Principal impacto: BSM05: falta de alimentação devido DF de retro e moega cheia de material;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "14h",
+                    "quantidade": -3178,
+                    "justificativa": "Principal impacto: BSM05: falta de alimentação devido DF de retro e moega cheia de material;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "15h",
+                    "quantidade": -3463,
+                    "justificativa": "Principal impacto: BSM05: falta de alimentação devido DF de retro e moega cheia de material;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "16h",
+                    "quantidade": 2791,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "17h",
+                    "quantidade": 345,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "18h",
+                    "quantidade": -1841,
+                    "justificativa": "Principal impacto: TR 3011-19/Bloco B parado devido vazamento no chute"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "19h",
+                    "quantidade": -3758,
+                    "justificativa": "Principal impacto: TR 3011-19/Bloco B parado devido vazamento no chute"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "20h",
+                    "quantidade": -2333,
+                    "justificativa": "Principal impacto: TR 3011-19/Bloco B parado devido vazamento no chute"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "21h",
+                    "quantidade": -2039,
+                    "justificativa": "Principal impacto: TR 3011-19/Bloco B parado devido vazamento no chute"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "22h",
+                    "quantidade": -1154,
+                    "justificativa": "Principal impacto: TR 3011-19/Bloco B parado devido vazamento no chute"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "23h",
+                    "quantidade": -2273,
+                    "justificativa": "Principal impacto:  Classificação baixa produtividade  DF de britadores, "
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "24h",
+                    "quantidade": -2140,
+                    "justificativa": "Principal impacto:  Classificação baixa produtividade  DF de britadores, "
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/05/2024",
+                    "hora": "1h",
+                    "quantidade": -31,
+                    "justificativa": "Principal impacto: - REP06: material granulado da ESC 0901 ocasionando limpeza de grelha;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "2h",
+                    "quantidade": -551,
+                    "justificativa": "Principal impacto: - REP06: material granulado da ESC 0901 ocasionando limpeza de grelha;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "3h",
+                    "quantidade": -520,
+                    "justificativa": "Principal impacto: - REP02,06: material granulado da ESC 0901 ocasionando limpeza de grelha;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "4h",
+                    "quantidade": 159,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "5h",
+                    "quantidade": -231,
+                    "justificativa": "Principal impacto: - REP06: material granulado da ESC 0901 ocasionando limpeza de grelha;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "6h",
+                    "quantidade": -908,
+                    "justificativa": "Principal impacto: - REP02: material granulado da ESC 0901 ocasionando limpeza de grelha; TR 1230-73/REP06: desalinhamento;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "7h",
+                    "quantidade": -1600,
+                    "justificativa": "Principal impacto: - REP02 e 06: troca de turno;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "8h",
+                    "quantidade": -962,
+                    "justificativa": "Principal impacto: - REP02 e 06: troca de turno;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "9h",
+                    "quantidade": -1012,
+                    "justificativa": "Principal impacto: - REP06: limpeza de tela e DF a LN 26 (tela) / Desc de fino: AL 135-02 desalinhamento;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "10h",
+                    "quantidade": 997,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "11h",
+                    "quantidade": 845,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "12h",
+                    "quantidade": 1055,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "13h",
+                    "quantidade": -1119,
+                    "justificativa": "Principal impacto: Desc de fino: TR 135-04,  nível alto no chute;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "14h",
+                    "quantidade": 163,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "15h",
+                    "quantidade": 2600,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "16h",
+                    "quantidade": 1760,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "17h",
+                    "quantidade": 1576,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "18h",
+                    "quantidade": 1071,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "19h",
+                    "quantidade": 146,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "20h",
+                    "quantidade": 766,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "21h",
+                    "quantidade": 814,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "22h",
+                    "quantidade": 632,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "23h",
+                    "quantidade": 1,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "24h",
+                    "quantidade": -96,
+                    "justificativa": "Principal impacto:  TR 151-25 desalinhamento da correia "
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/05/2024",
+                    "hora": "1h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "2h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "3h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "4h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "5h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "6h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "7h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "8h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "9h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "10h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "11h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "12h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "13h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "14h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "15h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "16h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "17h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "18h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "19h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "20h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "21h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "22h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "23h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                },
+                {
+                    "data": "06/05/2024",
+                    "hora": "24h",
+                    "quantidade": -158,
+                    "justificativa": "Principal impacto: - REP03/05: Falta de área de estocagem no pátio M;"
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}

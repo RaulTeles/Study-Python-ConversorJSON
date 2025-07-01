@@ -1,0 +1,466 @@
+{
+    "regiao": "Serra Norte",
+    "usinas": [
+        {
+            "usina": "USINA I",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/18/2024",
+                    "hora": "1h",
+                    "quantidade": 5153,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "2h",
+                    "quantidade": 2940,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "3h",
+                    "quantidade": 1763,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "4h",
+                    "quantidade": 2272,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "5h",
+                    "quantidade": 9984,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "6h",
+                    "quantidade": 4794,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "7h",
+                    "quantidade": 1069,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "h",
+                    "quantidade": -1086,
+                    "justificativa": "Principal Impacto: Baixa oferta no Eixo N5 devido ESC 1002 acerto de praça e DF da pá do PUL-BSM03"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "9h",
+                    "quantidade": -390,
+                    "justificativa": "Principal Impacto: Baixa oferta no Eixo N5 devido ESC 1002 acerto de praça e DF da pá do PUL-BSM03"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "10h",
+                    "quantidade": -906,
+                    "justificativa": "Principal Impacto:  BSM-07 parada para retirada de sucata metalica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "11h",
+                    "quantidade": -1661,
+                    "justificativa": "Principal Impacto:  BSM-07 parada para retirada de sucata metalica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "12h",
+                    "quantidade": -1719,
+                    "justificativa": "Principal Impacto:  BSM-07 parada para retirada de sucata metalica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "13h",
+                    "quantidade": -4556,
+                    "justificativa": "Principal Impacto:  BSM-07 parada para retirada de sucata metalica/ Brit DF da ESC1002."
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "14h",
+                    "quantidade": -5980,
+                    "justificativa": "Principal Impacto:  BSM-07 parada para retirada de sucata metalica/ Brit DF da ESC1002."
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "15h",
+                    "quantidade": -5173,
+                    "justificativa": "Principal Impacto:  TR 131-22/3°LN B paradas recorrentes por falha no freio/ e baixa produtividade da BR-02 devido material argiloso PUL-625"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "16h",
+                    "quantidade": -2451,
+                    "justificativa": "Principal Impacto:  TR 131-22/3°LN B paradas recorrentes por falha no freio/ e baixa produtividade da BR-02 devido material argiloso PUL-625"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "17h",
+                    "quantidade": -3819,
+                    "justificativa": "Principal Impacto: Baixa produtividade da BR-02 e PEN-02 devido material argiloso PUL-625"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "18h",
+                    "quantidade": -9071,
+                    "justificativa": "Principal Impacto: Baixa produtividade da BR-02 e PEN-02 devido material argiloso PUL-625"
+                }
+            ]
+        },
+        {
+            "usina": "USINA II",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/18/2024",
+                    "hora": "1h",
+                    "quantidade": -3480,
+                    "justificativa": "Principal Impacto: TR 3011-04/Classificação: parada devido falha de comunicação no cubículo M2"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "2h",
+                    "quantidade": -1051,
+                    "justificativa": "Principal Impacto: TR 3011-04/Classificação: parada devido falha de comunicação no cubículo M2"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "3h",
+                    "quantidade": -3779,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "4h",
+                    "quantidade": -4889,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "5h",
+                    "quantidade": -4522,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "6h",
+                    "quantidade": -3194,
+                    "justificativa": "Principal Impacto: Baixa oferta da mina  N4WS-490-CV4-W-A e N4WS-580-CV2-W-A estéril"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "7h",
+                    "quantidade": -1812,
+                    "justificativa": "Principal Impacto: Baixa produtividade na BR-03/US-02 DF de britadores."
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "8h",
+                    "quantidade": -599,
+                    "justificativa": "Principal Impacto: Baixa produtividade na BR-03/US-02 DF de britadores."
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "9h",
+                    "quantidade": -1869,
+                    "justificativa": "Principal Impacto: Baixa produtividade na BR-03/US-02 DF de britadores."
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "10h",
+                    "quantidade": 159,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "11h",
+                    "quantidade": -1253,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo na unidade hidraulica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "12h",
+                    "quantidade": -4615,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo na unidade hidraulica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "13h",
+                    "quantidade": -3326,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo na unidade hidraulica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "14h",
+                    "quantidade": -3424,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo na unidade hidraulica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "15h",
+                    "quantidade": -2311,
+                    "justificativa": "Principal Impacto:  TR 2030-04/Circ  BSM05: falha de freio vazamento de óleo na unidade hidraulica"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "16h",
+                    "quantidade": -514,
+                    "justificativa": "Principal Impacto:  TR 3011-18/Class US-02 Parada devido detector de metal e DF de linha no bloco B"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "17h",
+                    "quantidade": -2271,
+                    "justificativa": "Principal Impacto:  TR 3011-18/Class US-02 Parada devido detector de metal e DF de linha no bloco B"
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "18h",
+                    "quantidade": -4941,
+                    "justificativa": "Principal Impacto:  "
+                }
+            ]
+        },
+        {
+            "usina": "USINA III",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/18/2024",
+                    "hora": "1h",
+                    "quantidade": -797,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "2h",
+                    "quantidade": -2434,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "3h",
+                    "quantidade": -2315,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "4h",
+                    "quantidade": -2185,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "5h",
+                    "quantidade": -2332,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "6h",
+                    "quantidade": -1712,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "7h",
+                    "quantidade": -2794,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "8h",
+                    "quantidade": -1705,
+                    "justificativa": "Principal Impacto:  Baixa produtividade no REP-02 e 06 proveniente do material Esc 1002 "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "9h",
+                    "quantidade": 1720,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "10h",
+                    "quantidade": 60,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "11h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "12h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "13h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "14h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "15h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "16h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "17h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "18h",
+                    "quantidade": 0,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA IV",
+            "total_produzido": 0,
+            "eventos": [
+                {
+                    "data": "06/18/2024",
+                    "hora": "1h",
+                    "quantidade": -7,
+                    "justificativa": "Principal Impacto:  REP05: parado devido mataco ( liberado ) "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "2h",
+                    "quantidade": -28,
+                    "justificativa": "Principal Impacto:  REP05: parado devido mataco ( liberado ) "
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "3h",
+                    "quantidade": 24,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "4h",
+                    "quantidade": 69,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "5h",
+                    "quantidade": 41,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "6h",
+                    "quantidade": 120,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "7h",
+                    "quantidade": -15,
+                    "justificativa": "Principal impacto: Troca de Turno."
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "8h",
+                    "quantidade": 48,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "9h",
+                    "quantidade": 40,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "10h",
+                    "quantidade": 15,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "11h",
+                    "quantidade": 1,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "12h",
+                    "quantidade": 86,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "13h",
+                    "quantidade": 92,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "14h",
+                    "quantidade": 93,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "15h",
+                    "quantidade": 112,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "16h",
+                    "quantidade": 130,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "17h",
+                    "quantidade": 122,
+                    "justificativa": ""
+                },
+                {
+                    "data": "06/18/2024",
+                    "hora": "18h",
+                    "quantidade": -42,
+                    "justificativa": ""
+                }
+            ]
+        },
+        {
+            "usina": "USINA V",
+            "total_produzido": 0,
+            "eventos": []
+        }
+    ]
+}
